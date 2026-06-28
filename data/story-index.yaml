@@ -1,0 +1,14 @@
+stories: []
+
+# Append one entry per generated story, for example:
+# - story_id: STORY-0170
+#   lesson_number: 170
+#   date: "2026-06-19"
+#   title: "The Room Without Teeth"
+#   character_id: CHAR-003
+#   style_id: STYLE-012
+#   story_mode: healing_shift
+#   arc_temperature: 4
+#   summary: "One original sentence summarizing the story."
+#   daily_path: content/daily/lesson-170.md
+#   packet_path: content/packets/lesson-170.yaml
