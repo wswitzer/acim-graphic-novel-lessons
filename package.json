@@ -1,0 +1,8 @@
+{
+  "name": "acim-graphic-novel-lessons",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate-continuity.mjs"
+  }
+}
