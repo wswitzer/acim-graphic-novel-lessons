@@ -1,0 +1,79 @@
+arc_rules:
+  project_start:
+    begins_mid_workbook: true
+    rule: >-
+      The visible sequence begins partway through the Workbook lessons. Characters
+      have implied earlier healing histories, but those histories should remain
+      prequel-safe unless explicitly written later.
+  continuity:
+    - Do not fully resolve a character's core wound in one story unless the character memory says the arc is ready.
+    - One lesson may bring one specific miracle-minded shift, deepening, peaceful receiving, or extension of love.
+    - Not every story needs conflict. Some lessons should be easy, luminous, devotional, joyful, playful, or restful.
+    - Preserve open threads and update character memory after each story.
+    - A miracle changes perception in the moment; it does not need to erase the whole human arc.
+  story_modes:
+    - id: healing_shift
+      name: Healing Shift
+      description: A specific old perception is gently corrected through one situation.
+    - id: deepening
+      name: Deepening
+      description: The character is already receptive and goes deeper into love or trust.
+    - id: resting_in_god
+      name: Resting in God
+      description: A peaceful day where nothing needs to be fixed; the lesson unfolds as quiet being.
+    - id: joy_celebration
+      name: Joy / Celebration
+      description: The lesson appears as gratitude, play, creativity, music, or shared joy.
+    - id: extension
+      name: Extension to Others
+      description: The character naturally offers the love or peace they have received.
+    - id: integration
+      name: Integration
+      description: A previous miracle becomes more ordinary, embodied, and stable.
+    - id: holy_instant
+      name: Holy Instant
+      description: A brief luminous moment reframes the whole scene without over-explaining.
+    - id: relationship_joining
+      name: Relationship Joining
+      description: The lesson appears through seeing a brother differently.
+  arc_temperatures:
+    - value: 1
+      name: Peaceful / Already Open
+      description: Little resistance; the story is restful, beautiful, and receptive.
+    - value: 2
+      name: Gentle Deepening
+      description: Mild movement from openness into deeper trust.
+    - value: 3
+      name: Mild Resistance
+      description: Some ego friction, but not a major confrontation.
+    - value: 4
+      name: Active Forgiveness Opportunity
+      description: A clear trigger or relationship moment invites a shift.
+    - value: 5
+      name: Major Old Pattern
+      description: The story touches an important recurring defense, but still avoids instant total resolution.
+  arc_stages:
+    - id: unconscious_pattern
+      order: 1
+      description: The character is acting from a pattern without seeing it clearly.
+    - id: first_recognition
+      order: 2
+      description: The character recognizes the pattern for the first time or in a new way.
+    - id: resistance
+      order: 3
+      description: The character sees the alternative but still resists it.
+    - id: willingness
+      order: 4
+      description: The character becomes willing to be shown another way.
+    - id: repeated_practice
+      order: 5
+      description: The character practices the shift across repeated situations.
+    - id: deeper_surrender
+      order: 6
+      description: The character gives up a subtler form of control.
+    - id: embodied_trust
+      order: 7
+      description: The shift becomes more stable and lived.
+    - id: shared_extension
+      order: 8
+      description: The character naturally extends peace to others.
