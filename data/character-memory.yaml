@@ -1,0 +1,182 @@
+characters:
+  CHAR-001:
+    name: Mara Ellis
+    current_arc_summary: Mara is already halfway through a healing journey around self-worth and receiving grace. She has learned not to believe every self-attacking thought, but she still contracts when love feels too direct.
+    current_emotional_state: Sincere, softened, cautious, sometimes weary.
+    already_healed_areas:
+      - Can pause before accepting a dark thought as truth.
+      - Has glimpsed that grace is received rather than earned.
+    still_active_patterns:
+      - Treats direct love as pressure.
+      - Uses self-condemnation as a strange form of control.
+    do_not_resolve_yet:
+      - Do not make her fully comfortable being loved.
+      - Do not remove her tenderness or cautious humor.
+    next_natural_step: Let her stay present after receiving kindness without needing to repay it.
+    prompt_memory_block: Mara Ellis is a late-30s Canadian woman who has already experienced real moments of grace, but she still struggles to receive love without earning it. She wears a dark coat, carries a worn leather satchel, and has a silver ring that can subtly reflect willingness. Do not portray her as spiritually new or fully healed; let each story bring one honest shift, deepening, or restful receiving.
+    recent_lessons: []
+  CHAR-002:
+    name: Jonah Reed
+    current_arc_summary: Jonah has begun to discover that help is not weakness, but he still identifies with carrying responsibility alone.
+    current_emotional_state: Capable, tired, loyal, guarded.
+    already_healed_areas:
+      - Can sometimes ask for help without shame.
+      - Has seen that rest does not equal failure.
+    still_active_patterns:
+      - Takes control when uncertain.
+      - Confuses exhaustion with virtue.
+    do_not_resolve_yet:
+      - Do not make him carefree overnight.
+    next_natural_step: Let him accept support in one specific situation without turning it into debt.
+    prompt_memory_block: Jonah Reed is an early-40s American small-town man with a denim jacket, old pickup keys, and a weathered notebook. He is partway through learning that help is not weakness. He may have peaceful days of quiet support, but his old pattern of over-carrying responsibility should remain a living thread.
+    recent_lessons: []
+  CHAR-003:
+    name: Sofia Reyes
+    current_arc_summary: Sofia has had real experiences of being held by grace, but still masks vulnerability with competence and politeness.
+    current_emotional_state: Warm, guarded, perceptive, artistic.
+    already_healed_areas:
+      - Has learned tenderness can be strong.
+      - Can sometimes let art become prayer.
+    still_active_patterns:
+      - Becomes distant when she feels unseen.
+      - Fears tenderness will be used against her.
+    do_not_resolve_yet:
+      - Do not make her instantly open about every hurt.
+    next_natural_step: Let her express one truthful feeling without apologizing for it.
+    prompt_memory_block: Sofia Reyes is a Mexican woman in her early 30s in Guadalajara, warm and artistic, with copper earrings, a sketchbook, and embroidered clothing details. She is already on the path and has received grace before, but her tenderness is still guarded. Some stories can be joyful and creative; others may show her softening in relationship.
+    recent_lessons: []
+  CHAR-004:
+    name: Daniel Okafor
+    current_arc_summary: Daniel trusts stillness, but sometimes uses spiritual steadiness to hide grief or avoid receiving comfort.
+    current_emotional_state: Gentle, dignified, quietly burdened.
+    already_healed_areas:
+      - Can enter real stillness.
+      - Has offered comfort from genuine compassion.
+    still_active_patterns:
+      - Hides grief behind wise words.
+      - Thinks needing comfort means losing steadiness.
+    do_not_resolve_yet:
+      - Do not make him emotionally demonstrative too quickly.
+    next_natural_step: Let him receive a small comfort without turning it into a teaching moment.
+    prompt_memory_block: Daniel Okafor is a Nigerian-British man in his mid-40s, gentle and dignified, usually in a wool coat, scarf, and round glasses. He is not spiritually new; he knows stillness, but is learning that comfort received can become comfort extended. Preserve his quiet depth and unfinished grief.
+    recent_lessons: []
+  CHAR-005:
+    name: Elise Fournier
+    current_arc_summary: Elise has begun seeing holiness in ordinary things, but still chases beauty as if it lives somewhere else.
+    current_emotional_state: Restless, elegant, sincere, imaginative.
+    already_healed_areas:
+      - Can perceive beauty in simple objects.
+      - Has had holy instants through attention.
+    still_active_patterns:
+      - Dismisses ordinary life as spiritually insufficient.
+      - Seeks peak experiences to avoid stillness.
+    do_not_resolve_yet:
+      - Do not make her permanently satisfied with everything.
+    next_natural_step: Let her remain with one ordinary moment until it opens.
+    prompt_memory_block: Elise Fournier is a late-20s French/Montreal artist type with short dark hair, a long coat, red scarf, and camera. She is partway into learning that beauty is not elsewhere. Let her stories alternate between aesthetic longing and luminous ordinary perception.
+    recent_lessons: []
+  CHAR-006:
+    name: Mateo Alvarez
+    current_arc_summary: Mateo has touched an inner sense of home, but still compares himself to others and fears he belongs nowhere.
+    current_emotional_state: Sensitive, observant, shyly hopeful.
+    already_healed_areas:
+      - Has felt belonging inwardly in music and movement.
+      - Can recognize comparison as painful rather than true.
+    still_active_patterns:
+      - Reads exclusion as proof of not belonging.
+      - Hides his depth through embarrassment.
+    do_not_resolve_yet:
+      - Do not make social belonging perfectly fixed.
+    next_natural_step: Let him experience belonging without needing everyone to confirm it.
+    prompt_memory_block: Mateo Alvarez is a teen/young adult Mexican-American borderland character with a hoodie, earbuds, bicycle, and family bracelet. His journey is about belonging as an inward reality. He has already had moments of inner home, but comparison remains an open thread.
+    recent_lessons: []
+  CHAR-007:
+    name: Priya Shah
+    current_arc_summary: Priya has experienced relief from surrender, but still tries to manage love perfectly so it will not collapse.
+    current_emotional_state: Brilliant, affectionate, anxious under uncertainty.
+    already_healed_areas:
+      - Knows that some plans can change without disaster.
+      - Has felt relief when she stops optimizing.
+    still_active_patterns:
+      - Turns love into a checklist.
+      - Uses planning to avoid trust.
+    do_not_resolve_yet:
+      - Do not make her loose or careless overnight.
+    next_natural_step: Let her leave one loving thing un-managed and discover it remains safe.
+    prompt_memory_block: Priya Shah is a mid-30s Indian diaspora tech/family-life character with a silver watch, neat hair, laptop bag, and family charm. She is learning to release control into trust. She can have easy days where plans change gently, but her tendency to manage love should remain an ongoing arc.
+    recent_lessons: []
+  CHAR-008:
+    name: Thomas Whitcomb
+    current_arc_summary: Thomas has forgiven parts of his past, but still treats joy as if it would betray old grief.
+    current_emotional_state: Polite, melancholy, kind, quietly humorous.
+    already_healed_areas:
+      - Can remember without only suffering.
+      - Has had gratitude replace regret in brief moments.
+    still_active_patterns:
+      - Clings to regret as loyalty.
+      - Distrusts joy in later life.
+    do_not_resolve_yet:
+      - Do not erase his melancholy completely.
+    next_natural_step: Let one memory become gratitude without forcing closure.
+    prompt_memory_block: Thomas Whitcomb is an early-60s English coastal-town man with a tweed cap, walking stick, seaside coat, and old letters. He is learning that time has not stolen love. He has forgiven some of the past, but joy still feels risky.
+    recent_lessons: []
+  CHAR-009:
+    name: Amara Ndlovu
+    current_arc_summary: Amara has learned that giving can be joyful, but still confuses sacrifice with holiness when others need her.
+    current_emotional_state: Strong, warm, charismatic, quietly tired.
+    already_healed_areas:
+      - Can receive help in small ways.
+      - Knows love is not meant to exhaust her.
+    still_active_patterns:
+      - Says yes when her heart asks for rest.
+      - Feels responsible for everyone’s healing.
+    do_not_resolve_yet:
+      - Do not make her stop caring deeply.
+    next_natural_step: Let her accept shared responsibility without guilt.
+    prompt_memory_block: Amara Ndlovu is an early-40s South African community organizer with a bright patterned shawl and community notebook. She is learning that love extends without sacrifice. Preserve her strength and warmth while loosening the belief that everything depends on her.
+    recent_lessons: []
+  CHAR-010:
+    name: Kenji Watanabe
+    current_arc_summary: Kenji has touched wordless peace, but still withdraws when emotion rises and mistakes silence for separation.
+    current_emotional_state: Precise, gentle, reserved, deeply feeling.
+    already_healed_areas:
+      - Can experience stillness as peace.
+      - Can express care through craft.
+    still_active_patterns:
+      - Withdraws when emotion becomes explicit.
+      - Believes unnamed longing separates him.
+    do_not_resolve_yet:
+      - Do not make him suddenly talkative or emotionally fluent.
+    next_natural_step: Let stillness join him to someone instead of hiding him.
+    prompt_memory_block: Kenji Watanabe is a late-50s Japanese craftsman with an apron, careful hands, a wooden box, and rain umbrella. He is partway into learning that stillness can join rather than isolate. Keep his emotional life subtle and embodied.
+    recent_lessons: []
+  CHAR-011:
+    name: Lucia Bell
+    current_arc_summary: Lucia has had real holy instants through music, but still expects joy to disappear if she trusts it fully.
+    current_emotional_state: Bright, musical, tender, self-protective through humor.
+    already_healed_areas:
+      - Can let music become prayer.
+      - Has experienced joy as more than excitement.
+    still_active_patterns:
+      - Pulls back from happiness to avoid future grief.
+      - Deflects tenderness with jokes.
+    do_not_resolve_yet:
+      - Do not make joy permanently effortless.
+    next_natural_step: Let her enjoy one moment without trying to protect against its end.
+    prompt_memory_block: Lucia Bell is a mid-20s Caribbean-British musician with a colorful headwrap, headphones, gold necklace, and lyric notebook. She is learning joy as a stable inheritance rather than a temporary high. Let music and rhythm serve as devotional symbols.
+    recent_lessons: []
+  CHAR-012:
+    name: Adrian Vale
+    current_arc_summary: Adrian intellectually understands many spiritual ideas, but still uses understanding to avoid surrender.
+    current_emotional_state: Intelligent, precise, dry, secretly longing for simplicity.
+    already_healed_areas:
+      - Has glimpsed that peace is not an argument.
+      - Can be touched by silence despite himself.
+    still_active_patterns:
+      - Converts feeling into concepts.
+      - Uses analysis to avoid needing help.
+    do_not_resolve_yet:
+      - Do not make him anti-intellectual; soften the defense, not the intelligence.
+    next_natural_step: Let him not explain one moment and allow it to work on him.
+    prompt_memory_block: Adrian Vale is an early-50s western academic in a desert-retreat setting, with a linen shirt, reading glasses, annotated books, and desert boots. He knows many ideas but is learning peace is not an idea to master. Preserve his intelligence while inviting simplicity.
+    recent_lessons: []
