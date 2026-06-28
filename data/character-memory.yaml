@@ -152,19 +152,22 @@ characters:
     recent_lessons: []
   CHAR-011:
     name: Lucia Bell
-    current_arc_summary: Lucia has had real holy instants through music, but still expects joy to disappear if she trusts it fully.
-    current_emotional_state: Bright, musical, tender, self-protective through humor.
+    current_arc_summary: Lucia has had real holy instants through music, and recently practiced letting joy remain after a rooftop rehearsal ended. She glimpsed that the life in music can continue through ordinary city sounds instead of vanishing when the performance stops.
+    current_emotional_state: Bright, musical, tender, a little more willing to trust joy after it passes.
     already_healed_areas:
       - Can let music become prayer.
       - Has experienced joy as more than excitement.
+      - Has one lived memory of joy continuing gently after the song ended.
     still_active_patterns:
       - Pulls back from happiness to avoid future grief.
       - Deflects tenderness with jokes.
     do_not_resolve_yet:
       - Do not make joy permanently effortless.
-    next_natural_step: Let her enjoy one moment without trying to protect against its end.
-    prompt_memory_block: Lucia Bell is a mid-20s Caribbean-British musician with a colorful headwrap, headphones, gold necklace, and lyric notebook. She is learning joy as a stable inheritance rather than a temporary high. Let music and rhythm serve as devotional symbols.
-    recent_lessons: []
+      - Do not make her stop protecting against loss all at once.
+    next_natural_step: Let her enjoy one moment without trying to protect against its end, and let future stories build on her willingness to stay open after beauty passes.
+    prompt_memory_block: Lucia Bell is a mid-20s Caribbean-British musician with a colorful headwrap, headphones, gold necklace, and lyric notebook. She is learning joy as a stable inheritance rather than a temporary high. In Lesson 179, she experienced a rooftop rehearsal where the music seemed to continue through ordinary city sounds after the song ended. She practiced not defending against joy and glimpsed that grace can remain as quiet shared life. Do not make joy permanently effortless for her yet; let music and rhythm serve as devotional symbols.
+    recent_lessons:
+      - 179
   CHAR-012:
     name: Adrian Vale
     current_arc_summary: Adrian intellectually understands many spiritual ideas, but still uses understanding to avoid surrender.
