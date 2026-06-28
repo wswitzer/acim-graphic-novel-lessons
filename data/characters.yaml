@@ -1,0 +1,136 @@
+characters:
+  - id: CHAR-001
+    name: Mara Ellis
+    age_life_stage: Late 30s
+    cultural_setting_flavor: Canadian urban western
+    core_wound_or_seeking: Believes she has missed her life and must earn love through suffering.
+    stable_personality: Introspective, sincere, self-protective, quietly funny.
+    visual_continuity: Dark coat, expressive eyes, worn leather satchel, silver ring.
+    spiritual_theme: Learning to receive grace without earning it.
+    mid_journey_state: Already able to pause before believing every dark thought, but still contracts when love feels direct.
+    easy_day_expression: Notices beauty in ordinary light and lets herself rest without fixing herself.
+    challenge_day_expression: Avoids intimacy or messages that might expose her need.
+  - id: CHAR-002
+    name: Jonah Reed
+    age_life_stage: Early 40s
+    cultural_setting_flavor: American small-town / road-trip western
+    core_wound_or_seeking: Thinks responsibility means carrying everything alone.
+    stable_personality: Capable, dry-humored, loyal, tired from over-functioning.
+    visual_continuity: Denim jacket, work boots, old pickup keys, weathered notebook.
+    spiritual_theme: Learning that help is not weakness.
+    mid_journey_state: Has already learned to ask for quiet help sometimes, but still distrusts rest.
+    easy_day_expression: Lets a task be simple and notices he is supported.
+    challenge_day_expression: Takes control when someone else is slow or uncertain.
+  - id: CHAR-003
+    name: Sofia Reyes
+    age_life_stage: Early 30s
+    cultural_setting_flavor: Mexican urban / Guadalajara
+    core_wound_or_seeking: Fears her tenderness will be used against her.
+    stable_personality: Warm, perceptive, artistic, guarded when vulnerable.
+    visual_continuity: Copper earrings, embroidered blouse or jacket, sketchbook, soft curls.
+    spiritual_theme: Learning tenderness without self-protection.
+    mid_journey_state: Has had real experiences of being held by grace, but still masks hurt with competence.
+    easy_day_expression: Draws or cooks from joy without proving anything.
+    challenge_day_expression: Becomes polite and distant when she feels unseen.
+  - id: CHAR-004
+    name: Daniel Okafor
+    age_life_stage: Mid 40s
+    cultural_setting_flavor: Nigerian-British / London community life
+    core_wound_or_seeking: Believes spiritual steadiness means never needing comfort.
+    stable_personality: Gentle, dignified, thoughtful, quietly burdened.
+    visual_continuity: Wool coat, warm scarf, round glasses, worn prayer book or journal.
+    spiritual_theme: Learning that comfort received can become comfort extended.
+    mid_journey_state: Already trusts stillness but can use it to avoid asking for help.
+    easy_day_expression: Sits in a park or churchlike public space and simply receives peace.
+    challenge_day_expression: Hides grief behind wise words.
+  - id: CHAR-005
+    name: Elise Fournier
+    age_life_stage: Late 20s
+    cultural_setting_flavor: French / Montreal arts scene
+    core_wound_or_seeking: Seeks beauty but fears ordinary life is spiritually empty.
+    stable_personality: Elegant, restless, imaginative, sharp when afraid.
+    visual_continuity: Short dark hair, long coat, red scarf, camera.
+    spiritual_theme: Learning that beauty is not elsewhere.
+    mid_journey_state: Has begun seeing holiness in ordinary things, but still chases peak experiences.
+    easy_day_expression: Photographs a simple object and lets it be enough.
+    challenge_day_expression: Dismisses a mundane moment as a waste of her life.
+  - id: CHAR-006
+    name: Mateo Alvarez
+    age_life_stage: Teen / young adult
+    cultural_setting_flavor: Mexican-American borderland
+    core_wound_or_seeking: Feels split between worlds and unsure where he belongs.
+    stable_personality: Sensitive, observant, loyal, easily embarrassed by his own depth.
+    visual_continuity: Hoodie, earbuds, bicycle, small bracelet from family.
+    spiritual_theme: Learning that belonging is inward before it is social.
+    mid_journey_state: Has already found moments of inner home, but still compares himself to others.
+    easy_day_expression: Music, movement, and sunlight help him feel quietly whole.
+    challenge_day_expression: Interprets exclusion as proof he has no place.
+  - id: CHAR-007
+    name: Priya Shah
+    age_life_stage: Mid 30s
+    cultural_setting_flavor: Indian diaspora / tech and family life
+    core_wound_or_seeking: Believes love must be managed perfectly or it will collapse.
+    stable_personality: Brilliant, organized, affectionate, anxious under uncertainty.
+    visual_continuity: Silver watch, neat braid or bun, laptop bag, small family charm.
+    spiritual_theme: Learning to release control into trust.
+    mid_journey_state: Has experienced relief from surrender, but still tries to optimize emotions.
+    easy_day_expression: Lets a plan change without losing peace.
+    challenge_day_expression: Turns love into a checklist.
+  - id: CHAR-008
+    name: Thomas Whitcomb
+    age_life_stage: Early 60s
+    cultural_setting_flavor: English / coastal town
+    core_wound_or_seeking: Carries regret and believes his best days are behind him.
+    stable_personality: Polite, melancholy, kind, quietly humorous.
+    visual_continuity: Tweed cap, walking stick, seaside coat, old letters.
+    spiritual_theme: Learning that time has not stolen love.
+    mid_journey_state: Has forgiven parts of his past, but still treats joy as inappropriate.
+    easy_day_expression: Walks by the sea and lets memory become gratitude.
+    challenge_day_expression: Clings to regret as loyalty.
+  - id: CHAR-009
+    name: Amara Ndlovu
+    age_life_stage: Early 40s
+    cultural_setting_flavor: South African / community organizer
+    core_wound_or_seeking: Feels responsible for healing everyone around her.
+    stable_personality: Strong, warm, charismatic, exhausted by hidden pressure.
+    visual_continuity: Bright patterned shawl, short natural hair, community notebook.
+    spiritual_theme: Learning that love extends without sacrifice.
+    mid_journey_state: Already knows giving can be joyful, but still confuses sacrifice with holiness.
+    easy_day_expression: Receives help from the community she usually serves.
+    challenge_day_expression: Says yes when her heart is asking for rest.
+  - id: CHAR-010
+    name: Kenji Watanabe
+    age_life_stage: Late 50s
+    cultural_setting_flavor: Japanese / quiet urban craftsman
+    core_wound_or_seeking: Believes silence means separation and cannot name his longing.
+    stable_personality: Precise, gentle, reserved, deeply feeling beneath stillness.
+    visual_continuity: Apron, careful hands, wooden box, rain umbrella.
+    spiritual_theme: Learning that stillness can join rather than isolate.
+    mid_journey_state: Has touched wordless peace, but still withdraws when emotion rises.
+    easy_day_expression: Crafts or repairs something while feeling quietly joined.
+    challenge_day_expression: Mistakes speechlessness for distance.
+  - id: CHAR-011
+    name: Lucia Bell
+    age_life_stage: Mid 20s
+    cultural_setting_flavor: Caribbean-British / music and city life
+    core_wound_or_seeking: Fears joy will disappear if she fully trusts it.
+    stable_personality: Musical, bright, tender, sometimes deflects with humor.
+    visual_continuity: Colorful headwrap, headphones, gold necklace, notebook of lyrics.
+    spiritual_theme: Learning joy as a stable inheritance rather than a temporary high.
+    mid_journey_state: Has had real holy instants through music, but still expects loss afterward.
+    easy_day_expression: Lets music become prayer without trying to hold it.
+    challenge_day_expression: Pulls back from happiness to avoid future grief.
+  - id: CHAR-012
+    name: Adrian Vale
+    age_life_stage: Early 50s
+    cultural_setting_flavor: Western academic / desert retreat
+    core_wound_or_seeking: Uses understanding to avoid surrender.
+    stable_personality: Intelligent, dry, precise, secretly longing for simplicity.
+    visual_continuity: Linen shirt, reading glasses, annotated books, desert boots.
+    spiritual_theme: Learning that peace is not an idea to master.
+    mid_journey_state: Already intellectually convinced by many lessons, but still hides in analysis.
+    easy_day_expression: Lets a line, sky, or silence be enough without explaining it.
+    challenge_day_expression: Converts feeling into concepts before it can soften him.
+selection_rule:
+  default: Rotate characters slowly so each can reappear across multiple visual styles.
+  recommendation: Use fewer characters than styles so readers can follow ongoing arcs.
