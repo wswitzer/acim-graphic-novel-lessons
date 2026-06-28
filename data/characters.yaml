@@ -116,6 +116,10 @@ characters:
     core_wound_or_seeking: Fears joy will disappear if she fully trusts it.
     stable_personality: Musical, bright, tender, sometimes deflects with humor.
     visual_continuity: Colorful headwrap, headphones, gold necklace, notebook of lyrics.
+    reference_assets:
+      compressed_reference_sheet: assets/characters/lucia-bell/reference-sheet-128.jpg
+      binary_upload_test: assets/characters/lucia-bell/binary-upload-test.png
+      note: Use compressed_reference_sheet as a proof-of-concept visual seed; replace with a higher-resolution model sheet when binary payload handling is stable.
     spiritual_theme: Learning joy as a stable inheritance rather than a temporary high.
     mid_journey_state: Has had real holy instants through music, but still expects loss afterward.
     easy_day_expression: Lets music become prayer without trying to hold it.
