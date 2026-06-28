@@ -1,0 +1,104 @@
+styles:
+  - id: STYLE-001
+    name: Cinematic Realism
+    rotation_number: 1
+    description: Realistic faces, expressive acting, natural settings, and carefully composed lighting. Spiritual shifts appear through subtle gestures, warm light, and changes in atmosphere rather than obvious religious symbols.
+    prompt_use: Use grounded cinematic framing, realistic emotion, and quiet visual symbolism.
+  - id: STYLE-002
+    name: Dreamlike Watercolor
+    rotation_number: 2
+    description: Soft washes of color, gentle textures, and slightly blurred edges create a tender contemplative feeling. Especially good for forgiveness, grace, memory, and fear dissolving into peace.
+    prompt_use: Use translucent watercolor, soft edges, and peaceful symbolic blending.
+  - id: STYLE-003
+    name: Noir Spiritual Drama
+    rotation_number: 3
+    description: High-contrast shadows, moody streets, rain-slick surfaces, and dramatic framing create inner conflict and mystery. Ego perception can appear heavy and shadowed, while true perception appears as clean light.
+    prompt_use: Use noir lighting, strong silhouettes, and spiritual light cutting through darkness.
+  - id: STYLE-004
+    name: Luminous Fantasy Realism
+    rotation_number: 4
+    description: Emotionally human characters are surrounded by subtle magical or symbolic elements such as glowing doorways, impossible skies, floating fragments, or responsive architecture. Good for transitions from ordinary perception into miracle-minded perception.
+    prompt_use: Keep humans grounded while adding refined luminous symbolic phenomena.
+  - id: STYLE-005
+    name: Minimalist Ink and Wash
+    rotation_number: 5
+    description: Clean black linework with sparse watercolor or gray wash creates a quiet elegant page. Empty space, posture, and small expressions carry the meaning.
+    prompt_use: Use restraint, clean panel composition, and expressive negative space.
+  - id: STYLE-006
+    name: European Album Style
+    rotation_number: 6
+    description: Clear linework, detailed backgrounds, strong composition, and rich controlled color. Ordinary scenes feel spacious, beautiful, and storybook-like.
+    prompt_use: Use detailed environments, elegant compositions, and classic bande dessinee clarity.
+  - id: STYLE-007
+    name: Soft Pastel Slice-of-Life
+    rotation_number: 7
+    description: Warm pastels, cozy interiors, expressive realistic characters, and gentle everyday details. Excellent for relationship-based stories where lessons unfold through ordinary life.
+    prompt_use: Use gentle domestic detail, softness, and emotional accessibility.
+  - id: STYLE-008
+    name: Epic Mythic Symbolism
+    rotation_number: 8
+    description: Grounded characters move through mythic landscapes such as oceans, mountains, temples, storms, deserts, or radiant bridges. A simple inner choice can appear as a vast spiritual drama.
+    prompt_use: Use archetypal environments without turning characters into superheroes.
+  - id: STYLE-009
+    name: Urban Magical Realism
+    rotation_number: 9
+    description: Modern city life is drawn realistically while strange and beautiful spiritual details quietly appear. Streetlights might become stars or bus windows might reflect another world.
+    prompt_use: Use realistic city settings with subtle impossible beauty.
+  - id: STYLE-010
+    name: Monochrome Charcoal Drama
+    rotation_number: 10
+    description: Black, white, and gray tones with rough charcoal textures create emotional intensity and depth. Works well for guilt, fear, and mercy emerging from bleakness.
+    prompt_use: Use charcoal texture, dramatic grayscale, and restrained light.
+  - id: STYLE-011
+    name: Golden Hour Contemplative
+    rotation_number: 11
+    description: Early morning or late afternoon light, long shadows, amber glow, and quiet cinematic warmth. Ideal for grace, willingness, rest, and recognizing help has already arrived.
+    prompt_use: Use warm golden light and contemplative pacing.
+  - id: STYLE-012
+    name: Surreal Inner Landscape
+    rotation_number: 12
+    description: Thoughts and emotions become visual worlds. A room may open into an ocean, a grievance may appear as a cracked mask, or fear may become a maze that dissolves.
+    prompt_use: Externalize inner states as symbolic landscapes while keeping story legible.
+  - id: STYLE-013
+    name: Clean Modern Webcomic Deluxe
+    rotation_number: 13
+    description: Crisp lines, appealing characters, readable panels, clear expressions, and polished digital color. Attractive and practical for daily production and phone reading.
+    prompt_use: Use clarity, polished panels, readable typography, and strong character acting.
+  - id: STYLE-014
+    name: Sacred Geometry Futurism
+    rotation_number: 14
+    description: Modern characters and settings are combined with subtle geometric light patterns, translucent grids, mandalas, and harmonious shapes. Holy Spirit perception appears as underlying order beneath chaos.
+    prompt_use: Use luminous geometry sparingly as a perception motif.
+  - id: STYLE-015
+    name: Hand-Drawn Journal Comic
+    rotation_number: 15
+    description: Loose ink lines, handwritten captions, imperfect frames, margin notes, and warm personal details create intimacy and honesty. Good for a daily spiritual book that feels sincerely documented.
+    prompt_use: Use journal texture, honest imperfections, and personal observation.
+  - id: STYLE-016
+    name: Nature-Mystic Illustration
+    rotation_number: 16
+    description: Forests, gardens, animals, weather, flowers, water, and natural light mirror inner healing. The outer world becomes less threatening and more benevolent as perception softens.
+    prompt_use: Use natural symbolism, weather, and organic light.
+  - id: STYLE-017
+    name: Retro Psychedelic Spiritual
+    rotation_number: 17
+    description: Bold shapes, flowing patterns, radiant gradients, symbolic suns, waves, and cosmic backgrounds create mystical energy. Good for ecstatic lessons, breakthrough moments, or perception opening into joy.
+    prompt_use: Use vibrant symbolic patterning without making the page chaotic.
+  - id: STYLE-018
+    name: Gentle Manga-Inspired Drama
+    rotation_number: 18
+    description: Expressive faces, graceful pacing, emotional close-ups, atmospheric backgrounds, and strong use of silence. Subtle inner shifts appear through eyes, pauses, breath, and space between characters.
+    prompt_use: Use emotional close-ups, silence, and elegant pacing.
+  - id: STYLE-019
+    name: Premium Animated Feature Style
+    rotation_number: 19
+    description: Appealing character design, painterly backgrounds, warm lighting, and clear emotional storytelling. Inviting and accessible without becoming heavy or intellectual.
+    prompt_use: Use high-end animated film concept-art polish.
+  - id: STYLE-020
+    name: Stained Glass Visionary
+    rotation_number: 20
+    description: Panels are composed like illuminated windows with bold shapes, jewel-like colors, symbolic light, and graceful figures. Devotional and iconic while avoiding literal religious cliches.
+    prompt_use: Use jewel colors, luminous panel divisions, and refined devotional symbolism.
+rotation_rule:
+  default: Use lesson number modulo 20 to select style unless overridden by story needs.
+  sunday_to_saturday_option: Sunday may map to STYLE-001, Monday STYLE-002, etc. if using weekly rotation.
