@@ -1,0 +1,48 @@
+project:
+  name: ACIM Graphic Novel Lessons
+  repository: wswitzer/acim-graphic-novel-lessons
+  timezone: America/Mexico_City
+
+lesson_source:
+  primary_url: https://acimi.com/a-course-in-miracles/lesson-of-the-day
+  copyright_rule: >-
+    Do not reproduce long copyrighted ACIM body text. Use lesson number, lesson title,
+    links, and original summaries/reflections only.
+
+generation:
+  schedule_intent: Generate the next day's lesson packet the evening before it is used.
+  recommended_run_time_local: "22:00"
+  target_date_rule: tomorrow
+  target_lesson_rule: >-
+    At runtime, calculate the target date as tomorrow in America/Mexico_City, then
+    confirm the lesson number/title from the lesson source before generating.
+  default_generation_mode: direct_files
+  fallback_generation_mode: github_issue
+  starting_point:
+    begins_mid_workbook: true
+    first_generated_lesson_number: null
+    note: >-
+      Set this after the first successful generation if you want a fixed historical
+      starting point. The task should otherwise use the target date and lesson source.
+
+outputs:
+  packet_directory: content/packets
+  daily_entry_directory: content/daily
+  packet_filename_pattern: lesson-###.yaml
+  daily_filename_pattern: lesson-###.md
+  update_files:
+    - data/lesson-log.yaml
+    - data/story-index.yaml
+    - data/character-memory.yaml
+
+selection_rules:
+  style_selection: Use data/styles.yaml rotation unless overridden by story needs.
+  character_selection: Rotate characters slowly so readers can follow recurring arcs.
+  arc_selection: Vary story modes and arc temperatures; do not make every day a conflict.
+
+review:
+  daily_review_required: false
+  weekly_manual_review_recommended: true
+  weekly_review_goal: >-
+    Check continuity, repeated patterns, and whether the characters feel alive rather
+    than instantly healed or artificially troubled.
