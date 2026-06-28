@@ -1,0 +1,13 @@
+lessons: []
+
+# Append one entry per generated lesson, for example:
+# - lesson_number: 170
+#   date: "2026-06-19"
+#   lesson_title: "There is no cruelty in God and none in me"
+#   style_id: STYLE-012
+#   character_id: CHAR-003
+#   story_mode: healing_shift
+#   arc_temperature: 4
+#   packet_path: content/packets/lesson-170.yaml
+#   daily_path: content/daily/lesson-170.md
+#   status: draft
