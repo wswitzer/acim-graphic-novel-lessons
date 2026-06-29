@@ -12,3 +12,16 @@ stories:
     summary: "Lucia lets a rooftop song continue through ordinary city sounds and practices trusting joy after the music ends."
     daily_path: content/daily/lesson-179.md
     packet_path: content/packets/lesson-179.yaml
+  - story_id: STORY-0180
+    lesson_number: 180
+    date: "2026-06-29"
+    title: "The Grace Between Notes"
+    character_id: CHAR-011
+    character_name: Lucia Bell
+    style_id: STYLE-020
+    style_name: Stained Glass Visionary
+    story_mode: integration
+    arc_temperature: 2
+    summary: "Lucia discovers that grace remains present in the quiet space after inspiration fades."
+    daily_path: content/daily/lesson-180.md
+    packet_path: content/packets/lesson-180.yaml
