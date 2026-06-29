@@ -9,3 +9,12 @@ lessons:
     packet_path: content/packets/lesson-179.yaml
     daily_path: content/daily/lesson-179.md
     status: draft
+  - lesson_number: 180
+    date: "2026-06-29"
+    style_id: STYLE-020
+    character_id: CHAR-011
+    story_mode: integration
+    arc_temperature: 2
+    packet_path: content/packets/lesson-180.yaml
+    daily_path: content/daily/lesson-180.md
+    status: draft
