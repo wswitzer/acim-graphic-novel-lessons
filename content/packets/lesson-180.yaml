@@ -1,22 +1,155 @@
-lesson_number: 180
-date: '2026-06-29'
-lesson_title: 'Review of Lessons 169-170'
-lesson_source: 'https://acimi.com/a-course-in-miracles/lesson-of-the-day'
-style_id: STYLE-020
-character_id: CHAR-011
-story_mode: integration
-arc_temperature: 2
-theme: 'Grace is not a passing mood. Lucia practices trusting that what is gentle and true remains present without being held.'
-pages:
-  - page: 1
-    summary: Evening walk after music rehearsal.
-  - page: 2
-    summary: Lucia notices beauty continuing in ordinary sounds.
-  - page: 3
-    summary: A quiet moment of trust replaces anticipation of loss.
-  - page: 4
-    summary: Joy becomes shared presence rather than performance.
-character_arc_event: 'Lucia allows a peaceful moment to continue without protecting against its ending.'
+story_id: STORY-0180
+target_date: "2026-06-29"
+generated_at_local: "2026-06-28T22:00:00-06:00"
+schema_version: production-v1
+lesson:
+  number: 180
+  title: "Review of Lessons 169-170"
+  title_line: "God is but Love, and therefore so am I."
+  review_of:
+    - number: 169
+      title: "By grace I live. By grace I am released."
+    - number: 170
+      title: "There is no cruelty in God and none in me."
+  source_url: "https://acimi.com/a-course-in-miracles/lesson-of-the-day"
+  copyright_note: "Original commentary only; no long ACIM body text reproduced."
+selection:
+  style_id: STYLE-020
+  style_name: Stained Glass Visionary
+  character_id: CHAR-011
+  character_name: Lucia Bell
+  story_mode: integration
+  arc_temperature: 2
+  arc_stage_used: repeated_practice
+character_reference:
+  persistent_library_path: "/character_references/Lucia_ACIM_reference.png"
+  use: "Visual identity reference / seed image only."
+  prohibition: "Do not crop, paste, collage, trace, or assemble pieces from the reference image. Generate new drawn comic pages while preserving Lucia's identity."
+story:
+  title: "The Grace Between Notes"
+  original_theme: >-
+    Grace is not a passing mood. Lucia practices trusting that what is gentle and true
+    remains present in the quiet space after inspiration fades.
+  synopsis: >-
+    After rehearsal, Lucia walks through the city with the old fear that the beautiful
+    feeling will vanish. Ordinary sounds and jewel-like windows begin to echo the rhythm
+    of prayer, and she lets joy become shared presence rather than something she must hold.
+continuity:
+  character_memory_used: >-
+    Lucia Bell is a mid-20s Caribbean-British musician with a colorful headwrap,
+    headphones, gold necklace, and lyric notebook. She is learning joy as a stable
+    inheritance rather than a temporary high. In Lesson 179, she experienced a rooftop
+    rehearsal where the music seemed to continue through ordinary city sounds after the
+    song ended. She practiced not defending against joy and glimpsed that grace can remain
+    as quiet shared life. Do not make joy permanently effortless for her yet; let music and
+    rhythm serve as devotional symbols.
+  before_state: >-
+    Lucia can let music become prayer, but she still expects a peaceful high to disappear
+    when the song, rehearsal, or shared moment ends.
+  inner_movement: >-
+    She notices the urge to protect against future loss, names it gently, and relaxes her
+    grip instead of trying to preserve the feeling.
+  miracle_shift: >-
+    The miracle is the quiet recognition that grace is not contained in the performance;
+    it remains in the space between notes and in the shared life of the city.
+  unresolved_thread: >-
+    Lucia still sometimes pulls back from happiness to avoid grief, but this story gives
+    her another lived memory that joy can continue softly without being controlled.
+  updated_memory_proposal: >-
+    Lucia gains another lived example that joy can continue softly after a meaningful
+    experience ends. In Lesson 180, the quiet space after rehearsal becomes a stained-glass
+    city of shared grace, helping her trust the afterglow without trying to hold it.
+graphic_novel:
+  pages:
+    - page: 1
+      title: "After the Last Chord"
+      panels:
+        - panel: 1
+          visual: "Portrait comic page, stained-glass visionary style. A warm evening rehearsal room with tall city windows broken into jewel-like panes. Lucia stands with her colorful headwrap, headphones around her neck, gold necklace, denim layer, olive pants, and lyric notebook while bandmates quietly pack instruments."
+          caption: "The last chord ended, and the room became very still."
+        - panel: 2
+          visual: "Medium close-up of Lucia closing her lyric notebook. The black notebook, gold necklace, headphones, and patterned headwrap are all clearly visible. Reflections in the window form soft amber and teal glass shapes, not religious symbols."
+          inner_thought: "Lucia: Please do not disappear so fast."
+        - panel: 3
+          visual: "Lucia at the doorway, one hand on the light switch, looking back at the empty room. The city beyond the windows glows like illuminated glass panels. Her face shows tenderness and a small guarded smile."
+          caption: "She knew this reflex: hold the good thing before it leaves."
+    - page: 2
+      title: "The City Keeps Praying"
+      panels:
+        - panel: 1
+          visual: "Lucia steps onto a night sidewalk. Streetlights, bus windows, cafe signs, and apartment windows form stained-glass color blocks. She walks with headphones around her neck and notebook under one arm, listening."
+          caption: "Outside, nothing seemed sacred at first."
+        - panel: 2
+          visual: "Close-up sequence within one panel: a cup set down on a cafe table, bicycle spokes turning, rain tapping an awning, a child's hand drumming gently on a railing. Each sound creates small jewel-colored rhythm marks."
+          caption: "Then the ordinary sounds found the rhythm."
+        - panel: 3
+          visual: "Wide sidewalk panel. Lucia pauses as faint luminous rhythm lines connect strangers, windows, tires, footsteps, and rain. She is not glowing like a saint; she is simply noticing shared life."
+          dialogue: "Lucia: It is still here."
+    - page: 3
+      title: "The Hand That Opens"
+      panels:
+        - panel: 1
+          visual: "Lucia sits on a low wall beneath a mosaic-like bus shelter. Her hand grips the lyric notebook a little tightly. The colored glass shapes around her subtly resemble breath and open space."
+          inner_thought: "Lucia: If I enjoy this, I will have to lose it."
+        - panel: 2
+          visual: "Close-up of Lucia's hand loosening around the notebook. Her gold necklace catches a small warm reflection. Her expression softens, caught between fear and willingness."
+          caption: "She did not argue with the fear. She only unclenched her hand."
+        - panel: 3
+          visual: "Lucia exhales. Around her, the stained-glass colors become calmer and more spacious, flowing through ordinary pedestrians and storefronts. The visual motif is gentle shared warmth, with no halo and no literal religious imagery."
+          dialogue: "Lucia: Grace can stay without my holding it."
+    - page: 4
+      title: "The Grace Between Notes"
+      panels:
+        - panel: 1
+          visual: "Lucia opens her lyric notebook under a streetlamp. Instead of writing a song, she writes one simple line. The panel has elegant stained-glass divisions and warm jewel tones."
+          caption: "She wrote less than usual."
+        - panel: 2
+          visual: "Medium shot of Lucia smiling quietly, headphones now over one ear as she listens to the city. The people behind her are framed in luminous window-like panels, each ordinary and human."
+          dialogue: "Lucia: Maybe the silence is part of the song."
+        - panel: 3
+          visual: "Final page-wide panel. Lucia walks home through the night city. The sidewalks, windows, rain, and strangers form a radiant stained-glass composition around her, while she remains grounded and human with notebook in hand."
+          caption: "Joy became shared presence, and the space between notes was full."
+image_prompts:
+  overall: >-
+    Stained Glass Visionary graphic novel pages, portrait orientation, jewel-like colors,
+    illuminated panel divisions, graceful modern city compositions, Lucia Bell as a consistent
+    mid-20s Caribbean-British musician with colorful headwrap, headphones, gold necklace,
+    denim layer, olive pants, and lyric notebook. Use refined devotional symbolism without halos,
+    superheroes, crosses, angels, or literal religious imagery. Generate new drawn comic pages;
+    do not crop, paste, collage, trace, or assemble pieces from the character reference image.
+  page_1: >-
+    Page 1, "After the Last Chord": three-panel portrait comic page in Stained Glass Visionary
+    style. Evening rehearsal room, jewel-like city windows, Lucia closing her lyric notebook and
+    noticing the urge to hold the beautiful feeling after the music ends. Include clear panels,
+    expressive face, colorful headwrap, headphones, gold necklace, notebook, warm amber and teal light.
+  page_2: >-
+    Page 2, "The City Keeps Praying": Lucia walking outside after rehearsal, ordinary city sounds
+    becoming subtle jewel-colored rhythm marks. Streetlights, bus windows, cafe signs, rain, bicycle
+    spokes, strangers, and footsteps connect as shared life. Keep Lucia grounded and consistent.
+  page_3: >-
+    Page 3, "The Hand That Opens": Lucia sits beneath a mosaic bus shelter and notices fear of losing
+    joy. Her hand loosens around the lyric notebook, necklace catches warm light, and the stained-glass
+    city becomes calmer as she allows grace to remain without being held.
+  page_4: >-
+    Page 4, "The Grace Between Notes": Lucia writes a simple line in her lyric notebook, listens to
+    silence as part of the song, and walks home through a radiant stained-glass night city. Final wide
+    panel shows shared presence through ordinary people and windows, no halos or religious literalism.
 spanish_practice:
-  phrase: 'La gracia sigue conmigo.'
-  translation: 'Grace stays with me.'
+  level: A1/A2
+  phrases:
+    - english: "Grace stays with me."
+      spanish: "La gracia sigue conmigo."
+    - english: "I do not need to hold it."
+      spanish: "No necesito agarrarla."
+    - english: "The silence is part of the song."
+      spanish: "El silencio es parte de la canción."
+    - english: "Joy can be shared."
+      spanish: "La alegría se puede compartir."
+  micro_practice: "Say slowly: La gracia sigue conmigo. Then listen for one ordinary sound and let it belong."
+suno_prompt:
+  title: "The Grace Between Notes"
+  style: "warm devotional future-soul with Caribbean-British vocal warmth, soft piano, gentle guitar, organic percussion, spacious city ambience, quiet hopeful chorus"
+  direction: >-
+    A tender song about grace remaining after the music ends. Let silence, city sound, and shared life
+    become part of the rhythm. Keep it devotional, grounded, and quietly joyful rather than euphoric.
+status: draft
