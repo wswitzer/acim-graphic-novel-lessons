@@ -28,3 +28,13 @@ lessons:
     packet_path: content/packets/lesson-181.yaml
     daily_path: content/daily/lesson-181.md
     status: draft
+  - lesson_number: 182
+    date: "2026-07-01"
+    generated_at_local: "2026-06-30T17:20:00-06:00"
+    style_id: STYLE-002
+    character_id: CHAR-011
+    story_mode: resting_in_god
+    arc_temperature: 1
+    packet_path: content/packets/lesson-182.yaml
+    daily_path: content/daily/lesson-182.md
+    status: draft
