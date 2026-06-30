@@ -25,3 +25,16 @@ stories:
     summary: "Lucia discovers that grace remains present in the quiet space after inspiration fades."
     daily_path: content/daily/lesson-180.md
     packet_path: content/packets/lesson-180.yaml
+  - story_id: STORY-0181
+    lesson_number: 181
+    date: "2026-06-30"
+    title: "Platform Seven"
+    character_id: CHAR-011
+    character_name: Lucia Bell
+    style_id: STYLE-001
+    style_name: Cinematic Realism
+    story_mode: relationship_joining
+    arc_temperature: 3
+    summary: "Lucia meets a former bandmate she has avoided and practices seeing him as a brother in the present instead of as old evidence."
+    daily_path: content/daily/lesson-181.md
+    packet_path: content/packets/lesson-181.yaml
