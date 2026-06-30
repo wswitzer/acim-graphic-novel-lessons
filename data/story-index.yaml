@@ -38,3 +38,16 @@ stories:
     summary: "Lucia meets a former bandmate she has avoided and practices seeing him as a brother in the present instead of as old evidence."
     daily_path: content/daily/lesson-181.md
     packet_path: content/packets/lesson-181.yaml
+  - story_id: STORY-0182
+    lesson_number: 182
+    date: "2026-07-01"
+    title: "The Small Key"
+    character_id: CHAR-011
+    character_name: Lucia Bell
+    style_id: STYLE-002
+    style_name: Dreamlike Watercolor
+    story_mode: resting_in_god
+    arc_temperature: 1
+    summary: "Lucia walks home after a tender evening and practices one instant of stillness before trying to secure peace through checking and control."
+    daily_path: content/daily/lesson-182.md
+    packet_path: content/packets/lesson-182.yaml
