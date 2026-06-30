@@ -11,6 +11,7 @@ character_name: Lucia Bell
 story_mode: relationship_joining
 arc_temperature: 3
 status: draft
+schema_version: production-v1.1
 ---
 
 # Lesson 181 — Platform Seven
@@ -27,85 +28,101 @@ Lucia Bell is already partway through her healing journey. She is a mid-20s Cari
 
 Use `/character_references/Lucia_ACIM_reference.png` as Lucia's visual identity reference only. Do not crop, paste, collage, trace, or assemble pieces from the reference image. Generate new drawn comic pages while preserving Lucia's face, hairstyle, clothing direction, accessories, proportions, and overall design.
 
+## Text ownership rule
+
+The YAML packet is authoritative for text ownership. Every panel with text includes `text_items` metadata specifying `text_type`, `speaker`, `text`, `render_as`, `placement`, `tail_anchor`, and `avoid_anchor`. Captions are narrator boxes with no tail. Dialogue bubbles must point to the speaker. Thought bubbles must use thought dots/tail pointing to the thinking character. If a thought belongs to Lucia, it must be composed so Lucia is visibly present and the bubble cannot attach to Malik by mistake.
+
 ## Graphic novel script
 
 ### Page 1 — The Person She Had Avoided
 
-**Panel 1:** Portrait comic page in grounded Cinematic Realism. A rainy evening transit station with warm platform lights, wet concrete, commuters, and a train approaching in the distance. Lucia stands with colorful headwrap, headphones, gold necklace, denim overshirt, olive pants, white sneakers, and lyric notebook.
+**Panel 1:** Portrait comic page in grounded Cinematic Realism. A rainy evening transit station with warm platform lights, wet concrete, commuters, and a train approaching in the distance. Lucia stands clearly in the foreground with colorful headwrap, headphones, gold necklace, denim overshirt, olive pants, white sneakers, and lyric notebook.
 
-**Caption:** Lucia arrived early, hoping the platform would stay anonymous.
+**Caption / Narrator:** Lucia arrived early, hoping the platform would stay anonymous.  
+**Placement:** caption box upper left, not attached to any character.
 
-**Panel 2:** Lucia sees a former bandmate, Malik, near a pillar with a guitar case and a nervous half-smile. The scene is realistic and human, with no mystical glow; the tension is in Lucia's face and posture.
+**Panel 2:** Lucia is foreground-left in three-quarter profile, clearly visible from face and shoulders, looking across the rainy platform at Malik near a pillar with his guitar case. Malik is background-right with a nervous half-smile. Keep Lucia visually dominant enough that her thought bubble can clearly attach to her, while Malik remains visible as the person she sees.
 
-**Lucia, inner thought:** Not him. Not tonight.
+**Lucia, inner thought:** Not him. Not tonight.  
+**Placement:** thought bubble upper left beside Lucia's head; thought dots/tail point to Lucia; avoid anchoring to Malik.
 
-**Panel 3:** Close-up of Lucia's hand tightening around her lyric notebook while her other hand lifts one headphone from her ear. Rain blurs the station lights behind her.
+**Panel 3:** Close-up of Lucia's hand tightening around her lyric notebook while her other hand lifts one headphone from her ear. Lucia's face is visible and wary; rain blurs the station lights behind her.
 
-**Caption:** Her mind reached for old evidence before he had said a word.
+**Caption / Narrator:** Her mind reached for old evidence before he had said a word.  
+**Placement:** caption box upper right, not attached to any character.
 
 ### Page 2 — The Old Evidence
 
-**Panel 1:** Malik approaches carefully, keeping respectful distance. Lucia smiles politely but guardedly. Commuters pass between them, creating visual separation.
+**Panel 1:** Malik is right side of the rainy platform panel, approaching carefully and keeping respectful distance. Lucia is left side, clearly visible, smiling politely but guardedly. Commuters pass between them, creating visual separation.
 
-**Malik:** I was hoping I might see you.
+**Malik:** I was hoping I might see you.  
+**Placement:** speech bubble top right near Malik's head; speech-tail points to Malik; avoid anchoring to Lucia.
 
-**Panel 2:** Lucia imagines quick flashes in the reflective train window: missed rehearsals, unread messages, and herself laughing something off. Keep the flashbacks subtle and cinematic, like reflections rather than separate fantasy panels.
+**Panel 2:** Lucia is foreground-left beside the reflective train window, her face and shoulders clearly readable as she looks into the glass. The window reflection contains subtle cinematic flashes: missed rehearsals, unread messages, Malik looking at a phone, and Lucia laughing something off. Keep Lucia dominant enough that the thought bubble clearly belongs to her.
 
-**Lucia, inner thought:** I know how this goes.
+**Lucia, inner thought:** I know how this goes.  
+**Placement:** thought bubble upper left beside Lucia's head; thought dots point to Lucia; avoid anchoring to Malik.
 
-**Panel 3:** Lucia breathes, lowers the notebook slightly, and looks at Malik's face more directly. His expression is embarrassed and sincere, not threatening.
+**Panel 3:** Lucia breathes and lowers the notebook slightly while facing Malik more directly. Malik is opposite her with an embarrassed and sincere expression, not threatening. The rainy station lights remain soft behind them.
 
-**Caption:** Then she noticed he looked just as afraid as she felt.
+**Caption / Narrator:** Then she noticed he looked just as afraid as she felt.  
+**Placement:** caption box upper left or top center, not attached to either character.
 
 ### Page 3 — One Seat Between Them
 
-**Panel 1:** Inside the train, Lucia and Malik sit with one empty seat between them. City lights move across the windows. Lucia's lyric notebook rests open on her lap.
+**Panel 1:** Inside the train, Lucia sits left and Malik sits right, with one empty seat clearly between them. City lights move across rainy windows. Lucia's lyric notebook rests open on her lap; Malik faces her with sincere remorse.
 
-**Malik:** I should have answered. I did not know how.
+**Malik:** I should have answered. I did not know how.  
+**Placement:** speech bubble upper right near Malik's head; speech-tail points to Malik; avoid anchoring to Lucia.
 
-**Panel 2:** Close-up on Lucia's face as a joke almost forms, then fades. Her expression becomes honest and gentle. The cinematic lighting is soft and believable.
+**Panel 2:** Close-up on Lucia's face inside the train as a joke almost forms, then fades. Lucia is the only dominant face in the panel, with soft believable train-window light on her expression.
 
-**Lucia, inner thought:** I do not have to make this smaller.
+**Lucia, inner thought:** I do not have to make this smaller.  
+**Placement:** thought bubble upper left beside Lucia's head; thought dots point to Lucia; avoid anchoring to Malik.
 
-**Panel 3:** Lucia turns the notebook toward Malik, showing a simple chorus line without making the text too tiny. Their hands do not touch, but the space between them feels less defended.
+**Panel 3:** Lucia turns the notebook toward Malik, showing a simple chorus line without making the page text too tiny. Lucia is left with the open notebook; Malik is right, listening. Their hands do not touch, but the space between them feels less defended.
 
-**Lucia:** I brought the song. You can hear it if you want.
+**Lucia:** I brought the song. You can hear it if you want.  
+**Placement:** speech bubble upper center-left near Lucia; speech-tail points to Lucia; avoid anchoring to Malik.
 
 ### Page 4 — The Shared Chorus
 
-**Panel 1:** At a small community music room, Lucia sings softly while Malik plays guitar beside her. The room is ordinary: folding chairs, warm lamps, coats on hooks, listening faces.
+**Panel 1:** At a small community music room, Lucia sings softly while Malik plays guitar beside her. The room is ordinary: folding chairs, warm lamps, coats on hooks, listening faces. Lucia and Malik are both visible, with Lucia the emotional focus.
 
-**Caption:** The song sounded different when she stopped guarding it.
+**Caption / Narrator:** The song sounded different when she stopped guarding it.  
+**Placement:** caption box upper left, not attached to any character.
 
-**Panel 2:** Lucia looks out at the small group and sees several faces listening with the same vulnerability. Malik watches the chords carefully, grateful and focused.
+**Panel 2:** Lucia looks out at the small group and sees several faces listening with the same vulnerability. Lucia is visually dominant and speaking gently; Malik watches the chords carefully, grateful and focused, beside her.
 
-**Lucia:** Maybe we can just listen together.
+**Lucia:** Maybe we can just listen together.  
+**Placement:** speech bubble upper left or top center near Lucia's face; speech-tail points to Lucia; avoid anchoring to Malik.
 
 **Panel 3:** Final wide cinematic panel. Lucia and Malik leave the room with the group behind them, rain cleared from the pavement, city lights reflected underfoot. Lucia smiles without forcing humor, notebook held openly at her side.
 
-**Caption:** Trust did not make the past vanish. It let this brother be here now.
+**Caption / Narrator:** Trust did not make the past vanish. It let this brother be here now.  
+**Placement:** caption box upper left, not attached to any character.
 
 ## Image prompts
 
 ### Overall style prompt
 
-Cinematic Realism graphic novel pages, portrait orientation, grounded realistic faces, expressive acting, natural modern city settings, careful warm lighting, and subtle emotional symbolism. Lucia Bell is a consistent mid-20s Caribbean-British musician with colorful headwrap, headphones, gold necklace, denim overshirt, white top, olive pants, white sneakers, and lyric notebook. Use honest human gestures, rain, platform lights, train windows, and small community music-room details. Avoid halos, superheroes, crosses, angels, literal religious imagery, and long copyrighted ACIM text.
+Cinematic Realism graphic novel pages, portrait orientation, grounded realistic faces, expressive acting, natural modern city settings, careful warm lighting, and subtle emotional symbolism. Lucia Bell is a consistent mid-20s Caribbean-British musician with colorful headwrap, headphones, gold necklace, denim overshirt, white top, olive pants, white sneakers, and lyric notebook. Use honest human gestures, rain, platform lights, train windows, and small community music-room details. Avoid halos, superheroes, crosses, angels, literal religious imagery, and long copyrighted ACIM text. Respect text ownership metadata exactly: speech bubble tails and thought dots must point to the specified tail anchor and avoid the avoid anchor.
 
 ### Page 1 prompt
 
-Page 1, "The Person She Had Avoided": three-panel portrait comic page in Cinematic Realism. Rainy evening transit station, warm platform lights, Lucia arriving early with lyric notebook, then seeing Malik with a guitar case. Show guarded recognition through posture, hands, and facial expression.
+Page 1, "The Person She Had Avoided": three-panel portrait comic page in Cinematic Realism. Rainy evening transit station, warm platform lights, Lucia arriving early with lyric notebook, then seeing Malik with a guitar case. Show guarded recognition through posture, hands, and facial expression. In panel 2, Lucia is foreground-left and the thought bubble "Not him. Not tonight." must point to Lucia, not Malik.
 
 ### Page 2 prompt
 
-Page 2, "The Old Evidence": Lucia and Malik on the platform. Show polite guardedness, subtle reflection-flashbacks in train glass, and Lucia beginning to see Malik's embarrassment and fear as human rather than threatening.
+Page 2, "The Old Evidence": Lucia and Malik on the platform. Show polite guardedness, subtle reflection-flashbacks in train glass, and Lucia beginning to see Malik's embarrassment and fear as human rather than threatening. Follow text_items strictly for all speech and thought ownership.
 
 ### Page 3 prompt
 
-Page 3, "One Seat Between Them": inside a train at night, city lights sliding across windows. Lucia lets a defensive joke pass, opens her lyric notebook, and offers the song directly. Keep the emotional shift intimate and realistic.
+Page 3, "One Seat Between Them": inside a train at night, city lights sliding across windows. Lucia lets a defensive joke pass, opens her lyric notebook, and offers the song directly. Keep the emotional shift intimate and realistic. Follow text_items strictly for all speech and thought ownership.
 
 ### Page 4 prompt
 
-Page 4, "The Shared Chorus": small community music room with folding chairs, warm lamps, Lucia singing and Malik playing guitar. Final wide city-night panel after rain, Lucia carrying the notebook openly, trust shown as present-moment openness rather than sentimental certainty.
+Page 4, "The Shared Chorus": small community music room with folding chairs, warm lamps, Lucia singing and Malik playing guitar. Final wide city-night panel after rain, Lucia carrying the notebook openly, trust shown as present-moment openness rather than sentimental certainty. Follow text_items strictly for all captions and speech ownership.
 
 ## Character arc event
 
