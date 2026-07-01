@@ -41,13 +41,13 @@ stories:
   - story_id: STORY-0182
     lesson_number: 182
     date: "2026-07-01"
-    title: "The Small Key"
-    character_id: CHAR-011
-    character_name: Lucia Bell
+    title: "The Bench Between Streets"
+    character_id: CHAR-006
+    character_name: Mateo Alvarez
     style_id: STYLE-002
     style_name: Dreamlike Watercolor
-    story_mode: resting_in_god
-    arc_temperature: 1
-    summary: "Lucia walks home after a tender evening and practices one instant of stillness before trying to secure peace through checking and control."
+    story_mode: integration
+    arc_temperature: 2
+    summary: "Mateo pauses on a quiet bench between two streets and practices receiving home as inward steadiness before trying to prove where he belongs."
     daily_path: content/daily/lesson-182.md
     packet_path: content/packets/lesson-182.yaml
