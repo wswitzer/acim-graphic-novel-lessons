@@ -1,5 +1,6 @@
 story_id: STORY-0183
 target_date: "2026-07-02"
+generated_at_local: "2026-07-01T23:17:12-06:00"
 lesson:
   number: 183
   title: "I Call Upon God's Name And On My Own."
@@ -43,8 +44,9 @@ continuity:
   character_memory_used: >-
     Mateo has started a visible arc around inward belonging. In Lesson 182, he
     practiced pausing between two streets rather than checking messages or
-    choosing a side to prove where he belongs. He remains sensitive, socially
-    uncertain, and still prone to checking his phone for evidence of belonging.
+    choosing a side to prove where he belongs. In Lesson 183, he is ready to
+    deepen that pause into a Name-practice beneath nicknames, labels, languages,
+    and roles.
   before_state: >-
     Mateo begins the evening carrying yesterday's small homecoming practice, but
     a group chat nickname and a family errand make him feel split again between
@@ -127,9 +129,9 @@ graphic_novel:
       panels:
         - panel: 1
           visual: >-
-            Interior of a small late-night laundromat with noir shadows and
-            cool fluorescent light. Mateo stands foreground-center beside a row
-            of washers, holding a cloth bag from home. His mother or aunt is only
+            Interior of a small late-night laundromat with noir shadows and cool
+            fluorescent light. Mateo stands foreground-center beside a row of
+            washers, holding a cloth bag from home. His mother or aunt is only
             represented by an off-panel text message on his phone saying "Mijo,
             please bring the blue blanket." Mateo is clearly the only visible
             speaker or thinker.
@@ -148,7 +150,8 @@ graphic_novel:
             reflection warped in the circular glass door. Around the reflection,
             ghosted typography fragments float subtly in the steam: son, friend,
             outsider, Mexican, American, quiet kid. The words are atmospheric,
-            not speech bubbles. Mateo's eyes are softening as he sees the pattern.
+            not speech bubbles. Mateo's eyes are softening as he sees the
+            pattern.
           inner_thought: "I keep answering to pieces."
           text_items:
             - text_type: inner_thought
@@ -231,9 +234,9 @@ graphic_novel:
         - panel: 1
           visual: >-
             Outside the laundromat, the rain has stopped. Mateo loads the clean
-            blue blanket into his bicycle basket under a dark blue night sky.
-            The wet street reflects signs in both languages, now softened and
-            less aggressive. His face is calm but still young and uncertain.
+            blue blanket into his bicycle basket under a dark blue night sky. The
+            wet street reflects signs in both languages, now softened and less
+            aggressive. His face is calm but still young and uncertain.
           caption: "He still had to ride home through the same streets."
           text_items:
             - text_type: caption
