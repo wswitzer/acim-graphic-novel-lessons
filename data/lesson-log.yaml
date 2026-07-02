@@ -38,3 +38,13 @@ lessons:
     packet_path: content/packets/lesson-182.yaml
     daily_path: content/daily/lesson-182.md
     status: draft
+  - lesson_number: 183
+    date: "2026-07-02"
+    generated_at_local: "2026-07-01T18:05:00-06:00"
+    style_id: STYLE-003
+    character_id: CHAR-006
+    story_mode: deepening
+    arc_temperature: 3
+    packet_path: content/packets/lesson-183.yaml
+    daily_path: content/daily/lesson-183.md
+    status: draft
