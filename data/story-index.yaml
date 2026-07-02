@@ -51,3 +51,16 @@ stories:
     summary: "Mateo pauses on a quiet bench between two streets and practices receiving home as inward steadiness before trying to prove where he belongs."
     daily_path: content/daily/lesson-182.md
     packet_path: content/packets/lesson-182.yaml
+  - story_id: STORY-0183
+    lesson_number: 183
+    date: "2026-07-02"
+    title: "The Name Under Every Name"
+    character_id: CHAR-006
+    character_name: Mateo Alvarez
+    style_id: STYLE-003
+    style_name: Noir Spiritual Drama
+    story_mode: deepening
+    arc_temperature: 3
+    summary: "Mateo notices how nicknames, labels, languages, and family roles split his attention, then practices letting one inward Name gather them into a shared identity."
+    daily_path: content/daily/lesson-183.md
+    packet_path: content/packets/lesson-183.yaml
