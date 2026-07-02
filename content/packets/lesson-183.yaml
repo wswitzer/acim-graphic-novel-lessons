@@ -1,0 +1,336 @@
+story_id: STORY-0183
+target_date: "2026-07-02"
+lesson:
+  number: 183
+  title: "I Call Upon God's Name And On My Own."
+  review_of: null
+  source_url: "https://acimi.com/a-course-in-miracles/workbook/lesson-183"
+selection:
+  style_id: STYLE-003
+  style_name: Noir Spiritual Drama
+  character_id: CHAR-006
+  character_name: Mateo Alvarez
+  story_mode: deepening
+  arc_temperature: 3
+  arc_stage_used: repeated_practice
+  character_selection_rationale: >-
+    Mateo is continued for a second lesson because Lesson 183 directly deepens
+    his current belonging arc: the lesson turns from finding home inwardly to
+    remembering a Name that is not divided by language, street, family, or peer
+    group. This is within the allowed 2-3 lesson short arc and does not exceed
+    the rotation gate.
+  character_arc_status: continuing_arc
+  recent_same_character_count: 1
+  lesson_fit_reason: >-
+    Mateo's wound is feeling split between worlds and unsure where he belongs.
+    A lesson about calling on God's Name and his own lets him practice identity
+    beneath labels, nicknames, group chats, Spanish, English, and family
+    expectations without resolving his whole belonging pattern.
+story:
+  title: "The Name Under Every Name"
+  original_theme: >-
+    Names can become little labels that divide, prove, rank, or exclude, but
+    beneath them is one shared identity that quietly answers when called.
+  synopsis: >-
+    Mateo moves through a noir-lit borderland evening where every sign, nickname,
+    contact name, and family label seems to pull him into a different version of
+    himself. After a small social sting in a group chat, he rides to a late-night
+    laundromat and notices how many names he uses to keep himself safe. Sitting
+    beside an older neighbor in quiet, he lets one inward Name become wider than
+    all the little names, and the city no longer feels like a set of competing
+    worlds but like one dark room slowly answering with light.
+continuity:
+  character_memory_used: >-
+    Mateo has started a visible arc around inward belonging. In Lesson 182, he
+    practiced pausing between two streets rather than checking messages or
+    choosing a side to prove where he belongs. He remains sensitive, socially
+    uncertain, and still prone to checking his phone for evidence of belonging.
+  before_state: >-
+    Mateo begins the evening carrying yesterday's small homecoming practice, but
+    a group chat nickname and a family errand make him feel split again between
+    friends, language, neighborhood, and home.
+  inner_movement: >-
+    He notices that every little name seems to demand a different self from him,
+    then becomes willing to let one quiet inward Name hold all the fragments
+    without forcing a choice.
+  miracle_shift: >-
+    Mateo experiences identity as something received and shared rather than
+    performed. He still has social uncertainty, but the labels lose their power
+    for one clear instant.
+  unresolved_thread: >-
+    Mateo will still compare himself to others and reach for his phone when he
+    feels excluded. His belonging is not fully stable yet, but he now has a
+    simple Name-practice alongside the between-places pause.
+  updated_memory_proposal: >-
+    Mateo practiced noticing the many little names that try to divide him and
+    letting one inward Name gather them into a quiet shared identity. He did not
+    become socially fearless, but he found that his real name is not threatened
+    by nicknames, languages, group chats, or family expectations.
+graphic_novel:
+  pages:
+    - page: 1
+      title: "Little Names"
+      panels:
+        - panel: 1
+          visual: >-
+            Portrait comic page panel in Noir Spiritual Drama style. Evening on
+            a Mexican-American borderland street after rain; neon signs reflect
+            in puddles. Mateo Alvarez rides his bicycle foreground-right, hoodie
+            up, earbuds in, family bracelet visible on one wrist. Behind him,
+            storefront signs in English and Spanish overlap like sharp layers.
+            Keep Mateo's face visible in three-quarter view, observant and
+            unsettled.
+          caption: "The city had many names for every street."
+          text_items:
+            - text_type: caption
+              speaker: Narrator
+              text: "The city had many names for every street."
+              render_as: caption_box
+              placement: "caption box upper left"
+              tail_anchor: null
+              avoid_anchor: "Mateo Alvarez"
+        - panel: 2
+          visual: >-
+            Close-up of Mateo stopped under a flickering bus shelter light,
+            phone glowing in his hand. The group chat is visible only as abstract
+            message blocks and a readable nickname: "Border Boy." Mateo's face
+            is foreground-left, embarrassed and guarded; a blurred group of teens
+            is far background-right across the street, not close enough to own
+            the thought bubble.
+          inner_thought: "Is that all they see?"
+          text_items:
+            - text_type: inner_thought
+              speaker: Mateo Alvarez
+              text: "Is that all they see?"
+              render_as: thought_bubble
+              placement: "upper left beside Mateo's hood"
+              tail_anchor: "Mateo Alvarez"
+              avoid_anchor: "background teens"
+        - panel: 3
+          visual: >-
+            Mateo pedals away through a narrow street where signs, license
+            plates, and painted family names appear as fragmented reflections in
+            wet asphalt. His bicycle cuts through the reflections but does not
+            erase them. His bracelet catches one small clean highlight while his
+            earbuds trail down from his hoodie.
+          caption: "Every label seemed to ask him to become smaller."
+          text_items:
+            - text_type: caption
+              speaker: Narrator
+              text: "Every label seemed to ask him to become smaller."
+              render_as: caption_box
+              placement: "caption box lower left over dark pavement"
+              tail_anchor: null
+              avoid_anchor: "Mateo Alvarez"
+    - page: 2
+      title: "The Errand"
+      panels:
+        - panel: 1
+          visual: >-
+            Interior of a small late-night laundromat with noir shadows and
+            cool fluorescent light. Mateo stands foreground-center beside a row
+            of washers, holding a cloth bag from home. His mother or aunt is only
+            represented by an off-panel text message on his phone saying "Mijo,
+            please bring the blue blanket." Mateo is clearly the only visible
+            speaker or thinker.
+          caption: "At the laundromat, home had another name for him."
+          text_items:
+            - text_type: caption
+              speaker: Narrator
+              text: "At the laundromat, home had another name for him."
+              render_as: caption_box
+              placement: "caption box upper left above washers"
+              tail_anchor: null
+              avoid_anchor: "Mateo Alvarez"
+        - panel: 2
+          visual: >-
+            Mateo crouches in front of a spinning washer, foreground-right, his
+            reflection warped in the circular glass door. Around the reflection,
+            ghosted typography fragments float subtly in the steam: son, friend,
+            outsider, Mexican, American, quiet kid. The words are atmospheric,
+            not speech bubbles. Mateo's eyes are softening as he sees the pattern.
+          inner_thought: "I keep answering to pieces."
+          text_items:
+            - text_type: inner_thought
+              speaker: Mateo Alvarez
+              text: "I keep answering to pieces."
+              render_as: thought_bubble
+              placement: "upper right beside Mateo's face"
+              tail_anchor: "Mateo Alvarez"
+              avoid_anchor: "washer reflection"
+        - panel: 3
+          visual: >-
+            An older neighbor, Mr. Salas, sits background-left folding towels,
+            gentle and quiet. Mateo sits foreground-right on a plastic chair,
+            phone face-down on his knee, bracelet visible. Mr. Salas looks toward
+            Mateo with simple kindness but does not dominate the panel.
+          dialogue: "You look like you're listening for the wrong voice, kid."
+          text_items:
+            - text_type: dialogue
+              speaker: Mr. Salas
+              text: "You look like you're listening for the wrong voice, kid."
+              render_as: speech_bubble
+              placement: "upper left above Mr. Salas"
+              tail_anchor: "Mr. Salas"
+              avoid_anchor: "Mateo Alvarez"
+    - page: 3
+      title: "The Quiet Name"
+      panels:
+        - panel: 1
+          visual: >-
+            Mateo and Mr. Salas sit several chairs apart in the laundromat. Mr.
+            Salas is background-left with folded towels; Mateo is foreground-right,
+            clearly visible from face to hands, eyes lowered. The washers blur
+            into circular pools of light behind them. The mood is still, not
+            sentimental.
+          dialogue: "Maybe just sit. Let the real one answer."
+          text_items:
+            - text_type: dialogue
+              speaker: Mr. Salas
+              text: "Maybe just sit. Let the real one answer."
+              render_as: speech_bubble
+              placement: "upper left above Mr. Salas"
+              tail_anchor: "Mr. Salas"
+              avoid_anchor: "Mateo Alvarez"
+        - panel: 2
+          visual: >-
+            Close-up on Mateo foreground-center, hoodie framing his face, earbuds
+            resting unused around his neck, phone now completely dark in his lap.
+            His bracelet is held lightly between his fingers. The laundromat
+            lights soften into a single calm reflection behind him. No other
+            character is prominent.
+          inner_thought: "One Name. Under all of mine."
+          text_items:
+            - text_type: inner_thought
+              speaker: Mateo Alvarez
+              text: "One Name. Under all of mine."
+              render_as: thought_bubble
+              placement: "upper right beside Mateo's head"
+              tail_anchor: "Mateo Alvarez"
+              avoid_anchor: "phone"
+        - panel: 3
+          visual: >-
+            The laundromat appears wider and quieter, still noir but with a clean
+            pale glow running along the washer doors like a row of small moons.
+            Mateo sits foreground-left, visibly breathing easier. Mr. Salas is
+            background-right, folding towels without looking up. The light does
+            not form a halo or religious symbol; it simply makes the ordinary
+            room feel joined.
+          caption: "The little names did not vanish. They grew quiet."
+          text_items:
+            - text_type: caption
+              speaker: Narrator
+              text: "The little names did not vanish. They grew quiet."
+              render_as: caption_box
+              placement: "caption box top center"
+              tail_anchor: null
+              avoid_anchor: "Mateo Alvarez"
+    - page: 4
+      title: "Answering"
+      panels:
+        - panel: 1
+          visual: >-
+            Outside the laundromat, the rain has stopped. Mateo loads the clean
+            blue blanket into his bicycle basket under a dark blue night sky.
+            The wet street reflects signs in both languages, now softened and
+            less aggressive. His face is calm but still young and uncertain.
+          caption: "He still had to ride home through the same streets."
+          text_items:
+            - text_type: caption
+              speaker: Narrator
+              text: "He still had to ride home through the same streets."
+              render_as: caption_box
+              placement: "caption box upper left"
+              tail_anchor: null
+              avoid_anchor: "Mateo Alvarez"
+        - panel: 2
+          visual: >-
+            Mateo pauses at an intersection. The group chat notification lights
+            his phone in the bicycle mount, but he does not touch it. Mateo is
+            foreground-left, one hand on the handlebar and one hand touching his
+            bracelet. The streets split ahead, but both directions share the same
+            gentle reflected light.
+          inner_thought: "I can answer from here."
+          text_items:
+            - text_type: inner_thought
+              speaker: Mateo Alvarez
+              text: "I can answer from here."
+              render_as: thought_bubble
+              placement: "upper left beside Mateo's face"
+              tail_anchor: "Mateo Alvarez"
+              avoid_anchor: "phone notification"
+        - panel: 3
+          visual: >-
+            Final wide portrait panel. Mateo rides home along the quiet street,
+            small but centered, hoodie and earbuds visible, blanket in basket,
+            bracelet glinting. Store signs and street names recede into a single
+            luminous path of reflections. The mood is noir transformed by peace,
+            with no halos, no angels, no literal religious imagery.
+          caption: "For one clear instant, every name pointed home."
+          text_items:
+            - text_type: caption
+              speaker: Narrator
+              text: "For one clear instant, every name pointed home."
+              render_as: caption_box
+              placement: "caption box lower center over dark street"
+              tail_anchor: null
+              avoid_anchor: "Mateo Alvarez"
+image_prompts:
+  overall: >-
+    Use Mateo_ACIM_reference.png as the visual identity reference for Mateo
+    Alvarez. Preserve Mateo's face, hairstyle, hoodie direction, earbuds,
+    bicycle, family bracelet, proportions, and sensitive observant design from
+    the reference image. Render a finished portrait-oriented Noir Spiritual Drama
+    graphic novel sequence with high-contrast shadows, rain-slick streets, neon
+    reflections, expressive faces, and clean readable caption boxes/thought
+    bubbles/speech bubbles. Avoid halos, superheroes, angels, literal religious
+    cliches, and long copyrighted ACIM text. Text ownership from text_items is
+    authoritative.
+  page_1: >-
+    Page 1, "Little Names": three clear panels. Mateo rides through a rain-slick
+    borderland street of English and Spanish signs, receives a group chat nickname
+    that stings, and pedals away through fragmented reflected labels. Keep Mateo
+    visually consistent with Mateo_ACIM_reference.png, hoodie, earbuds, bicycle,
+    bracelet. Render captions and Mateo's thought bubble exactly from the packet
+    with unambiguous ownership.
+  page_2: >-
+    Page 2, "The Errand": three clear panels inside a late-night laundromat. Mateo
+    brings a blue blanket from home, sees his divided labels reflected in a washer
+    door, and hears quiet guidance from Mr. Salas folding towels. Use noir
+    fluorescent light and soft steam. Render the narrator caption, Mateo thought
+    bubble, and Mr. Salas speech bubble with tails/placements from text_items.
+  page_3: >-
+    Page 3, "The Quiet Name": three clear panels in the laundromat. Mr. Salas
+    invites quiet; Mateo sits with phone dark, bracelet in hand, and lets one
+    inward Name gather the scattered labels. The washers glow like ordinary moons,
+    not religious symbols. Render text exactly and keep Mateo as the clear owner
+    of his thought bubble.
+  page_4: >-
+    Page 4, "Answering": three clear panels outside after rain. Mateo loads the
+    clean blue blanket, pauses at an intersection without checking the group chat,
+    and rides home through softened street-name reflections. Noir transformed by
+    peace; no literal religious imagery. Render the final captions and Mateo's
+    thought bubble exactly from text_items.
+spanish_practice:
+  level: A1/A2
+  phrases:
+    - english: "I have many little names."
+      spanish: "Tengo muchos nombres pequeños."
+    - english: "My true name is quiet."
+      spanish: "Mi nombre verdadero está tranquilo."
+    - english: "I can listen inside."
+      spanish: "Puedo escuchar adentro."
+    - english: "The street is the same, but I see it with peace."
+      spanish: "La calle es la misma, pero la veo con paz."
+  micro_practice: >-
+    Say slowly: "Puedo escuchar adentro." Touch the bracelet or one hand, breathe,
+    and let the sentence be simple rather than dramatic.
+suno_prompt: >-
+  Create a contemplative noir-borderland devotional song inspired by ACIM Lesson
+  183, without quoting the lesson body. Theme: many little names fade beneath one
+  shared holy identity. Sound: late-night desert city, soft Latin guitar pulses,
+  brushed drums, warm bass, distant synth pads, intimate male vocal with gentle
+  bilingual undertones. Mood arc: social sting, quiet laundromat, one inward Name,
+  peaceful ride home. Include the title phrase "I Call Upon God's Name And On My
+  Own" once as a clear refrain, but keep lyrics original and simple.
+status: draft
