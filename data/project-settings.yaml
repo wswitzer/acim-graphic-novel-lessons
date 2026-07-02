@@ -5,9 +5,13 @@ project:
 
 lesson_source:
   primary_url: https://acimi.com/a-course-in-miracles/lesson-of-the-day
-  copyright_rule: >-
-    Do not reproduce long copyrighted ACIM body text. Use lesson number, lesson title,
-    links, and original summaries/reflections only.
+  lesson_text_use_rule: >-
+    Let each packet be guided by what is truly central and spiritually important in
+    the lesson. Important ACIM lesson phrases may be used when they genuinely help
+    the story, captions, dialogue, inner thoughts, image prompts, Spanish practice,
+    or Suno prompt. Do not turn the packet into a long verbatim lesson transcript
+    or mechanically stitch together Course phrases; create an original graphic-novel
+    story that faithfully carries the lesson's meaning.
 
 generation:
   schedule_intent: Generate the next day's lesson packet the evening before it is used.
