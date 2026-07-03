@@ -50,10 +50,10 @@ lessons:
     status: draft
   - lesson_number: 184
     date: "2026-07-03"
-    generated_at_local: "2026-07-02T00:08:00-06:00"
+    generated_at_local: "2026-07-02T23:35:10-06:00"
     style_id: STYLE-004
-    character_id: CHAR-006
-    story_mode: integration
+    character_id: CHAR-010
+    story_mode: holy_instant
     arc_temperature: 2
     packet_path: content/packets/lesson-184.yaml
     daily_path: content/daily/lesson-184.md
