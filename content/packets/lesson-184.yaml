@@ -1,6 +1,6 @@
 story_id: STORY-0184
 target_date: "2026-07-03"
-generated_at_local: "2026-07-02T00:08:00-06:00"
+generated_at_local: "2026-07-02T22:00:50-06:00"
 lesson:
   number: 184
   title: "The Name Of God Is My Inheritance."
@@ -100,8 +100,8 @@ graphic_novel:
             clean blue blanket on a chair. His grandmother, Abuela Rosa, is
             background-left near a table of old photos and fruit. Mateo's cousin
             Nico leans in the doorway background-right with a teasing grin. Keep
-            Mateo clearly visible as the thought owner, one hand touching his
-            bracelet.
+            Mateo clearly visible, one hand touching his bracelet, while the
+            dialogue bubble clearly belongs to Nico in the doorway.
           dialogue: "Look at him, half from here and half from everywhere."
           text_items:
             - text_type: dialogue
@@ -136,7 +136,8 @@ graphic_novel:
             bracelet gently in both hands. Mateo sits foreground-right, attentive
             and tender, his hoodie sleeves pushed back and earbuds resting unused
             around his neck. Nico is not visible in this panel. Morning light
-            makes the old photos on the table shimmer softly.
+            makes the old photos on the table shimmer softly. The speech bubble
+            must point to Abuela Rosa, not Mateo.
           dialogue: "This carries our family name, mijo. But not like a chain."
           text_items:
             - text_type: dialogue
@@ -152,7 +153,8 @@ graphic_novel:
             kitchen briefly becomes luminous fantasy realism: old family photos,
             street signs, school labels, and text-message names float as delicate
             translucent symbols. They circle around Mateo but do not touch or
-            trap him. Keep his face visible and emotionally readable.
+            trap him. Keep his face visible and emotionally readable so the
+            thought bubble can attach to him.
           inner_thought: "Maybe symbols can point without owning me."
           text_items:
             - text_type: inner_thought
@@ -202,7 +204,8 @@ graphic_novel:
             Close-up on Mateo's wrist and bracelet, with his face reflected softly
             in a balcony window. The reflection shows him as whole rather than
             split. Small luminous threads move from the bracelet outward into the
-            city, but the bracelet remains just a humble family object.
+            city, but the bracelet remains just a humble family object. Mateo's
+            reflected face is the thought owner.
           inner_thought: "It was given before I could prove it."
           text_items:
             - text_type: inner_thought
@@ -217,7 +220,8 @@ graphic_novel:
             Nico appears in the balcony doorway background-right, less teasing
             now. Mateo is foreground-left, turning toward him with a small, honest
             smile. The city light behind Mateo is warm and impossible, like a door
-            opening in the air, but no halo forms around either character.
+            opening in the air, but no halo forms around either character. The
+            speech bubble must point to Mateo.
           dialogue: "I'm not half. I just have more ways to answer."
           text_items:
             - text_type: dialogue
@@ -253,7 +257,7 @@ graphic_novel:
             safely in the basket, bracelet visible on the handlebar hand. Store
             signs in Spanish and English appear again, but they are softened by
             luminous fantasy-realism light. Mateo is foreground-center, calm but
-            still young and sensitive.
+            still young and sensitive. The thought bubble belongs to Mateo only.
           inner_thought: "I can belong without making anyone else outside."
           text_items:
             - text_type: inner_thought
