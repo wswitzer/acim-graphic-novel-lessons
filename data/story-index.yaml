@@ -64,3 +64,16 @@ stories:
     summary: "Mateo notices how nicknames, labels, languages, and family roles split his attention, then practices letting one inward Name gather them into a shared identity."
     daily_path: content/daily/lesson-183.md
     packet_path: content/packets/lesson-183.yaml
+  - story_id: STORY-0184
+    lesson_number: 184
+    date: "2026-07-03"
+    title: "The Bracelet That Did Not Choose"
+    character_id: CHAR-006
+    character_name: Mateo Alvarez
+    style_id: STYLE-004
+    style_name: Luminous Fantasy Realism
+    story_mode: integration
+    arc_temperature: 2
+    summary: "Mateo lets an old family bracelet become a symbol of inherited love rather than a demand to choose one language, street, family role, or side of himself."
+    daily_path: content/daily/lesson-184.md
+    packet_path: content/packets/lesson-184.yaml
