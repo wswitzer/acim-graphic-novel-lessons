@@ -67,13 +67,13 @@ stories:
   - story_id: STORY-0184
     lesson_number: 184
     date: "2026-07-03"
-    title: "The Bracelet That Did Not Choose"
-    character_id: CHAR-006
-    character_name: Mateo Alvarez
+    title: "The Ticket With No Name"
+    character_id: CHAR-010
+    character_name: Kenji Watanabe
     style_id: STYLE-004
     style_name: Luminous Fantasy Realism
-    story_mode: integration
+    story_mode: holy_instant
     arc_temperature: 2
-    summary: "Mateo lets an old family bracelet become a symbol of inherited love rather than a demand to choose one language, street, family role, or side of himself."
+    summary: "Kenji notices that repair tags and customer names can be useful symbols without becoming anyone's reality, then meets an anxious customer beyond her ticket number."
     daily_path: content/daily/lesson-184.md
     packet_path: content/packets/lesson-184.yaml
