@@ -1,50 +1,67 @@
-# Lesson 184 — The Name Of God Is My Inheritance.
+# Lesson 184 — The Name of God is my inheritance.
 
 **Target date:** 2026-07-03  
-**Generated at:** 2026-07-02T22:00:50-06:00  
+**Generated at:** 2026-07-02T23:35:10-06:00  
 **Story ID:** STORY-0184  
-**Story title:** The Bracelet That Did Not Choose  
+**Story title:** The Ticket With No Name  
 **Selected style:** STYLE-004 — Luminous Fantasy Realism  
-**Selected character:** CHAR-006 — Mateo Alvarez  
-**Character reference filename:** Mateo_ACIM_reference.png  
+**Selected character:** CHAR-010 — Kenji Watanabe  
+**Character reference filename:** Kenji_ACIM_reference.png  
 **Status:** draft
 
 ## Source
 
-- Lesson source: https://acimi.com/a-course-in-miracles/workbook/lesson-184
-- Copyright handling: lesson number, lesson title, source link, and original summaries/reflections only. No long copyrighted ACIM body text reproduced.
+- Lesson source: `data/lessons/lesson-184.json`
+- Primary lesson field used: `idea_clean`
+- Copyright handling: lesson number, lesson title, source path, short phrases, and original summaries/reflections only. No long copyrighted ACIM body text reproduced.
+
+## Lesson Digest
+
+**Core movement:** The lesson moves the mind from trusting the world's labels, names, bodies, events, and categories as separate realities into a quiet recognition that names can be used for communication without being accepted as truth.
+
+**Practice shape:** Notice the mind's habit of naming and separating; pause in quiet intervals; accept one shared Identity beneath every label; return to ordinary names and symbols lightly, using them for convenience without letting them define reality.
+
+**Key story ideas:**
+
+- Names and labels can make things seem separate and self-contained.
+- Symbols are useful for communication, but they are not the reality they seem to name.
+- Quiet intervals let the mind step out of the prison of labels.
+- Returning to the world with lighter perception lets the same names be used without deception.
+- Seeing beyond labels allows a brother to be met as more than a role, problem, or history.
+
+**Title overfit warning:** This story does not turn inheritance into a family object or dramatize one word from the title. It shows Kenji using repair tags and customer names for convenience while learning not to accept them as anyone's reality.
 
 ## Character Selection Gate
 
-Mateo Alvarez continues for a third consecutive lesson. This is inside the allowed 2-3 lesson short-arc range and should naturally invite rotation away from Mateo next. Lesson 184 naturally fits Mateo because his current arc is about belonging, identity, names, and inheritance across family, language, and social worlds.
+Kenji Watanabe begins a new arc. Mateo had completed three consecutive lessons, and his memory says to rotate away unless there is a strong deliberate reason to continue. Lesson 184 naturally fits Kenji because it concerns silence, communication, names, symbols, and a unified seeing beneath ordinary labels.
 
-**Recent same-character count:** 2  
-**Arc status:** continuing_arc  
-**Story mode:** integration  
+**Recent same-character count:** 0  
+**Arc status:** new_arc_start  
+**Story mode:** holy_instant  
 **Arc temperature:** 2  
-**Arc stage used:** embodied_trust
+**Arc stage used:** first_recognition
 
 ## Original Theme
 
-Inheritance is not earned by choosing the right label, language, street, or family role. It is received as a shared identity that was quietly given before any name in the world tried to define us.
+Names and labels can help us move through a day, but peace returns when we stop asking them to tell us what anyone is.
 
 ## Synopsis
 
-The morning after the laundromat, Mateo rides to deliver the blue blanket and finds himself drawn into a family naming argument over an old bracelet. His cousin jokes that Mateo is becoming too American; his grandmother says the bracelet carries the family name. Mateo feels the old split rise again, but instead of defending one side, he notices the bracelet as a symbol pointing past all sides. In a luminous fantasy-realism shift, the family kitchen, street signs, and old photos briefly open into one shared light. Mateo does not become socially fearless, but he receives one quiet certainty: what he truly inherits does not force him to choose against anyone.
+Kenji opens his small repair shop by sorting wooden boxes and umbrellas by customer tickets, each tag making the day feel safely divided and controlled. When an anxious customer arrives before opening and Kenji silently sees her only as a difficult ticket, the room tightens. A dropped drawer scatters the labels across the floor, and Kenji takes a quiet interval instead of rushing to restore order. In the stillness, the tags become simple paper again. He returns to the counter, uses the customer's name kindly, and repairs the box with her watching, not as a problem to solve but as a brother to meet.
 
 ## Continuity
 
-Mateo begins with the inward home practice from Lesson 182 and the Name-practice from Lesson 183. A family moment pulls on the same belonging wound, but the shift is gentler: family symbols and worldly names become useful pointers rather than definitions. The miracle shift is that Mateo receives inherited love without needing it to exclude any part of his life.
+Kenji begins from his base profile as a quiet urban craftsman. He is precise, gentle, and reserved, with careful hands, an apron, a wooden box, and a rain umbrella. He has touched wordless peace, but still withdraws when emotion rises and can mistake speechlessness for distance. This lesson gives him one first recognition that symbols can serve joining without replacing it.
 
 ## Page Plan
 
-1. **The Morning After** — Mateo brings the blue blanket to family, is teased by Nico, and wonders whether he has to choose one name.
-2. **What The Bracelet Carries** — Abuela Rosa reframes the bracelet as family name but not a chain; Mateo sees symbols without being owned by them.
-3. **Inheritance** — On the balcony, Mateo receives inheritance as something given before proof and answers Nico without splitting himself.
-4. **No Side Left Outside** — Mateo and Nico carry the blanket together; Mateo returns to the bench between streets with a quieter understanding.
+1. **Ticket Numbers** — Kenji sorts repair tickets, reduces a music box to a label, and is interrupted by Ms. Arai.
+2. **The Interval** — The tags spill; Kenji notices he is seeing the label instead of the person and pauses.
+3. **For Convenience** — Kenji uses Ms. Arai's name kindly and repairs the box with the ticket resting aside.
+4. **One Shop, Many Names** — Kenji returns to the same labels, now using them lightly, and opens the door into a less separate world.
 
 ## Image Generation Notes
 
-Use `Mateo_ACIM_reference.png` as the visual identity reference for Mateo Alvarez. Preserve his face, hoodie direction, earbuds, bicycle, family bracelet, proportions, and sensitive observant design. Use Luminous Fantasy Realism: grounded family interiors, ordinary city streets, subtle impossible light, and no halos or literal religious imagery.
+Use `Kenji_ACIM_reference.png` as the visual identity reference for Kenji Watanabe. Preserve his face, reserved expression, apron, careful hands, wooden box, rain umbrella, proportions, and gentle quiet design. Use Luminous Fantasy Realism: grounded repair-shop interiors, ordinary city rain, subtle unified light in the spaces between objects, and no halos or literal religious imagery.
 
-Text ownership is defined in the packet's `text_items` fields. Captions are narrator caption boxes. Dialogue points to the speaking character. Mateo's inner thoughts point only to Mateo.
+Text ownership is defined in the packet's `text_items` fields. Captions are narrator caption boxes. Dialogue points to the speaking character. Kenji's inner thoughts point only to Kenji.
