@@ -5,7 +5,10 @@
 **Story title:** The Quiet Estimate  
 **Style:** STYLE-005 — Minimalist Ink and Wash  
 **Character:** CHAR-010 — Kenji Watanabe  
-**Packet:** `content/packets/lesson-185.yaml`
+**Character reference:** `Kenji_ACIM_reference.png`  
+**Packet:** `content/packets/lesson-185.yaml`  
+**Status:** draft  
+**Validation:** passed
 
 ## Lesson digest
 
@@ -19,13 +22,17 @@ At the repair shop, Kenji prepares a careful estimate for Mrs. Sato's damaged mu
 
 Kenji continues from Lesson 184, where he learned that labels and repair tickets can be useful without becoming anyone's reality. In this lesson, the next step is subtler: he notices that even his wish for quiet can become a bargain for separation. He does not become suddenly emotionally open or talkative, but he practices one small honest gesture that lets silence become shared intent.
 
-## Image generation note
+## First page / first panel title card
 
-Use `Kenji_ACIM_reference.png` as the character reference. Page 1, panel 1 must include a tasteful visible title card:
+Page 1, panel 1 must include a tasteful visible title card:
 
 ```text
 Lesson 185 — I want the peace of God.
 Kenji Watanabe
 ```
 
-Use the packet’s `graphic_novel.pages`, panel scripts, and `text_items` as authoritative for composition, text, placement, and ownership.
+Use a small pale rice-paper title plaque in the upper left, integrated into the repair-shop wall light. Do not cover Kenji's face, Kenji's hands, or the damaged music box.
+
+## Image generation note
+
+Use `Kenji_ACIM_reference.png` as the character reference. Use the packet’s `graphic_novel.pages`, panel scripts, and `text_items` as authoritative for composition, text, placement, and ownership.
