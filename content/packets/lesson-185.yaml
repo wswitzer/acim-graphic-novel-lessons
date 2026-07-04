@@ -1,0 +1,254 @@
+story_id: STORY-0185
+target_date: "2026-07-04"
+lesson:
+  number: 185
+  title: "I want the peace of God."
+  review_of: null
+  source_url: "data/lessons/lesson-185.json"
+selection:
+  style_id: STYLE-005
+  style_name: Minimalist Ink and Wash
+  character_id: CHAR-010
+  character_name: Kenji Watanabe
+  story_mode: relationship_joining
+  arc_temperature: 3
+  arc_stage_used: repeated_practice
+  character_selection_rationale: >-
+    Kenji was used once in the immediately previous lesson, so continuing him is within the 2-3 lesson short-arc guideline. Lesson 185's emphasis on genuinely wanting peace rather than bargaining fits Kenji's current thread: he can let precision and silence become a bridge instead of a quiet compromise that keeps human need at a distance.
+  character_arc_status: continuing_arc
+  recent_same_character_count: 1
+  lesson_fit_reason: >-
+    Kenji's pattern of using labels, systems, and careful work to keep emotion manageable gives a concrete ordinary setting for the lesson's contrast between bargaining with dreams and sincerely asking for the peace of God. A small repair-shop encounter lets him experience peace as shared intent rather than a private calm he protects.
+lesson_digest:
+  lesson_text_source_used: data/lessons/lesson-185.json
+  lesson_core_movement: >-
+    The lesson invites the student to move from merely saying "I want the peace of God" into meaning it with sincerity, which means recognizing that cherished dreams, bargains, compromises, and private outcomes cannot give peace. As the wish becomes honest, the mind joins with others because God's peace is not a private possession but a gift that unites.
+  lesson_practice_shape: >-
+    The student quietly searches the mind for the dreams still being asked for as comfort or happiness, and asks of each one whether it is truly wanted in place of Heaven and the peace of God. The practice is not shame about lingering illusions, but honest recognition that all dreams are the same in failing to satisfy, followed by a sincere request for the peace already given by God and shared with every brother.
+  key_ideas_for_story:
+    - Words about peace are empty unless the heart means them.
+    - Compromise and bargaining can imitate union, but cannot give real joining.
+    - Cherished private outcomes can be gently questioned without shame.
+    - When peace is sincerely wanted, help appears in a form the mind can understand.
+    - God's gift of peace is received by sharing one intent with another.
+  useful_short_phrases:
+    - "I want the peace of God."
+    - "Is this what I would have?"
+    - "No gift of God can be unshared."
+  title_overfit_warning: >-
+    The story will not simply show Kenji seeking a peaceful mood or a calm room. It will embody the lesson's actual movement by having him notice a subtle bargain beneath his wish for quiet, question whether that bargain is what he really wants, and accept a shared moment of peace with another person.
+story:
+  title: "The Quiet Estimate"
+  original_theme: >-
+    Peace is not the private quiet Kenji can protect by staying precise; it is the shared intent that appears when he stops bargaining for distance and asks honestly for what both people truly want.
+  synopsis: >-
+    At the repair shop, Kenji prepares a careful estimate for Mrs. Sato's damaged music box and tells himself he wants peace. But his wish is mixed with a private bargain: if he stays exact, brief, and professional, he will not have to feel her grief. As he notices the bargain, he asks whether that distance is what he would have in place of peace. One simple sentence and one shared listening moment let the shop become quiet in a different way, not empty of feeling but joined.
+continuity:
+  character_memory_used: >-
+    Kenji recently learned that repair tags and customer names are useful symbols without being anyone's reality. He remains quiet, precise, and gently opened, but still uses labels, systems, and silence to keep human need at a manageable distance.
+  before_state: >-
+    Kenji begins the day rested but guarded, relying on careful estimates and shop routines to keep Mrs. Sato's emotion from reaching him too directly.
+  inner_movement: >-
+    He recognizes that his wish for a quiet shop is partly a bargain for separation, then lets the lesson question that bargain without shame.
+  miracle_shift: >-
+    Kenji speaks one honest, gentle sentence and listens with Mrs. Sato to the damaged music box; the same silence that could have separated them becomes a shared request for peace.
+  unresolved_thread: >-
+    Kenji is still not comfortable with strong emotion and may retreat into task-control again, but he now has another lived example of silence joining rather than isolating.
+  updated_memory_proposal: >-
+    Kenji practiced Lesson 185 by noticing that his wish for peace was mixed with a bargain for distance. In a repair-shop moment with Mrs. Sato, he questioned whether protected quiet was what he wanted in place of God's peace and let one small honest sentence turn silence into shared intent.
+graphic_novel:
+  page_count: 4
+  pages:
+    - page: 1
+      title: "The Bargain Under Quiet"
+      panels:
+        - panel: 1
+          visual: >-
+            Minimalist ink-and-wash opening panel inside Kenji's small urban repair shop. Kenji stands at his workbench in apron, careful hands resting near a damaged wooden music box and a neatly written estimate form. The upper left has an elegant pale rice-paper title plaque integrated into the wall light, not covering Kenji's face, the music box, or his hands. Sparse shelves, a rain umbrella by the door, and quiet negative space establish the scene.
+          caption: "Lesson 185 — I want the peace of God.\nKenji Watanabe"
+          text_items:
+            - text_type: caption
+              speaker: Narrator
+              text: "Lesson 185 — I want the peace of God.\nKenji Watanabe"
+              render_as: caption_box
+              placement: "upper left as a small pale rice-paper title plaque integrated into the shop wall light"
+              tail_anchor: null
+              avoid_anchor: "Kenji's face, Kenji's hands, and the damaged music box"
+        - panel: 2
+          visual: >-
+            Close view of Kenji's hand writing a precise estimate beside the cracked music box. The lines are clean, the wash is restrained, and the room feels orderly but emotionally held back. Mrs. Sato is only suggested by a soft silhouette near the doorway, background-right, so Kenji's private thought clearly belongs to him.
+          inner_thought: "I want peace. A simple estimate. No more than that."
+          text_items:
+            - text_type: inner_thought
+              speaker: Kenji Watanabe
+              text: "I want peace. A simple estimate. No more than that."
+              render_as: thought_bubble
+              placement: "upper right beside Kenji's bowed head and hand"
+              tail_anchor: Kenji Watanabe
+              avoid_anchor: "Mrs. Sato's doorway silhouette"
+        - panel: 3
+          visual: >-
+            Mrs. Sato, an elderly customer in a raincoat, stands foreground-right holding the music box lid with both hands. Kenji is foreground-left behind the counter, visible from shoulders up, attentive but stiff. The music box sits between them like a small fragile bridge.
+          dialogue: "It was my husband's. I only wanted to hear it once more."
+          text_items:
+            - text_type: dialogue
+              speaker: Mrs. Sato
+              text: "It was my husband's. I only wanted to hear it once more."
+              render_as: speech_bubble
+              placement: "upper right above Mrs. Sato's bowed face"
+              tail_anchor: Mrs. Sato
+              avoid_anchor: Kenji Watanabe
+    - page: 2
+      title: "What Is Being Asked For"
+      panels:
+        - panel: 1
+          visual: >-
+            Kenji looks down at the estimate form. In the ink wash behind the numbers, faint dreamlike boxes appear: fixed price, short visit, no tears, no obligation. The symbols stay subtle and monochrome, like thoughts passing over paper, not magical spectacle.
+          inner_thought: "A quiet shop... or a quiet heart?"
+          text_items:
+            - text_type: inner_thought
+              speaker: Kenji Watanabe
+              text: "A quiet shop... or a quiet heart?"
+              render_as: thought_bubble
+              placement: "upper left beside Kenji's temple"
+              tail_anchor: Kenji Watanabe
+              avoid_anchor: "the estimate form text"
+        - panel: 2
+          visual: >-
+            Kenji turns slightly away from Mrs. Sato, touching the edge of the counter. His face is calm but honest, caught in a small inward pause. Mrs. Sato is seated background-right, wiping her glasses, not visually dominant.
+          inner_thought: "Is this what I would have? Distance instead of peace?"
+          text_items:
+            - text_type: inner_thought
+              speaker: Kenji Watanabe
+              text: "Is this what I would have? Distance instead of peace?"
+              render_as: thought_bubble
+              placement: "top center above Kenji's turned shoulder"
+              tail_anchor: Kenji Watanabe
+              avoid_anchor: Mrs. Sato
+        - panel: 3
+          visual: >-
+            The music box mechanism fills the panel, gears exposed, one bent pin holding the cylinder still. Kenji's careful hand hovers but does not yet touch it. The composition is spare and contemplative, with white space around the small damaged mechanism.
+          caption: "He had said the words. Now he noticed the bargain underneath them."
+          text_items:
+            - text_type: caption
+              speaker: Narrator
+              text: "He had said the words. Now he noticed the bargain underneath them."
+              render_as: caption_box
+              placement: "bottom left in a quiet rectangular caption box"
+              tail_anchor: null
+              avoid_anchor: "the music box mechanism"
+    - page: 3
+      title: "One Intent"
+      panels:
+        - panel: 1
+          visual: >-
+            Kenji faces Mrs. Sato directly across the counter. His posture softens; his hands open instead of holding the estimate. Mrs. Sato looks surprised but safe. The background shelves are simplified into gentle ink lines.
+          dialogue: "We can listen together first, before I decide what it needs."
+          text_items:
+            - text_type: dialogue
+              speaker: Kenji Watanabe
+              text: "We can listen together first, before I decide what it needs."
+              render_as: speech_bubble
+              placement: "upper left above Kenji's softened face"
+              tail_anchor: Kenji Watanabe
+              avoid_anchor: Mrs. Sato
+        - panel: 2
+          visual: >-
+            Both Kenji and Mrs. Sato lean close to the opened music box on the counter, Kenji on the left and Mrs. Sato on the right. Their faces are visible and emotionally readable. The box gives only a tiny broken note, drawn as one thin ink curve that rises between them.
+          caption: "The sound was small. The joining was not."
+          text_items:
+            - text_type: caption
+              speaker: Narrator
+              text: "The sound was small. The joining was not."
+              render_as: caption_box
+              placement: "top center above the thin ink curve of sound"
+              tail_anchor: null
+              avoid_anchor: "both faces and the music box"
+        - panel: 3
+          visual: >-
+            Close on Kenji's face in three-quarter profile as he listens. Mrs. Sato is visible as a soft reflection in the glass of a cabinet behind him, making clear she is present but Kenji owns the thought. The ink wash around his shoulders loosens into open white space.
+          inner_thought: "I want the peace of God. Not my version of quiet."
+          text_items:
+            - text_type: inner_thought
+              speaker: Kenji Watanabe
+              text: "I want the peace of God. Not my version of quiet."
+              render_as: thought_bubble
+              placement: "upper right beside Kenji's listening face"
+              tail_anchor: Kenji Watanabe
+              avoid_anchor: "Mrs. Sato's reflection"
+    - page: 4
+      title: "The Gift Unshared Is Not the Gift"
+      panels:
+        - panel: 1
+          visual: >-
+            Kenji writes a new note on the estimate form, but the paper now has more white space than numbers. Mrs. Sato sits calmly with tea in the background. The shop feels quiet in a warmer, shared way, without overt glow or religious imagery.
+          caption: "No bargain had given him this. He had stopped asking for one."
+          text_items:
+            - text_type: caption
+              speaker: Narrator
+              text: "No bargain had given him this. He had stopped asking for one."
+              render_as: caption_box
+              placement: "upper left in a simple ink-bordered caption box"
+              tail_anchor: null
+              avoid_anchor: "Kenji's writing hand"
+        - panel: 2
+          visual: >-
+            Mrs. Sato gently touches the music box while Kenji adjusts one tiny piece with a small tool. Their hands are both in frame, near but not touching, working toward the same quiet purpose.
+          dialogue: "Thank you for not hurrying it."
+          text_items:
+            - text_type: dialogue
+              speaker: Mrs. Sato
+              text: "Thank you for not hurrying it."
+              render_as: speech_bubble
+              placement: "upper right above Mrs. Sato's hands"
+              tail_anchor: Mrs. Sato
+              avoid_anchor: Kenji Watanabe
+        - panel: 3
+          visual: >-
+            Final wide panel of the repair shop after Mrs. Sato has left. Kenji stands alone by the counter, but the room no longer feels isolated. The umbrella, workbench, and music box are arranged in balanced negative space; one open doorway shows rain softening outside.
+          caption: "No gift of God can be unshared."
+          inner_thought: "Then let this peace be for both of us."
+          text_items:
+            - text_type: caption
+              speaker: Narrator
+              text: "No gift of God can be unshared."
+              render_as: caption_box
+              placement: "top center in a clean white caption box"
+              tail_anchor: null
+              avoid_anchor: "Kenji's face and the open doorway"
+            - text_type: inner_thought
+              speaker: Kenji Watanabe
+              text: "Then let this peace be for both of us."
+              render_as: thought_bubble
+              placement: "upper left beside Kenji's head"
+              tail_anchor: Kenji Watanabe
+              avoid_anchor: "the caption box"
+image_prompts:
+  overall: >-
+    Create a polished portrait-oriented graphic novel sequence in STYLE-005 Minimalist Ink and Wash: clean black linework, sparse gray wash, expressive negative space, restrained emotional acting, and elegant panel composition. The selected character is Kenji Watanabe: late-50s Japanese quiet urban craftsman, apron, careful hands, wooden box/music box repair setting, rain umbrella, precise gentle presence. Preserve Kenji's visual continuity across all pages. Avoid halos, superheroes, literal religious cliches, and heavy magical effects. Use short readable caption boxes, speech bubbles, and thought bubbles exactly from the packet's text_items with clear ownership and placement.
+  page_1: >-
+    Page 1, "The Bargain Under Quiet," portrait graphic novel page with exactly 3 panels in Minimalist Ink and Wash. Panel 1 must include a tasteful lesson title / character title card reading exactly "Lesson 185 — I want the peace of God.\nKenji Watanabe" as a small pale rice-paper plaque in the upper left, integrated into the shop wall light and not covering Kenji's face, hands, or the music box. Show Kenji in his repair shop with a damaged music box and estimate form, then his private wish for a simple quiet estimate, then Mrs. Sato revealing the box belonged to her husband. Keep text readable and bubble ownership unambiguous.
+  page_2: >-
+    Page 2, "What Is Being Asked For," portrait graphic novel page with exactly 3 panels. Show Kenji noticing the bargain beneath his wish for peace: fixed price, short visit, no tears, no obligation. Use restrained ink-and-wash thought-symbols over the estimate form. Keep Kenji visually dominant for his thought bubbles, Mrs. Sato secondary where present, and end on a close view of the music box mechanism with the narrator caption about noticing the bargain underneath the words.
+  page_3: >-
+    Page 3, "One Intent," portrait graphic novel page with exactly 3 panels. Show Kenji softening and speaking gently to Mrs. Sato, then both listening together to one tiny broken note from the music box, then Kenji inwardly choosing the peace of God rather than his private version of quiet. Use elegant negative space and subtle ink curves to show sound and joining without religious imagery.
+  page_4: >-
+    Page 4, "The Gift Unshared Is Not the Gift," portrait graphic novel page with exactly 3 panels. Show the shop becoming quietly warmer through shared intent: Kenji writes a less defensive estimate, Mrs. Sato thanks him for not hurrying, and the final wide panel shows Kenji alone but not isolated, with the open rainy doorway and balanced negative space. Render the caption "No gift of God can be unshared." and Kenji's thought clearly and separately.
+spanish_practice:
+  title_translation: "Quiero la paz de Dios."
+  phrases:
+    - english: "I want the peace of God."
+      spanish: "Quiero la paz de Dios."
+      level: A1
+    - english: "I want peace, not distance."
+      spanish: "Quiero paz, no distancia."
+      level: A1/A2
+    - english: "We can listen together."
+      spanish: "Podemos escuchar juntos."
+      level: A1/A2
+    - english: "This peace is for both of us."
+      spanish: "Esta paz es para los dos."
+      level: A2
+suno_prompt: >-
+  A gentle devotional minimalist folk-ambient song inspired by ACIM Lesson 185, "I want the peace of God." Quiet Japanese repair-shop atmosphere, soft nylon guitar, brushed percussion, warm piano felt, sparse koto-like plucks, intimate male vocal, contemplative and tender. Theme: noticing the bargains beneath a wish for peace, choosing shared quiet instead of private distance, one small human moment becoming prayer. Include the phrases "I want the peace of God" and "No gift of God can be unshared" naturally, without turning the song into a lecture.
+status: draft
