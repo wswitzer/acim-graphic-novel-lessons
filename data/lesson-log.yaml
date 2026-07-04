@@ -68,3 +68,6 @@ lessons:
     packet_path: content/packets/lesson-185.yaml
     daily_path: content/daily/lesson-185.md
     status: draft
+    validation_passed: true
+    validation_notes: >-
+      Compact lesson JSON was fetched and idea_clean was used for the lesson digest; first-panel title card and text_items ownership metadata are present.
