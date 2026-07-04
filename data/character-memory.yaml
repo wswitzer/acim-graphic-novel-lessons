@@ -54,7 +54,7 @@ characters:
       - 184
   CHAR-010:
     name: Kenji Watanabe
-    current_arc_summary: Kenji began a new arc by noticing that repair tickets, customer names, and object labels can be useful without being true identity. In Lesson 185, he practiced noticing that his wish for peace was mixed with a bargain for distance. In a repair-shop moment with Mrs. Sato, he questioned whether protected quiet was what he wanted in place of God's peace and let one small honest sentence turn silence into shared intent.
+    current_arc_summary: Kenji began a short arc by noticing that repair tickets, customer names, and object labels can be useful without being true identity. In Lesson 185, he practiced noticing that his wish for peace was mixed with a bargain for distance. In a repair-shop moment with Mrs. Sato, he questioned whether protected quiet was what he wanted in place of God's peace and let one small honest sentence turn silence into shared intent.
     current_emotional_state: Quiet, precise, and more willing to let stillness include another person's feeling rather than protect him from it.
     already_healed_areas:
       - Has touched wordless peace through careful craft and stillness.
@@ -73,7 +73,9 @@ characters:
       - Do not make his precision vanish; let craft remain a gentle strength.
       - Do not make him fully comfortable with another person's grief or urgency.
       - Do not make him always choose shared peace without first noticing a subtle bargain.
-    next_natural_step: Let Kenji practice a small word, gesture, or repair when silence could become either a wall or a bridge; rotate away after one more lesson unless a strong lesson-specific reason supports continuing.
+    next_natural_step: Rotate away from Kenji next unless there is a strong lesson-specific reason to continue; when he returns, let him practice a small word, gesture, or repair when silence could become either a wall or a bridge.
     recent_lessons:
       - 184
       - 185
+    last_story_id: STORY-0185
+    last_story_title: The Quiet Estimate
