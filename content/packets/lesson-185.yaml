@@ -10,6 +10,7 @@ selection:
   style_name: Minimalist Ink and Wash
   character_id: CHAR-010
   character_name: Kenji Watanabe
+  character_reference_filename: Kenji_ACIM_reference.png
   story_mode: relationship_joining
   arc_temperature: 3
   arc_stage_used: repeated_practice
