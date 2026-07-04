@@ -58,3 +58,13 @@ lessons:
     packet_path: content/packets/lesson-184.yaml
     daily_path: content/daily/lesson-184.md
     status: draft
+  - lesson_number: 185
+    date: "2026-07-04"
+    generated_at_local: "2026-07-03T18:05:00-06:00"
+    style_id: STYLE-005
+    character_id: CHAR-010
+    story_mode: relationship_joining
+    arc_temperature: 3
+    packet_path: content/packets/lesson-185.yaml
+    daily_path: content/daily/lesson-185.md
+    status: draft
