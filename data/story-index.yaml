@@ -77,3 +77,16 @@ stories:
     summary: "Kenji notices that repair tags and customer names can be useful symbols without becoming anyone's reality, then meets an anxious customer beyond her ticket number."
     daily_path: content/daily/lesson-184.md
     packet_path: content/packets/lesson-184.yaml
+  - story_id: STORY-0185
+    lesson_number: 185
+    date: "2026-07-04"
+    title: "The Quiet Estimate"
+    character_id: CHAR-010
+    character_name: Kenji Watanabe
+    style_id: STYLE-005
+    style_name: Minimalist Ink and Wash
+    story_mode: relationship_joining
+    arc_temperature: 3
+    summary: "Kenji notices that his wish for a quiet repair-shop encounter is partly a bargain for distance, then joins Mrs. Sato in a sincere shared request for peace before repairing her music box."
+    daily_path: content/daily/lesson-185.md
+    packet_path: content/packets/lesson-185.yaml
