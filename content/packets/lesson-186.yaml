@@ -1,0 +1,227 @@
+story_id: STORY-0186
+target_date: '2026-07-05'
+generated_at_local: '2026-07-04T09:00:00-06:00'
+lesson:
+  number: 186
+  title: Salvation of the world depends on me.
+  review_of: null
+  source_url: data/lessons/lesson-186.json
+selection:
+  style_id: STYLE-006
+  style_name: European Album Style
+  character_id: CHAR-009
+  character_name: Amara Ndlovu
+  character_reference_filename: Amara_ACIM_reference.png
+  story_mode: extension
+  arc_temperature: 3
+  arc_stage_used: deeper_surrender
+  character_selection_rationale: Kenji has completed two consecutive lessons and his memory recommends rotating away unless there is a strong lesson-specific reason to continue. Amara is a stronger fit for Lesson 186 because her core pattern is feeling personally responsible for healing everyone; this lesson can correct that burden into true humility, accepting only the given part without denying its importance.
+  character_arc_status: new_arc_start
+  recent_same_character_count: 0
+  lesson_fit_reason: 'Lesson 186 distinguishes arrogant self-made roles from the humble acceptance of a function given by God. Amara’s community-organizer life makes the difference concrete: she can stop trying to save the whole meeting through pressure, and accept one forgiving, useful form of love offered in the moment.'
+lesson_digest:
+  lesson_text_source_used: data/lessons/lesson-186.json
+  lesson_core_movement: The lesson moves from fear of the statement “Salvation of the world depends on me” into true humility. The student is not asked to invent a heroic role or deny worthiness through false modesty, but to accept the function given by God, trust the strength already given for it, and let forgiveness take the useful form needed here.
+  lesson_practice_shape: The practice is to grow quiet beyond words, notice the unstable self-made images and roles that rise and fall, and lay aside both grandiosity and false humility. The student listens for the certain Voice that remembers their strength, wisdom, and holiness, then accepts the simple form of forgiveness or helpfulness assigned in the present moment.
+  key_ideas_for_story:
+  - True humility accepts the part given; it does not invent another role or deny worthiness.
+  - Self-made roles shift with moods and cannot give stable direction.
+  - God’s plan is reliable because it comes from One Who knows us and gives the means.
+  - Forgiveness is love taking a useful earthly form.
+  - The world is helped by accepting one’s given function, not by carrying the world alone.
+  useful_short_phrases:
+  - Let us not fight our function.
+  - Accept the plan you did not make instead.
+  - Forgiveness is an earthly form of love.
+  title_overfit_warning: The story will not turn “salvation depends on me” into a superhero burden or a grand public rescue. It will show Amara releasing both over-responsibility and false modesty by accepting one small assigned act of forgiveness during an ordinary community meeting.
+story:
+  title: The Chair Left Empty
+  original_theme: Amara learns that her part in healing the room is not to carry every voice or manage every outcome, but to accept the one forgiving function given now and trust that it is enough.
+  synopsis: 'Before a neighborhood meeting, Amara tries to make the agenda perfect enough to keep everyone calm. When an empty chair for an absent elder threatens to become another proof that she has failed the community, she feels the familiar burden of saving the whole room. In a quiet hallway pause, the lesson becomes practical: she does not need to invent a role or deny that her part matters. She returns, leaves the chair empty with dignity, listens to one angry neighbor without defending herself, and lets forgiveness take the useful form of a simple shared next step.'
+continuity:
+  character_memory_used: 'New arc start initialized from Amara’s base profile: she is a South African community organizer, strong, warm, charismatic, and exhausted by hidden pressure. She already knows giving can be joyful, but still confuses sacrifice with holiness and says yes when her heart is asking for rest.'
+  before_state: Amara enters the day capable and beloved by the community, but inwardly tense, believing the meeting’s peace depends on her managing every feeling and filling every gap.
+  inner_movement: 'She notices that both the heroic burden and the embarrassed wish to disappear are self-made roles. She becomes willing to accept only the part given now: listen, forgive, and let love take a useful form.'
+  miracle_shift: Amara stops trying to rescue the whole room and offers one honest, forgiving response to a neighbor’s anger. The meeting softens because she is no longer defending an image of herself as savior or failure.
+  unresolved_thread: Amara may still over-function when the community looks to her for steadiness, and she may still confuse rest with abandoning others. Her arc should not resolve sacrifice or responsibility all at once.
+  updated_memory_proposal: Amara began a new arc in Lesson 186 by learning that “salvation depends on me” does not mean carrying the world alone. In a neighborhood meeting, she released both the savior image and false modesty, accepted one given act of forgiveness, and discovered that love can take a simple useful form without sacrifice.
+graphic_novel:
+  page_count: 4
+  pages:
+  - page: 1
+    title: The Role She Made
+    panels:
+    - panel: 1
+      visual: European Album Style opening panel in a South African community hall before evening meeting. Amara Ndlovu stands near a circle of folding chairs with her bright patterned shawl, short natural hair, and community notebook. A dignified empty chair sits near the front with a small flower on it. At the top center, an elegant cream paper title card is pinned to the notice board, integrated into the scene and not covering Amara, the empty chair, or the notebook. Detailed clear-line backgrounds show posters, windows, and warm practical light.
+      caption: 'Lesson 186 — Salvation of the world depends on me.
+
+        Amara Ndlovu'
+      text_items:
+      - text_type: caption
+        speaker: Narrator
+        text: 'Lesson 186 — Salvation of the world depends on me.
+
+          Amara Ndlovu'
+        render_as: caption_box
+        placement: top center as an elegant cream paper title card pinned to the community notice board
+        tail_anchor: null
+        avoid_anchor: Amara's face, the empty chair, and the community notebook
+    - panel: 2
+      visual: 'Close clear-line panel of Amara checking three lists at once: agenda, tea rota, and conflict notes. Her community notebook is open in her hands, shoulders slightly raised. Other volunteers move softly in the background, but Amara is clearly foreground-left so the thought bubble belongs to her.'
+      inner_thought: If I miss one thing, the whole room could fall apart.
+      text_items:
+      - text_type: inner_thought
+        speaker: Amara Ndlovu
+        text: If I miss one thing, the whole room could fall apart.
+        render_as: thought_bubble
+        placement: upper left beside Amara's tense face
+        tail_anchor: Amara Ndlovu
+        avoid_anchor: background volunteers
+    - panel: 3
+      visual: A neighbor named Thabo enters foreground-right, frustrated, holding a folded flyer. Amara stands foreground-left with a polite smile that is almost too controlled. The empty chair is visible between them in the background, making the room feel emotionally charged.
+      dialogue: You always decide what healing should look like before we arrive.
+      text_items:
+      - text_type: dialogue
+        speaker: Thabo
+        text: You always decide what healing should look like before we arrive.
+        render_as: speech_bubble
+        placement: upper right above Thabo's frustrated face
+        tail_anchor: Thabo
+        avoid_anchor: Amara Ndlovu
+  - page: 2
+    title: False Humility, Hidden Pride
+    panels:
+    - panel: 1
+      visual: Amara steps into a quiet hallway outside the hall, leaning one hand against a painted wall. Through the open door behind her, the circle of chairs is visible but softened. Her bright shawl is still vivid, yet her face shows a private tremble beneath competence.
+      inner_thought: Maybe I should say nothing. Maybe that would be humble.
+      text_items:
+      - text_type: inner_thought
+        speaker: Amara Ndlovu
+        text: Maybe I should say nothing. Maybe that would be humble.
+        render_as: thought_bubble
+        placement: upper left near Amara's bowed head
+        tail_anchor: Amara Ndlovu
+        avoid_anchor: the open doorway
+    - panel: 2
+      visual: 'Symbolic but grounded European album panel: Amara’s notebook pages flutter in the hallway draft like wind-swept leaves, each page carrying faint non-readable marks suggesting roles: fixer, leader, failure, peacemaker. Amara watches them without chasing them. No halos or religious clichés.'
+      caption: The roles shifted like leaves. None of them was her Self.
+      text_items:
+      - text_type: caption
+        speaker: Narrator
+        text: The roles shifted like leaves. None of them was her Self.
+        render_as: caption_box
+        placement: bottom left in a clean rectangular caption box
+        tail_anchor: null
+        avoid_anchor: the fluttering notebook pages
+    - panel: 3
+      visual: Close on Amara’s hand resting over the community notebook, no longer gripping it. Warm hallway light falls across her fingers and shawl. Her face is visible in profile at the edge of the panel, quiet enough to listen.
+      inner_thought: Let us not fight our function. What is mine here?
+      text_items:
+      - text_type: inner_thought
+        speaker: Amara Ndlovu
+        text: Let us not fight our function. What is mine here?
+        render_as: thought_bubble
+        placement: top center beside Amara's listening profile
+        tail_anchor: Amara Ndlovu
+        avoid_anchor: her hand on the notebook
+  - page: 3
+    title: A Useful Form of Love
+    panels:
+    - panel: 1
+      visual: 'Amara returns to the circle of chairs. The composition shows her standing but not dominating: Thabo sits foreground-right, two elders sit background-left, and the empty chair remains respectfully open. Amara’s posture is lower and softer, one hand open instead of holding the notebook like a shield.'
+      dialogue: You may be right. I was trying to keep us safe by holding too much.
+      text_items:
+      - text_type: dialogue
+        speaker: Amara Ndlovu
+        text: You may be right. I was trying to keep us safe by holding too much.
+        render_as: speech_bubble
+        placement: upper left above Amara's softened face
+        tail_anchor: Amara Ndlovu
+        avoid_anchor: Thabo
+    - panel: 2
+      visual: Thabo looks down at the flyer, surprised by Amara’s non-defensive response. Amara is seated now, not standing over him. The empty chair is visible beside them, not as accusation but as a quiet place of honor.
+      dialogue: I just wanted room for what my aunt would have said.
+      text_items:
+      - text_type: dialogue
+        speaker: Thabo
+        text: I just wanted room for what my aunt would have said.
+        render_as: speech_bubble
+        placement: upper right above Thabo's lowered face
+        tail_anchor: Thabo
+        avoid_anchor: Amara Ndlovu
+    - panel: 3
+      visual: 'Amara gently slides the agenda aside and writes one simple new line at the top of a blank page: Listen first. The actual written page should be implied or minimally readable; the renderable text is only in the caption box. Other hands place cups of tea in the circle, showing practical love taking form.'
+      caption: Forgiveness did not need a speech. It needed room to listen.
+      text_items:
+      - text_type: caption
+        speaker: Narrator
+        text: Forgiveness did not need a speech. It needed room to listen.
+        render_as: caption_box
+        placement: bottom center in a warm cream caption box
+        tail_anchor: null
+        avoid_anchor: Amara's hand and the teacups
+  - page: 4
+    title: The Part Given Now
+    panels:
+    - panel: 1
+      visual: Wide detailed European album panel of the meeting beginning again. People sit in a circle; Amara sits among them rather than at the center. The empty chair has a flower and a folded shawl over its back. The room feels ordered but alive, with no mystical spectacle.
+      caption: She had not saved the room. She had accepted her part in it.
+      text_items:
+      - text_type: caption
+        speaker: Narrator
+        text: She had not saved the room. She had accepted her part in it.
+        render_as: caption_box
+        placement: upper left in a simple cream caption box
+        tail_anchor: null
+        avoid_anchor: faces in the circle
+    - panel: 2
+      visual: Amara listens while Thabo speaks. Her community notebook is closed on her lap, hands resting on top of it. The panel emphasizes attentive eyes, relaxed shoulders, and a stable circle of neighbors around her.
+      inner_thought: Accept the plan you did not make instead.
+      text_items:
+      - text_type: inner_thought
+        speaker: Amara Ndlovu
+        text: Accept the plan you did not make instead.
+        render_as: thought_bubble
+        placement: upper left beside Amara's calm listening face
+        tail_anchor: Amara Ndlovu
+        avoid_anchor: Thabo speaking
+    - panel: 3
+      visual: Final exterior evening panel outside the community hall. Amara locks the door with one volunteer beside her carrying cups, both smiling quietly. The warm lit windows behind them show the empty chair still visible inside. Amara’s shawl moves gently in the night breeze, suggesting freedom from the heavy role without abandoning the community.
+      dialogue: Tomorrow, we can ask together.
+      caption: Love had taken the form needed here.
+      text_items:
+      - text_type: caption
+        speaker: Narrator
+        text: Love had taken the form needed here.
+        render_as: caption_box
+        placement: top center above the warm hall windows
+        tail_anchor: null
+        avoid_anchor: Amara and the volunteer's faces
+      - text_type: dialogue
+        speaker: Amara Ndlovu
+        text: Tomorrow, we can ask together.
+        render_as: speech_bubble
+        placement: upper left beside Amara's gentle smile
+        tail_anchor: Amara Ndlovu
+        avoid_anchor: the caption box
+image_prompts:
+  overall: 'Create a polished portrait-oriented ACIM Daily Graphic Novel Book sequence in European Album Style: clear elegant linework, detailed community environments, warm controlled color, expressive realistic faces, and classic bande dessinée clarity. Main character Amara Ndlovu must remain visually consistent: bright patterned shawl, short natural hair, community notebook, strong warm presence with hidden pressure softening into humility. Avoid halos, superheroes, literal religious clichés, and grand savior imagery. Use readable caption boxes, speech bubbles, and thought bubbles exactly from text_items with clear ownership and tails.'
+  page_1: Page 1 has three panels in a South African community hall. Panel 1 includes the tasteful lesson title card on the notice board with exact text “Lesson 186 — Salvation of the world depends on me.\nAmara Ndlovu”; keep it readable and integrated into the scene. Show Amara preparing the meeting, then over-controlling lists, then Thabo confronting her while an empty chair carries emotional weight.
+  page_2: 'Page 2 has three panels in the quiet hallway. Show Amara’s false humility and hidden pride softening: she considers disappearing, sees self-made roles flutter like leaves from the notebook, then asks inwardly what function is hers here. Keep symbolism subtle and grounded, with clear thought bubble ownership attached to Amara.'
+  page_3: Page 3 has three panels back in the circle of chairs. Show Amara returning without dominance, Thabo explaining what he needed, and forgiveness becoming the practical form of listening first. Keep Amara seated or softened rather than heroic; render speech bubbles clearly attached to each speaker.
+  page_4: Page 4 has three panels of integration. Show the meeting continuing with Amara as part of the circle, Amara listening with closed notebook, and the evening exterior after the meeting. The final panel should feel free and communal, with the caption and Amara’s dialogue placed so neither covers faces or the warm hall windows.
+spanish_practice:
+  level: A1/A2
+  phrases:
+  - english: I can accept my part.
+    spanish: Puedo aceptar mi parte.
+  - english: I do not have to carry everything.
+    spanish: No tengo que cargar con todo.
+  - english: Forgiveness can be simple.
+    spanish: El perdón puede ser simple.
+  - english: I can listen now.
+    spanish: Puedo escuchar ahora.
+  - english: Love gives what is useful here.
+    spanish: El amor da lo que es útil aquí.
+suno_prompt: 'A warm devotional world-folk song with South African choral warmth, gentle hand percussion, acoustic guitar, soft bass, and a calm female lead vocal. Theme: true humility accepts the part God gives without heroic burden or false modesty; forgiveness becomes a simple useful form of love in community. Mood is grounded, tender, steady, and freeing; avoid triumphal superhero language.'
+status: draft
