@@ -1,107 +1,121 @@
 stories:
-  - story_id: STORY-0179
-    lesson_number: 179
-    date: "2026-06-28"
-    title: "The Song That Stayed"
-    character_id: CHAR-011
-    character_name: Lucia Bell
-    style_id: STYLE-019
-    style_name: Premium Animated Feature Style
-    story_mode: deepening
-    arc_temperature: 2
-    summary: "Lucia lets a rooftop song continue through ordinary city sounds and practices trusting joy after the music ends."
-    daily_path: content/daily/lesson-179.md
-    packet_path: content/packets/lesson-179.yaml
-  - story_id: STORY-0180
-    lesson_number: 180
-    date: "2026-06-29"
-    title: "The Grace Between Notes"
-    character_id: CHAR-011
-    character_name: Lucia Bell
-    style_id: STYLE-020
-    style_name: Stained Glass Visionary
-    story_mode: integration
-    arc_temperature: 2
-    summary: "Lucia discovers that grace remains present in the quiet space after inspiration fades."
-    daily_path: content/daily/lesson-180.md
-    packet_path: content/packets/lesson-180.yaml
-  - story_id: STORY-0181
-    lesson_number: 181
-    date: "2026-06-30"
-    title: "Platform Seven"
-    character_id: CHAR-011
-    character_name: Lucia Bell
-    style_id: STYLE-001
-    style_name: Cinematic Realism
-    story_mode: relationship_joining
-    arc_temperature: 3
-    summary: "Lucia meets a former bandmate she has avoided and practices seeing him as a brother in the present instead of as old evidence."
-    daily_path: content/daily/lesson-181.md
-    packet_path: content/packets/lesson-181.yaml
-  - story_id: STORY-0182
-    lesson_number: 182
-    date: "2026-07-01"
-    title: "The Bench Between Streets"
-    character_id: CHAR-006
-    character_name: Mateo Alvarez
-    style_id: STYLE-002
-    style_name: Dreamlike Watercolor
-    story_mode: integration
-    arc_temperature: 2
-    summary: "Mateo pauses on a quiet bench between two streets and practices receiving home as inward steadiness before trying to prove where he belongs."
-    daily_path: content/daily/lesson-182.md
-    packet_path: content/packets/lesson-182.yaml
-  - story_id: STORY-0183
-    lesson_number: 183
-    date: "2026-07-02"
-    title: "The Name Under Every Name"
-    character_id: CHAR-006
-    character_name: Mateo Alvarez
-    style_id: STYLE-003
-    style_name: Noir Spiritual Drama
-    story_mode: deepening
-    arc_temperature: 3
-    summary: "Mateo notices how nicknames, labels, languages, and family roles split his attention, then practices letting one inward Name gather them into a shared identity."
-    daily_path: content/daily/lesson-183.md
-    packet_path: content/packets/lesson-183.yaml
-  - story_id: STORY-0184
-    lesson_number: 184
-    date: "2026-07-03"
-    title: "The Ticket With No Name"
-    character_id: CHAR-010
-    character_name: Kenji Watanabe
-    style_id: STYLE-004
-    style_name: Luminous Fantasy Realism
-    story_mode: holy_instant
-    arc_temperature: 2
-    summary: "Kenji notices that repair tags and customer names can be useful symbols without becoming anyone's reality, then meets an anxious customer beyond her ticket number."
-    daily_path: content/daily/lesson-184.md
-    packet_path: content/packets/lesson-184.yaml
-  - story_id: STORY-0185
-    lesson_number: 185
-    date: "2026-07-04"
-    title: "The Quiet Estimate"
-    character_id: CHAR-010
-    character_name: Kenji Watanabe
-    style_id: STYLE-005
-    style_name: Minimalist Ink and Wash
-    story_mode: relationship_joining
-    arc_temperature: 3
-    summary: "Kenji notices that his wish for a quiet repair-shop encounter is partly a bargain for distance, then joins Mrs. Sato in a sincere shared request for peace before repairing her music box."
-    lesson_digest_summary: "Lesson 185 moves from saying peace words to sincerely wanting God's peace by questioning private dreams, bargains, and compromises, then receiving peace as shared intent."
-    daily_path: content/daily/lesson-185.md
-    packet_path: content/packets/lesson-185.yaml
-  - story_id: STORY-0186
-    lesson_number: 186
-    date: "2026-07-05"
-    title: "The Chair Left Empty"
-    character_id: CHAR-009
-    character_name: Amara Ndlovu
-    style_id: STYLE-006
-    style_name: European Album Style
-    story_mode: extension
-    arc_temperature: 3
-    summary: "Amara releases the burden of saving a community meeting, listens to an angry neighbor without defending herself, and accepts one given act of forgiveness as love taking a useful form."
-    lesson_digest_summary: "Lesson 186 moves from heroic burden or false humility into accepting the function God gives, trusting the strength for it, and letting forgiveness take the form needed here."
-    daily_path: content/daily/lesson-186.md
-    packet_path: content/packets/lesson-186.yaml
+- story_id: STORY-0179
+  lesson_number: 179
+  date: '2026-06-28'
+  title: The Song That Stayed
+  character_id: CHAR-011
+  character_name: Lucia Bell
+  style_id: STYLE-019
+  style_name: Premium Animated Feature Style
+  story_mode: deepening
+  arc_temperature: 2
+  summary: Lucia lets a rooftop song continue through ordinary city sounds and practices trusting joy after the music ends.
+  daily_path: content/daily/lesson-179.md
+  packet_path: content/packets/lesson-179.yaml
+- story_id: STORY-0180
+  lesson_number: 180
+  date: '2026-06-29'
+  title: The Grace Between Notes
+  character_id: CHAR-011
+  character_name: Lucia Bell
+  style_id: STYLE-020
+  style_name: Stained Glass Visionary
+  story_mode: integration
+  arc_temperature: 2
+  summary: Lucia discovers that grace remains present in the quiet space after inspiration fades.
+  daily_path: content/daily/lesson-180.md
+  packet_path: content/packets/lesson-180.yaml
+- story_id: STORY-0181
+  lesson_number: 181
+  date: '2026-06-30'
+  title: Platform Seven
+  character_id: CHAR-011
+  character_name: Lucia Bell
+  style_id: STYLE-001
+  style_name: Cinematic Realism
+  story_mode: relationship_joining
+  arc_temperature: 3
+  summary: Lucia meets a former bandmate she has avoided and practices seeing him as a brother in the present instead of as old evidence.
+  daily_path: content/daily/lesson-181.md
+  packet_path: content/packets/lesson-181.yaml
+- story_id: STORY-0182
+  lesson_number: 182
+  date: '2026-07-01'
+  title: The Bench Between Streets
+  character_id: CHAR-006
+  character_name: Mateo Alvarez
+  style_id: STYLE-002
+  style_name: Dreamlike Watercolor
+  story_mode: integration
+  arc_temperature: 2
+  summary: Mateo pauses on a quiet bench between two streets and practices receiving home as inward steadiness before trying to prove where he belongs.
+  daily_path: content/daily/lesson-182.md
+  packet_path: content/packets/lesson-182.yaml
+- story_id: STORY-0183
+  lesson_number: 183
+  date: '2026-07-02'
+  title: The Name Under Every Name
+  character_id: CHAR-006
+  character_name: Mateo Alvarez
+  style_id: STYLE-003
+  style_name: Noir Spiritual Drama
+  story_mode: deepening
+  arc_temperature: 3
+  summary: Mateo notices how nicknames, labels, languages, and family roles split his attention, then practices letting one inward Name gather them into a shared identity.
+  daily_path: content/daily/lesson-183.md
+  packet_path: content/packets/lesson-183.yaml
+- story_id: STORY-0184
+  lesson_number: 184
+  date: '2026-07-03'
+  title: The Ticket With No Name
+  character_id: CHAR-010
+  character_name: Kenji Watanabe
+  style_id: STYLE-004
+  style_name: Luminous Fantasy Realism
+  story_mode: holy_instant
+  arc_temperature: 2
+  summary: Kenji notices that repair tags and customer names can be useful symbols without becoming anyone's reality, then meets an anxious customer beyond her ticket number.
+  daily_path: content/daily/lesson-184.md
+  packet_path: content/packets/lesson-184.yaml
+- story_id: STORY-0185
+  lesson_number: 185
+  date: '2026-07-04'
+  title: The Quiet Estimate
+  character_id: CHAR-010
+  character_name: Kenji Watanabe
+  style_id: STYLE-005
+  style_name: Minimalist Ink and Wash
+  story_mode: relationship_joining
+  arc_temperature: 3
+  summary: Kenji notices that his wish for a quiet repair-shop encounter is partly a bargain for distance, then joins Mrs. Sato in a sincere shared request for peace before repairing her music box.
+  lesson_digest_summary: Lesson 185 moves from saying peace words to sincerely wanting God's peace by questioning private dreams, bargains, and compromises, then receiving peace as shared intent.
+  daily_path: content/daily/lesson-185.md
+  packet_path: content/packets/lesson-185.yaml
+- story_id: STORY-0186
+  lesson_number: 186
+  date: '2026-07-05'
+  title: The Chair Left Empty
+  character_id: CHAR-009
+  character_name: Amara Ndlovu
+  style_id: STYLE-006
+  style_name: European Album Style
+  story_mode: extension
+  arc_temperature: 3
+  summary: Amara releases the burden of saving a community meeting, listens to an angry neighbor without defending herself, and accepts one given act of forgiveness as love taking a useful form.
+  lesson_digest_summary: Lesson 186 moves from heroic burden or false humility into accepting the function God gives, trusting the strength for it, and letting forgiveness take the form needed here.
+  daily_path: content/daily/lesson-186.md
+  packet_path: content/packets/lesson-186.yaml
+- story_id: STORY-0187
+  lesson_number: 187
+  date: '2026-07-06'
+  title: The Last Tray of Seedlings
+  character_id: CHAR-009
+  character_name: Amara Ndlovu
+  style_id: STYLE-007
+  style_name: Soft Pastel Slice-of-Life
+  story_mode: integration
+  arc_temperature: 2
+  summary: Amara gives away the last healthy basil seedling she wanted to keep and discovers that the thought of care is strengthened as neighbors share cuttings, recipes, water, and laughter.
+  lesson_digest_summary: Lesson 187 moves from the belief that giving means loss into the recognition that shared blessing proves and increases what is already accepted within.
+  daily_path: content/daily/lesson-187.md
+  packet_path: content/packets/lesson-187.yaml
