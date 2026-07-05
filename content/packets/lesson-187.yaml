@@ -1,0 +1,224 @@
+story_id: STORY-0187
+target_date: '2026-07-06'
+generated_at_local: '2026-07-04T12:00:00-06:00'
+lesson:
+  number: 187
+  title: I bless the world because I bless myself.
+  review_of: null
+  source_url: data/lessons/lesson-187.json
+selection:
+  style_id: STYLE-007
+  style_name: Soft Pastel Slice-of-Life
+  character_id: CHAR-009
+  character_name: Amara Ndlovu
+  character_reference_filename: Amara_ACIM_reference.png
+  story_mode: integration
+  arc_temperature: 2
+  arc_stage_used: repeated_practice
+  character_selection_rationale: Amara has appeared for only one consecutive lesson, and Lesson 187 is a natural continuation of the new arc begun in Lesson 186. Her active pattern is confusing love with sacrifice; this lesson directly reframes giving as proof of having and blessing as something that increases when extended. Continuing her for a second lesson fits the allowed 2–3 lesson short arc without overusing the character.
+  character_arc_status: continuing_arc
+  recent_same_character_count: 1
+  lesson_fit_reason: 'Lesson 187 teaches that ideas are strengthened by being shared and that sacrifice is an illusion. Amara’s community-organizer life can embody this through a small domestic/community exchange: she thinks giving away the last good seedlings will leave her empty, then discovers that blessing the neighbors confirms the abundance already accepted within her.'
+lesson_digest:
+  lesson_text_source_used: data/lessons/lesson-187.json
+  lesson_core_movement: The lesson moves from the world’s belief that giving means loss into true perception, where giving a thought or blessing proves it is already possessed and increases it in the mind. It invites the student to accept blessing first within, recognize sacrifice as an illusion, and extend what has been received so it returns in a more helpful form.
+  lesson_practice_shape: The practice is to spend quiet time with the idea, return to it often, and notice any thought of sacrifice, loss, poverty, pain, or keeping forms safe. The student lets correction come by blessing themselves first, then offering that blessing to everyone and everything seen, trusting that shared ideas cannot be lost.
+  key_ideas_for_story:
+  - Giving a true idea strengthens it rather than depleting it.
+  - Blessing must first be accepted within before it can be recognized as given.
+  - Trying to protect a form can hide the living thought behind it.
+  - Sacrifice is an illusion that disappears when it is seen clearly.
+  - Blessing another returns in the form most helpful to both.
+  useful_short_phrases:
+  - Give gladly.
+  - Never forget you give but to yourself.
+  - Now are we blessed, and now we bless the world.
+  title_overfit_warning: The story will not merely show Amara literally blessing people or handing out symbolic lilies. It will show her ordinary fear of losing a valued form, then the shift into sharing the thought of care behind it and discovering that nothing real was lost.
+story:
+  title: The Last Tray of Seedlings
+  original_theme: Amara learns that sharing a living blessing does not empty her; it proves the care she feared losing was already hers to extend.
+  synopsis: The morning after the community meeting, Amara brings a tray of young herb seedlings to a courtyard planting day. When more neighbors arrive than expected, she secretly wants to keep the strongest plants for her own windowsill, afraid that giving them away will leave her with nothing beautiful to tend. A child asks for the last healthy basil plant for his grandmother, and Amara notices the old idea of sacrifice tightening in her chest. She pauses, accepts blessing for herself first, and gives the plant gladly. By the end, neighbors have shared cuttings, recipes, water, and laughter; Amara walks home with fewer plants but a stronger sense that the thought of care has multiplied.
+continuity:
+  character_memory_used: 'Continuing Amara’s Lesson 186 arc: she has just learned that her function is not carrying the whole community alone, but accepting one simple useful form of love. She remains warm and capable, yet still confuses giving with sacrifice and rest with abandonment.'
+  before_state: Amara begins openhearted but subtly tense, wanting to serve the courtyard planting day while also protecting one small beautiful thing for herself after yesterday’s emotional meeting.
+  inner_movement: She recognizes that her fear of giving away the last good seedlings is the same sacrifice thought in a gentler form. She accepts the blessing as already hers, then lets the form change by sharing it.
+  miracle_shift: Giving the last basil plant no longer feels like depletion. Amara sees care increase through the neighbors’ shared cuttings, recipes, and laughter, and she feels blessed with them rather than separate from them.
+  unresolved_thread: Amara may still over-function when many needs appear at once, and she may still treat forms of care as scarce. Do not make sacrifice permanently unbelievable for her yet.
+  updated_memory_proposal: Amara continued her arc in Lesson 187 by practicing that giving a blessing proves it is already hers. At a courtyard planting day, she released the fear that giving away the last healthy seedling would leave her empty, and she discovered that shared care returned in forms more helpful to everyone.
+graphic_novel:
+  page_count: 4
+  pages:
+  - page: 1
+    title: What She Wanted to Keep
+    panels:
+    - panel: 1
+      visual: Soft Pastel Slice-of-Life opening panel in a warm South African apartment courtyard in morning light. Amara Ndlovu stands beside a low table filled with small herb seedlings, wearing her bright patterned shawl and holding her community notebook. A tasteful pastel title card is clipped to a wooden plant crate at the top center, integrated into the scene and not covering Amara’s face, the seedlings, or her notebook. Neighbors are beginning to arrive in the background with pots and watering cans.
+      caption: 'Lesson 187 — I bless the world because I bless myself.
+
+        Amara Ndlovu'
+      text_items:
+      - text_type: caption
+        speaker: Narrator
+        text: 'Lesson 187 — I bless the world because I bless myself.
+
+          Amara Ndlovu'
+        render_as: caption_box
+        placement: top center as a pastel title card clipped to the wooden plant crate
+        tail_anchor: null
+        avoid_anchor: Amara's face, the seedlings, and the community notebook
+    - panel: 2
+      visual: Close panel of Amara gently touching the healthiest basil seedling with two fingers. The small plant is vivid and carefully painted. Behind her, a neighbor waves and another child carries an empty clay pot. Amara is foreground-left so the thought bubble clearly belongs to her.
+      inner_thought: Maybe I should keep one good thing for myself.
+      text_items:
+      - text_type: inner_thought
+        speaker: Amara Ndlovu
+        text: Maybe I should keep one good thing for myself.
+        render_as: thought_bubble
+        placement: upper left beside Amara's thoughtful face
+        tail_anchor: Amara Ndlovu
+        avoid_anchor: the basil seedling
+    - panel: 3
+      visual: A young boy named Sipho stands foreground-right holding a chipped blue pot with both hands, hopeful but shy. Amara kneels foreground-left near the tray of seedlings. The last healthy basil plant sits between them, clearly visible but not exaggerated.
+      dialogue: My gogo misses the smell of basil. Is there one left?
+      text_items:
+      - text_type: dialogue
+        speaker: Sipho
+        text: My gogo misses the smell of basil. Is there one left?
+        render_as: speech_bubble
+        placement: upper right above Sipho's hopeful face
+        tail_anchor: Sipho
+        avoid_anchor: Amara Ndlovu
+  - page: 2
+    title: The Thought of Loss
+    panels:
+    - panel: 1
+      visual: 'Amara looks down at the tray: several empty spaces, a few weaker seedlings, and the one strong basil. Her shoulders tighten slightly under the bright shawl. The courtyard remains gentle and ordinary, with pastel laundry lines and potted plants behind her.'
+      inner_thought: If I give it away, what will be left for me?
+      text_items:
+      - text_type: inner_thought
+        speaker: Amara Ndlovu
+        text: If I give it away, what will be left for me?
+        render_as: thought_bubble
+        placement: upper left near Amara's lowered eyes
+        tail_anchor: Amara Ndlovu
+        avoid_anchor: Sipho
+    - panel: 2
+      visual: 'Grounded symbolic panel: Amara’s hands hover above the basil while faint translucent pastel shapes suggest labels like mine, enough, and sacrifice dissolving into the courtyard air. Keep all written labels faint and non-renderable; the only readable text is the caption box. No halos, no religious clichés.'
+      caption: The form looked small. The fear behind it felt old.
+      text_items:
+      - text_type: caption
+        speaker: Narrator
+        text: The form looked small. The fear behind it felt old.
+        render_as: caption_box
+        placement: bottom left in a soft cream caption box
+        tail_anchor: null
+        avoid_anchor: Amara’s hands and the basil
+    - panel: 3
+      visual: Amara closes her eyes for one quiet breath beside the courtyard table. Sipho waits respectfully in the background, not pressuring her. Morning light falls across her shawl and notebook, showing a private inward pause before action.
+      inner_thought: Give gladly. I can only share what is already given.
+      text_items:
+      - text_type: inner_thought
+        speaker: Amara Ndlovu
+        text: Give gladly. I can only share what is already given.
+        render_as: thought_bubble
+        placement: top center beside Amara's peaceful face
+        tail_anchor: Amara Ndlovu
+        avoid_anchor: Sipho waiting in the background
+  - page: 3
+    title: The Blessing Shared
+    panels:
+    - panel: 1
+      visual: Amara smiles softly and places the basil seedling into Sipho’s blue pot. Her hands are open, not dramatic. Sipho’s face brightens. Other neighbors continue planting in the background, creating a practical community scene.
+      dialogue: Take this one. Let your gogo smell morning again.
+      text_items:
+      - text_type: dialogue
+        speaker: Amara Ndlovu
+        text: Take this one. Let your gogo smell morning again.
+        render_as: speech_bubble
+        placement: upper left above Amara's gentle smile
+        tail_anchor: Amara Ndlovu
+        avoid_anchor: Sipho
+    - panel: 2
+      visual: Sipho runs to an elderly woman seated near a doorway, showing her the basil. The grandmother touches a leaf and laughs with relief. Amara watches from midground, surprised by the warmth that rises in her rather than the loss she expected.
+      caption: The gift did not leave her poorer. The thought grew stronger as it moved.
+      text_items:
+      - text_type: caption
+        speaker: Narrator
+        text: The gift did not leave her poorer. The thought grew stronger as it moved.
+        render_as: caption_box
+        placement: bottom center in a soft cream caption box
+        tail_anchor: null
+        avoid_anchor: the grandmother's face and basil leaf
+    - panel: 3
+      visual: A neighbor named Naledi approaches Amara with a small bundle of mint cuttings wrapped in damp cloth. Amara is foreground-left, Naledi foreground-right, both clearly visible. The courtyard table now has several exchanged plants and handwritten recipe cards.
+      dialogue: You gave him the best one. Please take these for your window.
+      text_items:
+      - text_type: dialogue
+        speaker: Naledi
+        text: You gave him the best one. Please take these for your window.
+        render_as: speech_bubble
+        placement: upper right above Naledi's kind expression
+        tail_anchor: Naledi
+        avoid_anchor: Amara Ndlovu
+  - page: 4
+    title: Returned in Another Form
+    panels:
+    - panel: 1
+      visual: 'Wide soft pastel courtyard panel: neighbors water newly planted herbs together, share cuttings, pass small cups of tea, and laugh. Amara stands among them rather than directing them, holding the mint cuttings with both hands like an unexpected kindness.'
+      caption: What she tried to keep as a plant returned as shared care.
+      text_items:
+      - text_type: caption
+        speaker: Narrator
+        text: What she tried to keep as a plant returned as shared care.
+        render_as: caption_box
+        placement: upper left in a pale green caption box
+        tail_anchor: null
+        avoid_anchor: neighbor faces and Amara’s hands
+    - panel: 2
+      visual: Close on Amara writing one small note in her community notebook while sitting on the courtyard steps. The visible page is mostly implied; text should be rendered only in the thought bubble. Her shoulders are relaxed, and the mint cuttings rest beside her.
+      inner_thought: Never forget you give but to yourself.
+      text_items:
+      - text_type: inner_thought
+        speaker: Amara Ndlovu
+        text: Never forget you give but to yourself.
+        render_as: thought_bubble
+        placement: upper left beside Amara's calm face
+        tail_anchor: Amara Ndlovu
+        avoid_anchor: the notebook page
+    - panel: 3
+      visual: Final exterior evening-soft panel as Amara walks home carrying a small pot of mint and an empty seedling tray. Behind her, the courtyard glows with neighbors tending their plants. Her shawl moves lightly, and her expression is peaceful, not triumphant.
+      caption: Now she was blessed, and now she blessed the world.
+      dialogue: There is enough to share.
+      text_items:
+      - text_type: caption
+        speaker: Narrator
+        text: Now she was blessed, and now she blessed the world.
+        render_as: caption_box
+        placement: top center above the glowing courtyard
+        tail_anchor: null
+        avoid_anchor: Amara's face
+      - text_type: dialogue
+        speaker: Amara Ndlovu
+        text: There is enough to share.
+        render_as: speech_bubble
+        placement: upper left beside Amara's quiet smile
+        tail_anchor: Amara Ndlovu
+        avoid_anchor: the caption box
+image_prompts:
+  overall: 'Create a polished portrait-oriented ACIM Daily Graphic Novel Book sequence in Soft Pastel Slice-of-Life style: warm pastels, cozy ordinary community details, expressive realistic characters, gentle domestic/courtyard textures, and clear readable comic storytelling. Main character Amara Ndlovu must remain visually consistent: bright patterned shawl, short natural hair, community notebook, strong warm presence softening from hidden sacrifice into shared blessing. Avoid halos, superheroes, literal religious clichés, grand savior imagery, and over-symbolic lilies. Use readable caption boxes, speech bubbles, and thought bubbles exactly from text_items with clear ownership and tails.'
+  page_1: 'Render page 1 with 3 clear panels in Soft Pastel Slice-of-Life style. Panel 1 must include the exact title card text on a pastel card clipped to the wooden plant crate: “Lesson 187 — I bless the world because I bless myself.
+
+    Amara Ndlovu”; do not cover Amara’s face, the seedlings, or notebook. Show the courtyard planting day beginning, Amara wanting to keep the healthiest basil, and Sipho asking for one plant for his grandmother. Use text_items exactly.'
+  page_2: Render page 2 with 3 clear panels. Show Amara noticing the fear of loss around the last basil seedling, a grounded symbolic moment of the sacrifice idea dissolving, and a quiet breath where she accepts blessing first. Keep the visual ordinary and pastel; no religious clichés. Use text_items exactly.
+  page_3: Render page 3 with 3 clear panels. Show Amara gladly giving the basil to Sipho, his grandmother receiving the scent with joy, and Naledi offering mint cuttings back to Amara. The exchange should feel practical and tender, proving the idea of care has strengthened. Use text_items exactly.
+  page_4: Render page 4 with 3 clear panels. Show the courtyard care multiplying through neighbors sharing water, cuttings, tea, and laughter; Amara writing the lesson insight in her notebook; and a final gentle walk home with mint and an empty tray. Keep Amara peaceful but not magically healed. Use text_items exactly.
+spanish_practice:
+  phrases:
+  - english: I bless the world because I bless myself.
+    spanish: Bendigo al mundo porque me bendigo a mí misma.
+  - english: Give gladly.
+    spanish: Da con alegría.
+  - english: I cannot lose the blessing I share.
+    spanish: No puedo perder la bendición que comparto.
+suno_prompt: 'Soft devotional folk-pop with gentle South African-inspired percussion, warm acoustic guitar, light handclaps, and tender female lead vocal. Theme: blessing increases as it is shared; giving gladly without sacrifice; ordinary courtyard love becoming a quiet chorus. Keep lyrics simple, hopeful, and ACIM-rooted without long quotes. Include the phrases “Give gladly” and “I bless the world because I bless myself” as short hooks.'
+status: draft
