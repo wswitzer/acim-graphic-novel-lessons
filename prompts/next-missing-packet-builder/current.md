@@ -230,6 +230,8 @@ Preflight and materialization:
 python scripts/validate_packet.py --lesson ### --repo-root /mnt/data/acim-packet-validation
 ```
 
+Run validator preflight and validation with a private/local execution tool or shell/container execution. Do not use user-visible Python execution for internal validation unless the user explicitly asks to see the code/output. If one local execution method fails, try another available local execution method before reporting `VALIDATOR_UNAVAILABLE`.
+
 If validation fails, revise the candidate outputs, rematerialize them, and rerun until it passes. Do not write GitHub output files unless deterministic validation passes.
 
 Only report `VALIDATOR_UNAVAILABLE` if Python, PyYAML, local file writing, or local execution is unavailable after this preflight. Do not report it merely because connector content has not yet been materialized.
