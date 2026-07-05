@@ -91,3 +91,17 @@ stories:
     lesson_digest_summary: "Lesson 185 moves from saying peace words to sincerely wanting God's peace by questioning private dreams, bargains, and compromises, then receiving peace as shared intent."
     daily_path: content/daily/lesson-185.md
     packet_path: content/packets/lesson-185.yaml
+  - story_id: STORY-0186
+    lesson_number: 186
+    date: "2026-07-05"
+    title: "The Chair Left Empty"
+    character_id: CHAR-009
+    character_name: Amara Ndlovu
+    style_id: STYLE-006
+    style_name: European Album Style
+    story_mode: extension
+    arc_temperature: 3
+    summary: "Amara releases the burden of saving a community meeting, listens to an angry neighbor without defending herself, and accepts one given act of forgiveness as love taking a useful form."
+    lesson_digest_summary: "Lesson 186 moves from heroic burden or false humility into accepting the function God gives, trusting the strength for it, and letting forgiveness take the form needed here."
+    daily_path: content/daily/lesson-186.md
+    packet_path: content/packets/lesson-186.yaml
