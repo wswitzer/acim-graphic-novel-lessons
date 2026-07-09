@@ -69,7 +69,8 @@ lessons:
   daily_path: content/daily/lesson-185.md
   status: draft
   validation_passed: true
-  validation_notes: Compact lesson JSON was fetched and idea_clean was used for the lesson digest; first-panel title card and text_items ownership metadata are present.
+  validation_notes: Compact lesson JSON was fetched and idea_clean was used for the lesson digest; first-panel title card
+    and text_items ownership metadata are present.
 - lesson_number: 186
   date: '2026-07-05'
   generated_at_local: '2026-07-04T09:00:00-06:00'
@@ -81,7 +82,8 @@ lessons:
   daily_path: content/daily/lesson-186.md
   status: draft
   validation_passed: true
-  validation_notes: Compact lesson JSON was fetched and idea_clean was used for the lesson digest; first-panel title card and text_items ownership metadata are present.
+  validation_notes: Compact lesson JSON was fetched and idea_clean was used for the lesson digest; first-panel title card
+    and text_items ownership metadata are present.
 - lesson_number: 187
   date: '2026-07-06'
   generated_at_local: '2026-07-04T12:00:00-06:00'
@@ -93,4 +95,18 @@ lessons:
   daily_path: content/daily/lesson-187.md
   status: draft
   validation_passed: true
-  validation_notes: Compact lesson JSON was fetched and idea_clean was used for the lesson digest; first-panel title card and text_items ownership metadata are present.
+  validation_notes: Compact lesson JSON was fetched and idea_clean was used for the lesson digest; first-panel title card
+    and text_items ownership metadata are present.
+- lesson_number: 188
+  date: '2026-07-07'
+  generated_at_local: '2026-07-08T22:45:00-06:00'
+  style_id: STYLE-008
+  character_id: CHAR-009
+  story_mode: deepening
+  arc_temperature: 2
+  packet_path: content/packets/lesson-188.yaml
+  daily_path: content/daily/lesson-188.md
+  status: draft
+  validation_passed: true
+  validation_notes: Compact lesson JSON was fetched and idea_clean was used for the lesson digest; first-panel title card
+    and text_items ownership metadata are present.
