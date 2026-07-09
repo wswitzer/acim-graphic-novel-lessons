@@ -1,0 +1,222 @@
+story_id: STORY-0188
+target_date: '2026-07-07'
+generated_at_local: '2026-07-08T22:45:00-06:00'
+lesson:
+  number: 188
+  title: The peace of God is shining in me now.
+  review_of: null
+  source_url: data/lessons/lesson-188.json
+selection:
+  style_id: STYLE-008
+  style_name: Epic Mythic Symbolism
+  character_id: CHAR-009
+  character_name: Amara Ndlovu
+  character_reference_filename: Amara_ACIM_reference.png
+  story_mode: deepening
+  arc_temperature: 2
+  arc_stage_used: deeper_surrender
+  character_selection_rationale: Amara has appeared in two consecutive lessons, and Lesson 188 offers a natural third and final movement for this short arc before rotating away. The lesson moves from searching for future light into recognizing present inward peace that must shine outward; this lets Amara deepen the Lesson 186-187 shift without turning her into a permanently healed figure. A third consecutive Amara story is allowed by the 2-3 lesson arc rule and is used here to complete a gentle community arc before rotation.
+  character_arc_status: continuing_arc
+  recent_same_character_count: 2
+  lesson_fit_reason: 'Lesson 188 asks the student to stop waiting for peace in outer conditions, look quietly within, and let the recognized light bless all living things. Amara’s active pattern is over-functioning for the community; an ordinary dusk power outage can tempt her to manage everyone’s anxiety, while the lesson invites her to find the light within first and then let calm extend naturally rather than through control.'
+lesson_digest:
+  lesson_text_source_used: data/lessons/lesson-188.json
+  lesson_core_movement: The lesson moves from waiting for Heaven, searching for outer light, or believing peace was lost, into recognizing that the peace of God is already shining within. From that inward recognition, perception is restored and the light naturally extends to all living things as blessing.
+  lesson_practice_shape: The student sits quietly, closes the eyes, excludes the outer world, and gently brings wandering thoughts back to the peace within. Throughout the day the practice is to remember that the light is sufficient now, forgive the world by choosing it innocent, and let all things shine in that peace.
+  key_ideas_for_story:
+  - Peace is recognized now rather than achieved later.
+  - Looking within is the beginning of true vision.
+  - Wandering thoughts can be called home and restored to holiness.
+  - The light within cannot be contained and naturally blesses living things.
+  - Forgiveness follows from recognizing the truth already shining within.
+  useful_short_phrases:
+  - The light within you is sufficient.
+  - The peace of God is shining in you now.
+  - Let me bless them with the light in me.
+  title_overfit_warning: The story will not merely show literal beams of light or a heroic radiant savior. It will show Amara in a real neighborhood power outage, tempted to become the one who fixes everyone’s fear, then quietly recognizing present inward peace and extending calm through small practical gestures.
+story:
+  title: The Courtyard After the Lights Went Out
+  original_theme: Amara learns that peace is not waiting for the electricity, the plan, or the neighborhood mood to return; it is already shining within her and can bless the courtyard without her controlling it.
+  synopsis: 'On a humid evening after the planting day, a sudden power outage drops Amara’s apartment courtyard into darkness. Neighbors call for her because she usually knows what to do, and she feels the familiar pressure to become the community’s emergency light. While searching for candles, she notices her mind racing into lists, worries, and responsibility. Instead of directing everyone, she sits for one quiet minute near the herb table, calls her thoughts back, and lets the peace already in her be enough. When she opens her eyes, the courtyard has not become magical or solved, but it has become gentle: phone lights, candles, mint tea, a crying child comforted, and neighbors helping one another. Amara offers one calm blessing and one practical candle, discovering that the light within was not contained by the outage.'
+continuity:
+  character_memory_used: Amara has just learned that her function is not carrying the whole community alone and that sharing care does not deplete her. She remains strong and warm, but can still over-function when many people look to her for steadiness and can confuse rest with abandoning others.
+  before_state: Amara begins tired but grateful after two community days. When the courtyard goes dark, she feels old responsibility surge and assumes peace must wait until she restores order.
+  inner_movement: She recognizes that trying to become everyone’s outer light is another way of forgetting the light already within. She sits, closes her eyes, calls her scattered thoughts home, and lets quiet perception start within before she acts.
+  miracle_shift: The outage no longer feels like proof that she must manage the whole courtyard. Amara sees the same peace shining through small ordinary acts, and her calm extends without becoming control.
+  unresolved_thread: Amara may still over-function when a real crisis becomes complex, and rest may not always feel safe to her. This story completes a gentle three-lesson arc without erasing her sacrifice pattern permanently.
+  updated_memory_proposal: Amara completed a gentle three-lesson arc in Lesson 188 by practicing that the peace of God is already shining within and does not depend on outer conditions. During a courtyard power outage, she paused before managing everyone, called her wandering thoughts home, and let calm extend through small shared acts rather than control.
+graphic_novel:
+  page_count: 4
+  pages:
+  - page: 1
+    title: When the Outer Light Failed
+    panels:
+    - panel: 1
+      visual: Epic Mythic Symbolism opening panel grounded in a South African apartment courtyard at humid dusk. The electric lights have just gone out, leaving deep blue evening shadows, phone glows, and faint candle points like tiny stars. Amara Ndlovu stands near the herb table in her bright patterned shawl, short natural hair, and community notebook tucked under one arm. A tasteful carved title card plaque hangs from the courtyard gate at the upper center, clearly readable and not covering Amara's face, the herb table, or neighbors with candles.
+      caption: 'Lesson 188 — The peace of God is shining in me now.
+
+        Amara Ndlovu'
+      text_items:
+      - text_type: caption
+        speaker: Narrator
+        text: 'Lesson 188 — The peace of God is shining in me now.
+
+          Amara Ndlovu'
+        render_as: caption_box
+        placement: upper center as a carved title card plaque hanging from the courtyard gate
+        tail_anchor: null
+        avoid_anchor: Amara's face, the herb table, and neighbors holding candles
+    - panel: 2
+      visual: Neighbors lean from balconies and doorways, uncertain in the outage. A child clutches a cup, an older man searches a drawer, and two people look toward Amara as if she will know what to do. Amara is foreground-left, half-lit by a phone screen, with her shoulders beginning to rise under the shawl.
+      dialogue: Amara, do you have candles? What should we do?
+      text_items:
+      - text_type: dialogue
+        speaker: Neighbor
+        text: Amara, do you have candles? What should we do?
+        render_as: speech_bubble
+        placement: upper right above the group of neighbors calling down
+        tail_anchor: Neighbor group
+        avoid_anchor: Amara Ndlovu
+    - panel: 3
+      visual: Close on Amara's hand gripping her community notebook while her other hand touches the empty light switch. Behind her, the dark courtyard seems enormous and mythic, like a calm night sea, but the scene stays ordinary and human. Her expression shows responsibility tightening, not panic.
+      inner_thought: I have to get everyone steady again.
+      text_items:
+      - text_type: inner_thought
+        speaker: Amara Ndlovu
+        text: I have to get everyone steady again.
+        render_as: thought_bubble
+        placement: upper left beside Amara's tense face
+        tail_anchor: Amara Ndlovu
+        avoid_anchor: the light switch and notebook
+  - page: 2
+    title: Calling the Thoughts Home
+    panels:
+    - panel: 1
+      visual: Inside Amara's small kitchen, drawers are open with candles, matches, and a flashlight spread across the counter. The window behind her shows silhouettes of neighbors in the courtyard. The scene has epic mythic contrast, as if practical objects are gathered like quiet sacred tools, but nothing religious or superhero-like appears.
+      inner_thought: Peace can wait until I fix this.
+      text_items:
+      - text_type: inner_thought
+        speaker: Amara Ndlovu
+        text: Peace can wait until I fix this.
+        render_as: thought_bubble
+        placement: top center near Amara's worried eyes
+        tail_anchor: Amara Ndlovu
+        avoid_anchor: matches and candle flames
+    - panel: 2
+      visual: Amara pauses beside the herb table before carrying the candles out. She sits on the low courtyard step with her eyes closed for one minute. The dark walls curve subtly like a protective amphitheater, and faint starlight touches the basil and mint from the previous story. Neighbors remain in soft background silhouettes, waiting but not crowding her.
+      caption: She closed her eyes before she opened another plan.
+      text_items:
+      - text_type: caption
+        speaker: Narrator
+        text: She closed her eyes before she opened another plan.
+        render_as: caption_box
+        placement: bottom left in a dark blue caption box with pale lettering
+        tail_anchor: null
+        avoid_anchor: Amara's closed eyes and the herb leaves
+    - panel: 3
+      visual: Symbolic but grounded close panel of Amara breathing quietly. Around her head are faint non-readable threadlike marks representing scattered tasks and worries drifting inward toward a small warm center in her chest. No literal halo, no religious iconography. Her face softens as her hands unclench around the candle bundle.
+      inner_thought: The light within is sufficient now.
+      text_items:
+      - text_type: inner_thought
+        speaker: Amara Ndlovu
+        text: The light within is sufficient now.
+        render_as: thought_bubble
+        placement: upper right beside Amara's softened face
+        tail_anchor: Amara Ndlovu
+        avoid_anchor: the warm center of light and her hands
+  - page: 3
+    title: A Light That Was Not Her Control
+    panels:
+    - panel: 1
+      visual: Amara opens her eyes and calmly passes candles to two neighbors rather than directing the whole courtyard. Phone lights, small candles, and stars create a mythic constellation across ordinary faces. Her shawl is vivid but her posture is relaxed, standing among others rather than in front of them.
+      dialogue: Here. Let’s share what we have, one step at a time.
+      text_items:
+      - text_type: dialogue
+        speaker: Amara Ndlovu
+        text: Here. Let’s share what we have, one step at a time.
+        render_as: speech_bubble
+        placement: upper left above Amara's calm face
+        tail_anchor: Amara Ndlovu
+        avoid_anchor: the candle flames
+    - panel: 2
+      visual: A young child begins to cry in the dark near the stairwell. Instead of Amara rushing in, Sipho kneels beside the child with a tiny candle in a jar, while his grandmother offers a basil leaf to smell. Amara watches from midground, surprised and relieved to see care moving without her managing it.
+      caption: The peace she recognized did not stay inside her. It moved quietly through everyone.
+      text_items:
+      - text_type: caption
+        speaker: Narrator
+        text: The peace she recognized did not stay inside her. It moved quietly through everyone.
+        render_as: caption_box
+        placement: bottom center in a soft midnight caption box
+        tail_anchor: null
+        avoid_anchor: the child's face, Sipho's candle, and grandmother's hand
+    - panel: 3
+      visual: Neighbor Naledi pours mint tea from a thermos into small cups by candlelight. Another neighbor holds a phone light so an older man can descend the stairs safely. Amara is seated at the edge of the group with her notebook closed, receiving the scene instead of supervising it.
+      inner_thought: I do not have to contain what can only extend.
+      text_items:
+      - text_type: inner_thought
+        speaker: Amara Ndlovu
+        text: I do not have to contain what can only extend.
+        render_as: thought_bubble
+        placement: upper left beside Amara's quiet profile
+        tail_anchor: Amara Ndlovu
+        avoid_anchor: Naledi's teacups and the older man's steps
+  - page: 4
+    title: The Courtyard Shining Back
+    panels:
+    - panel: 1
+      visual: 'Wide mythic courtyard panel: darkness remains, but the space is peaceful. Candles sit safely in jars, phone lights glow like small moons, and neighbors sit together around the herb table. The plants from the previous day catch the candlelight. Amara stands among them, not above them, her shawl patterned like warm earth and night sky.'
+      caption: The outer lights were still out. The courtyard was not dark in the same way.
+      text_items:
+      - text_type: caption
+        speaker: Narrator
+        text: The outer lights were still out. The courtyard was not dark in the same way.
+        render_as: caption_box
+        placement: upper center across the dark sky space
+        tail_anchor: null
+        avoid_anchor: neighbor faces and candle flames
+    - panel: 2
+      visual: 'Close on Amara blessing the ordinary scene with a small gesture: one hand resting over her heart, the other offering a candle to an elderly neighbor. The composition is intimate, not grand. The candlelight illuminates her face and the neighbor's hand equally.'
+      dialogue: Let all things shine in this peace.
+      text_items:
+      - text_type: dialogue
+        speaker: Amara Ndlovu
+        text: Let all things shine in this peace.
+        render_as: speech_bubble
+        placement: upper right beside Amara's gentle mouth
+        tail_anchor: Amara Ndlovu
+        avoid_anchor: the elderly neighbor's face and candle flame
+    - panel: 3
+      visual: 'Final exterior panel from above: the apartment courtyard forms a quiet circle of small lights under the night sky. Amara sits with neighbors, sipping mint tea, her community notebook closed at her side. The image feels epic through scale and tenderness, but entirely ordinary, with no halos or religious symbols.'
+      caption: She had not brought peace to the night. She had recognized it, and the night gave it back.
+      inner_thought: The peace of God is shining in me now.
+      text_items:
+      - text_type: caption
+        speaker: Narrator
+        text: She had not brought peace to the night. She had recognized it, and the night gave it back.
+        render_as: caption_box
+        placement: top center in a narrow night-blue caption box
+        tail_anchor: null
+        avoid_anchor: the circle of neighbors
+      - text_type: inner_thought
+        speaker: Amara Ndlovu
+        text: The peace of God is shining in me now.
+        render_as: thought_bubble
+        placement: lower left beside Amara's peaceful face
+        tail_anchor: Amara Ndlovu
+        avoid_anchor: the caption box and teacup
+image_prompts:
+  overall: 'Create a polished portrait-oriented ACIM Daily Graphic Novel Book sequence in Epic Mythic Symbolism style: grounded human characters in an ordinary apartment courtyard, with mythic scale expressed through night sky, candle constellations, deep blue shadows, warm practical light, and archetypal composition. Main character Amara Ndlovu must remain visually consistent: bright patterned shawl, short natural hair, community notebook, strong warm presence softening from over-functioning into shared quiet. Avoid halos, superheroes, literal religious clichés, grand savior imagery, and unreadable decorative text. Use readable caption boxes, speech bubbles, and thought bubbles exactly from text_items with clear ownership and tails.'
+  page_1: Render page 1 with 3 clear panels in Epic Mythic Symbolism style. Panel 1 must include the exact title card text on a carved plaque hanging from the courtyard gate, not covering Amara, the herb table, or neighbors. Show the power outage beginning at humid dusk, neighbors turning toward Amara, and Amara feeling responsibility tighten. Keep all text exactly as text_items specify.
+  page_2: Render page 2 with 3 clear panels. Show Amara collecting practical candles and then pausing before action, sitting near the herb table with eyes closed. Use subtle mythic night-sea and starlight symbolism, but keep the scene ordinary. The inward light is a soft center of calm, not a halo. Render captions and thought bubbles exactly from text_items.
+  page_3: Render page 3 with 3 clear panels. Show Amara sharing candles without taking control, then care spreading through Sipho, his grandmother, Naledi, and neighbors. Use candle and phone lights as a constellation across ordinary community faces. Speech, caption, and thought bubble ownership must be clear and match text_items.
+  page_4: Render page 4 with 3 clear panels. Show the dark courtyard becoming peaceful through shared candlelight and quiet gestures. Amara offers a candle and receives the community instead of managing it. Final panel from above shows a circle of small lights under the night sky. Use text exactly from text_items and avoid all halos or religious clichés.
+spanish_practice:
+  phrases:
+  - english: The peace of God is shining in me now.
+    spanish: La paz de Dios brilla en mí ahora.
+  - english: The light within is sufficient.
+    spanish: La luz interior es suficiente.
+  - english: Let me bless them with the light in me.
+    spanish: Déjame bendecirlos con la luz en mí.
+suno_prompt: 'Epic devotional ambient soul with South African choral warmth, soft hand percussion, deep dusk synth pads, gentle call-and-response harmonies, and a calm female lead vocal. Theme: present inward peace shining through an ordinary community power outage. Emotional arc: responsibility and darkness into quiet recognition, shared candlelight, and blessing. Avoid triumphal savior energy; keep it tender, communal, grounded, and luminous.'
+status: draft
