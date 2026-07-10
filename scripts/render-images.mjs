@@ -3,25 +3,32 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { execSync } from 'node:child_process';
-import { 
-  parseLessonPacket, 
-  resolveCharacterReference, 
-  generatePageImage, 
-  savePageImage, 
-  gitPushAssets 
+import {
+  parseLessonPacket,
+  resolveCharacterReference,
+  generatePageImage,
+  savePageImage,
+  gitPushAssets
 } from './pipeline-utils.mjs';
 
 // Load config or default values
 const workspaceRoot = process.cwd();
 const autoPush = process.env.AUTO_PUSH === 'true';
 const defaultModel = process.env.IMAGE_MODEL || 'gemini-3.1-flash-lite-image';
+const pythonCommand = process.env.PYTHON || 'python';
+
+function syncImageLog(lessonNumber = null) {
+  const lessonArg = lessonNumber === null ? '' : ` --lesson ${lessonNumber}`;
+  execSync(`${pythonCommand} scripts/sync_lesson_log_images.py${lessonArg}`, {
+    stdio: 'inherit'
+  });
+}
 
 /**
  * Renders the 4 graphic novel pages for a specific lesson.
- * @param {number} lessonNumber 
+ * @param {number} lessonNumber
  */
 async function renderLesson(lessonNumber) {
-  const padded = String(lessonNumber).padStart(3, '0');
   console.log(`==================================================`);
   console.log(`Starting rendering for Lesson ${lessonNumber}...`);
   console.log(`==================================================`);
@@ -38,7 +45,10 @@ async function renderLesson(lessonNumber) {
     refImagePath = resolveCharacterReference(packet.characterId);
     console.log(`Resolved character reference: ${refImagePath}`);
   } catch (error) {
-    console.error(`Warning: Could not resolve reference image for character ${packet.characterId}. Image generation will proceed without a visual seed.`, error.message);
+    console.error(
+      `Warning: Could not resolve reference image for character ${packet.characterId}. Image generation will proceed without a visual seed.`,
+      error.message
+    );
   }
 
   const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
@@ -47,11 +57,11 @@ async function renderLesson(lessonNumber) {
   for (const page of packet.pages) {
     console.log(`Generating Page ${page.pageNum}/4...`);
     console.log(`Prompt: "${page.prompt.slice(0, 100)}..."`);
-    
+
     let attempts = 0;
     const maxAttempts = 3;
     let imageBuffer;
-    
+
     while (attempts < maxAttempts) {
       try {
         attempts++;
@@ -61,10 +71,13 @@ async function renderLesson(lessonNumber) {
         break; // Success
       } catch (error) {
         if (attempts >= maxAttempts) {
-          console.error(`Error generating Page ${page.pageNum} after ${maxAttempts} attempts:`, error.message);
+          console.error(
+            `Error generating Page ${page.pageNum} after ${maxAttempts} attempts:`,
+            error.message
+          );
           throw error;
         }
-        
+
         console.warn(`Attempt ${attempts} failed: ${error.message}. Retrying in 15 seconds...`);
         await sleep(15000);
       }
@@ -72,13 +85,20 @@ async function renderLesson(lessonNumber) {
 
     const savedPath = savePageImage(lessonNumber, page.pageNum, imageBuffer);
     console.log(`Successfully saved: ${savedPath}`);
-    
+
+    // Deterministically reconcile page-image lifecycle state after every saved page.
+    syncImageLog(lessonNumber);
+
     // Add a small delay between pages to prevent immediate rate limit triggers
     await sleep(2000);
   }
 
-  // 4. Git Push if enabled
+  // Confirm the final four-page state before any automated commit.
+  syncImageLog(lessonNumber);
+
+  // 4. Git Push if enabled. Pre-stage the log so the existing asset commit includes it.
   if (autoPush) {
+    execSync('git add data/lesson-log.yaml', { stdio: 'inherit' });
     gitPushAssets(lessonNumber);
   }
 
@@ -105,7 +125,7 @@ function getAvailableLessons() {
 
 /**
  * Checks if images for a given lesson already exist.
- * @param {number} lessonNumber 
+ * @param {number} lessonNumber
  * @returns {boolean}
  */
 function imagesExistForLesson(lessonNumber) {
@@ -125,7 +145,7 @@ function imagesExistForLesson(lessonNumber) {
 async function main() {
   const args = process.argv.slice(2);
   const isLoop = args.includes('--loop') || args.includes('-l');
-  
+
   // Try to find a specific lesson number in the arguments
   let specifiedLesson = null;
   for (const arg of args) {
@@ -138,20 +158,23 @@ async function main() {
 
   // Pull latest changes before proceeding to make sure we are synced
   try {
-    console.log("Syncing with GitHub repository (git pull)...");
+    console.log('Syncing with GitHub repository (git pull)...');
     execSync('git pull', { stdio: 'inherit' });
   } catch (error) {
-    console.warn("Warning: git pull failed, proceeding with local files.", error.message);
+    console.warn('Warning: git pull failed, proceeding with local files.', error.message);
   }
+
+  // Reconcile any historical or externally added image files before deciding what is missing.
+  syncImageLog();
 
   const available = getAvailableLessons();
   if (available.length === 0) {
-    console.error("No lesson packets found in content/packets/. Please generate packets first.");
+    console.error('No lesson packets found in content/packets/. Please generate packets first.');
     process.exit(1);
   }
 
   if (isLoop) {
-    console.log("Running in Loop Mode to render all missing lesson images...");
+    console.log('Running in Loop Mode to render all missing lesson images...');
     for (const num of available) {
       if (!imagesExistForLesson(num)) {
         try {
@@ -170,7 +193,7 @@ async function main() {
       console.error(`Error: Lesson packet for ${targetLesson} does not exist in content/packets/`);
       process.exit(1);
     }
-    
+
     try {
       await renderLesson(targetLesson);
     } catch (error) {
@@ -181,6 +204,6 @@ async function main() {
 }
 
 main().catch(error => {
-  console.error("Fatal error running pipeline:", error.message);
+  console.error('Fatal error running pipeline:', error.message);
   process.exit(1);
 });
