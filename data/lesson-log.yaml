@@ -1,14 +1,38 @@
 lessons:
 - lesson_number: 179
   date: '2026-06-28'
-  generated_at_local: '2026-06-27T22:10:00-06:00'
   style_id: STYLE-019
   character_id: CHAR-011
   story_mode: deepening
   arc_temperature: 2
   packet_path: content/packets/lesson-179.yaml
   daily_path: content/daily/lesson-179.md
-  status: draft
+  packet_status: complete
+  packet_generated_at_local: '2026-06-27T22:10:00-06:00'
+  packet_validation_status: not_recorded
+  packet_validation_notes: Historical packet predates recorded deterministic validation results.
+  page_images:
+    status: complete
+    expected_count: 4
+    generated_count: 4
+    completed_at_local: '2026-07-01T20:25:23-06:00'
+    pages:
+    - page_number: 1
+      status: complete
+      path: assets/images/lesson-179/page-1.png
+      generated_at_local: '2026-07-01T20:25:23-06:00'
+    - page_number: 2
+      status: complete
+      path: assets/images/lesson-179/page-2.png
+      generated_at_local: '2026-07-01T20:25:23-06:00'
+    - page_number: 3
+      status: complete
+      path: assets/images/lesson-179/page-3.png
+      generated_at_local: '2026-07-01T20:25:23-06:00'
+    - page_number: 4
+      status: complete
+      path: assets/images/lesson-179/page-4.png
+      generated_at_local: '2026-07-01T20:25:23-06:00'
 - lesson_number: 180
   date: '2026-06-29'
   style_id: STYLE-020
@@ -17,96 +41,301 @@ lessons:
   arc_temperature: 2
   packet_path: content/packets/lesson-180.yaml
   daily_path: content/daily/lesson-180.md
-  status: draft
+  packet_status: complete
+  packet_generated_at_local: null
+  packet_validation_status: not_recorded
+  packet_validation_notes: Historical packet predates recorded deterministic validation results.
+  page_images:
+    status: complete
+    expected_count: 4
+    generated_count: 4
+    completed_at_local: '2026-07-01T20:26:24-06:00'
+    pages:
+    - page_number: 1
+      status: complete
+      path: assets/images/lesson-180/page-1.png
+      generated_at_local: '2026-07-01T20:26:24-06:00'
+    - page_number: 2
+      status: complete
+      path: assets/images/lesson-180/page-2.png
+      generated_at_local: '2026-07-01T20:26:24-06:00'
+    - page_number: 3
+      status: complete
+      path: assets/images/lesson-180/page-3.png
+      generated_at_local: '2026-07-01T20:26:24-06:00'
+    - page_number: 4
+      status: complete
+      path: assets/images/lesson-180/page-4.png
+      generated_at_local: '2026-07-01T20:26:24-06:00'
 - lesson_number: 181
   date: '2026-06-30'
-  generated_at_local: '2026-06-29T21:16:34-06:00'
   style_id: STYLE-001
   character_id: CHAR-011
   story_mode: relationship_joining
   arc_temperature: 3
   packet_path: content/packets/lesson-181.yaml
   daily_path: content/daily/lesson-181.md
-  status: draft
+  packet_status: complete
+  packet_generated_at_local: '2026-06-29T21:16:34-06:00'
+  packet_validation_status: not_recorded
+  packet_validation_notes: Historical packet predates recorded deterministic validation results.
+  page_images:
+    status: complete
+    expected_count: 4
+    generated_count: 4
+    completed_at_local: '2026-07-02T12:17:24-06:00'
+    pages:
+    - page_number: 1
+      status: complete
+      path: assets/images/lesson-181/page-1.png
+      generated_at_local: '2026-07-02T12:17:24-06:00'
+    - page_number: 2
+      status: complete
+      path: assets/images/lesson-181/page-2.png
+      generated_at_local: '2026-07-02T12:17:24-06:00'
+    - page_number: 3
+      status: complete
+      path: assets/images/lesson-181/page-3.png
+      generated_at_local: '2026-07-02T12:17:24-06:00'
+    - page_number: 4
+      status: complete
+      path: assets/images/lesson-181/page-4.png
+      generated_at_local: '2026-07-02T12:17:24-06:00'
 - lesson_number: 182
   date: '2026-07-01'
-  generated_at_local: '2026-06-30T22:01:00-06:00'
   style_id: STYLE-002
   character_id: CHAR-006
   story_mode: integration
   arc_temperature: 2
   packet_path: content/packets/lesson-182.yaml
   daily_path: content/daily/lesson-182.md
-  status: draft
+  packet_status: complete
+  packet_generated_at_local: '2026-06-30T22:01:00-06:00'
+  packet_validation_status: not_recorded
+  packet_validation_notes: Historical packet predates recorded deterministic validation results.
+  page_images:
+    status: complete
+    expected_count: 4
+    generated_count: 4
+    completed_at_local: '2026-07-01T18:48:12-06:00'
+    pages:
+    - page_number: 1
+      status: complete
+      path: assets/images/lesson-182/page-1.png
+      generated_at_local: '2026-07-01T18:48:12-06:00'
+    - page_number: 2
+      status: complete
+      path: assets/images/lesson-182/page-2.png
+      generated_at_local: '2026-07-01T18:48:12-06:00'
+    - page_number: 3
+      status: complete
+      path: assets/images/lesson-182/page-3.png
+      generated_at_local: '2026-07-01T18:48:12-06:00'
+    - page_number: 4
+      status: complete
+      path: assets/images/lesson-182/page-4.png
+      generated_at_local: '2026-07-01T18:48:12-06:00'
 - lesson_number: 183
   date: '2026-07-02'
-  generated_at_local: '2026-07-01T23:17:12-06:00'
   style_id: STYLE-003
   character_id: CHAR-006
   story_mode: deepening
   arc_temperature: 3
   packet_path: content/packets/lesson-183.yaml
   daily_path: content/daily/lesson-183.md
-  status: draft
+  packet_status: complete
+  packet_generated_at_local: '2026-07-01T23:17:12-06:00'
+  packet_validation_status: not_recorded
+  packet_validation_notes: Historical packet predates recorded deterministic validation results.
+  page_images:
+    status: complete
+    expected_count: 4
+    generated_count: 4
+    completed_at_local: '2026-07-02T12:18:25-06:00'
+    pages:
+    - page_number: 1
+      status: complete
+      path: assets/images/lesson-183/page-1.png
+      generated_at_local: '2026-07-02T12:18:25-06:00'
+    - page_number: 2
+      status: complete
+      path: assets/images/lesson-183/page-2.png
+      generated_at_local: '2026-07-02T12:18:25-06:00'
+    - page_number: 3
+      status: complete
+      path: assets/images/lesson-183/page-3.png
+      generated_at_local: '2026-07-02T12:18:25-06:00'
+    - page_number: 4
+      status: complete
+      path: assets/images/lesson-183/page-4.png
+      generated_at_local: '2026-07-02T12:18:25-06:00'
 - lesson_number: 184
   date: '2026-07-03'
-  generated_at_local: '2026-07-02T23:35:10-06:00'
   style_id: STYLE-004
   character_id: CHAR-010
   story_mode: holy_instant
   arc_temperature: 2
   packet_path: content/packets/lesson-184.yaml
   daily_path: content/daily/lesson-184.md
-  status: draft
+  packet_status: complete
+  packet_generated_at_local: '2026-07-02T23:35:10-06:00'
+  packet_validation_status: not_recorded
+  packet_validation_notes: Historical packet predates recorded deterministic validation results.
+  page_images:
+    status: not_started
+    expected_count: 4
+    generated_count: 0
+    completed_at_local: null
+    pages:
+    - page_number: 1
+      status: not_started
+      path: assets/images/lesson-184/page-1.png
+      generated_at_local: null
+    - page_number: 2
+      status: not_started
+      path: assets/images/lesson-184/page-2.png
+      generated_at_local: null
+    - page_number: 3
+      status: not_started
+      path: assets/images/lesson-184/page-3.png
+      generated_at_local: null
+    - page_number: 4
+      status: not_started
+      path: assets/images/lesson-184/page-4.png
+      generated_at_local: null
 - lesson_number: 185
   date: '2026-07-04'
-  generated_at_local: '2026-07-03T18:05:00-06:00'
   style_id: STYLE-005
   character_id: CHAR-010
   story_mode: relationship_joining
   arc_temperature: 3
   packet_path: content/packets/lesson-185.yaml
   daily_path: content/daily/lesson-185.md
-  status: draft
-  validation_passed: true
-  validation_notes: Compact lesson JSON was fetched and idea_clean was used for the lesson digest; first-panel title card
-    and text_items ownership metadata are present.
+  packet_status: complete
+  packet_generated_at_local: '2026-07-03T18:05:00-06:00'
+  packet_validation_status: passed
+  packet_validation_notes: Compact lesson JSON was fetched and idea_clean was used for the lesson digest; first-panel title card and text_items ownership metadata are present.
+  page_images:
+    status: not_started
+    expected_count: 4
+    generated_count: 0
+    completed_at_local: null
+    pages:
+    - page_number: 1
+      status: not_started
+      path: assets/images/lesson-185/page-1.png
+      generated_at_local: null
+    - page_number: 2
+      status: not_started
+      path: assets/images/lesson-185/page-2.png
+      generated_at_local: null
+    - page_number: 3
+      status: not_started
+      path: assets/images/lesson-185/page-3.png
+      generated_at_local: null
+    - page_number: 4
+      status: not_started
+      path: assets/images/lesson-185/page-4.png
+      generated_at_local: null
 - lesson_number: 186
   date: '2026-07-05'
-  generated_at_local: '2026-07-04T09:00:00-06:00'
   style_id: STYLE-006
   character_id: CHAR-009
   story_mode: extension
   arc_temperature: 3
   packet_path: content/packets/lesson-186.yaml
   daily_path: content/daily/lesson-186.md
-  status: draft
-  validation_passed: true
-  validation_notes: Compact lesson JSON was fetched and idea_clean was used for the lesson digest; first-panel title card
-    and text_items ownership metadata are present.
+  packet_status: complete
+  packet_generated_at_local: '2026-07-04T09:00:00-06:00'
+  packet_validation_status: passed
+  packet_validation_notes: Compact lesson JSON was fetched and idea_clean was used for the lesson digest; first-panel title card and text_items ownership metadata are present.
+  page_images:
+    status: not_started
+    expected_count: 4
+    generated_count: 0
+    completed_at_local: null
+    pages:
+    - page_number: 1
+      status: not_started
+      path: assets/images/lesson-186/page-1.png
+      generated_at_local: null
+    - page_number: 2
+      status: not_started
+      path: assets/images/lesson-186/page-2.png
+      generated_at_local: null
+    - page_number: 3
+      status: not_started
+      path: assets/images/lesson-186/page-3.png
+      generated_at_local: null
+    - page_number: 4
+      status: not_started
+      path: assets/images/lesson-186/page-4.png
+      generated_at_local: null
 - lesson_number: 187
   date: '2026-07-06'
-  generated_at_local: '2026-07-04T12:00:00-06:00'
   style_id: STYLE-007
   character_id: CHAR-009
   story_mode: integration
   arc_temperature: 2
   packet_path: content/packets/lesson-187.yaml
   daily_path: content/daily/lesson-187.md
-  status: draft
-  validation_passed: true
-  validation_notes: Compact lesson JSON was fetched and idea_clean was used for the lesson digest; first-panel title card
-    and text_items ownership metadata are present.
+  packet_status: complete
+  packet_generated_at_local: '2026-07-04T12:00:00-06:00'
+  packet_validation_status: passed
+  packet_validation_notes: Compact lesson JSON was fetched and idea_clean was used for the lesson digest; first-panel title card and text_items ownership metadata are present.
+  page_images:
+    status: not_started
+    expected_count: 4
+    generated_count: 0
+    completed_at_local: null
+    pages:
+    - page_number: 1
+      status: not_started
+      path: assets/images/lesson-187/page-1.png
+      generated_at_local: null
+    - page_number: 2
+      status: not_started
+      path: assets/images/lesson-187/page-2.png
+      generated_at_local: null
+    - page_number: 3
+      status: not_started
+      path: assets/images/lesson-187/page-3.png
+      generated_at_local: null
+    - page_number: 4
+      status: not_started
+      path: assets/images/lesson-187/page-4.png
+      generated_at_local: null
 - lesson_number: 188
   date: '2026-07-07'
-  generated_at_local: '2026-07-08T22:45:00-06:00'
   style_id: STYLE-008
   character_id: CHAR-009
   story_mode: deepening
   arc_temperature: 2
   packet_path: content/packets/lesson-188.yaml
   daily_path: content/daily/lesson-188.md
-  status: draft
-  validation_passed: true
-  validation_notes: Compact lesson JSON was fetched and idea_clean was used for the lesson digest; first-panel title card
-    and text_items ownership metadata are present.
+  packet_status: complete
+  packet_generated_at_local: '2026-07-08T22:45:00-06:00'
+  packet_validation_status: passed
+  packet_validation_notes: Compact lesson JSON was fetched and idea_clean was used for the lesson digest; first-panel title card and text_items ownership metadata are present.
+  page_images:
+    status: not_started
+    expected_count: 4
+    generated_count: 0
+    completed_at_local: null
+    pages:
+    - page_number: 1
+      status: not_started
+      path: assets/images/lesson-188/page-1.png
+      generated_at_local: null
+    - page_number: 2
+      status: not_started
+      path: assets/images/lesson-188/page-2.png
+      generated_at_local: null
+    - page_number: 3
+      status: not_started
+      path: assets/images/lesson-188/page-3.png
+      generated_at_local: null
+    - page_number: 4
+      status: not_started
+      path: assets/images/lesson-188/page-4.png
+      generated_at_local: null
