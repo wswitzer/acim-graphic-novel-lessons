@@ -4,8 +4,11 @@
   "type": "module",
   "scripts": {
     "validate": "node scripts/validate-continuity.mjs",
-    "test": "node --test",
-    "render": "node scripts/render-images.mjs"
+    "test": "node --test && python -m unittest discover -s tests -p 'test_*.py'",
+    "test:node": "node --test",
+    "test:packet-validator": "python -m unittest discover -s tests -p 'test_*.py'",
+    "render": "node scripts/render-images.mjs",
+    "sync:lesson-log": "python scripts/sync_lesson_log_images.py"
   },
   "dependencies": {
     "@google/genai": "^2.10.0",
