@@ -35,8 +35,7 @@ stories:
   style_name: Cinematic Realism
   story_mode: relationship_joining
   arc_temperature: 3
-  summary: Lucia meets a former bandmate she has avoided and practices seeing him as a brother in the present instead of as
-    old evidence.
+  summary: Lucia meets a former bandmate she has avoided and practices seeing him as a brother in the present instead of as old evidence.
   daily_path: content/daily/lesson-181.md
   packet_path: content/packets/lesson-181.yaml
 - story_id: STORY-0182
@@ -49,8 +48,7 @@ stories:
   style_name: Dreamlike Watercolor
   story_mode: integration
   arc_temperature: 2
-  summary: Mateo pauses on a quiet bench between two streets and practices receiving home as inward steadiness before trying
-    to prove where he belongs.
+  summary: Mateo pauses on a quiet bench between two streets and practices receiving home as inward steadiness before trying to prove where he belongs.
   daily_path: content/daily/lesson-182.md
   packet_path: content/packets/lesson-182.yaml
 - story_id: STORY-0183
@@ -63,8 +61,7 @@ stories:
   style_name: Noir Spiritual Drama
   story_mode: deepening
   arc_temperature: 3
-  summary: Mateo notices how nicknames, labels, languages, and family roles split his attention, then practices letting one
-    inward Name gather them into a shared identity.
+  summary: Mateo notices how nicknames, labels, languages, and family roles split his attention, then practices letting one inward Name gather them into a shared identity.
   daily_path: content/daily/lesson-183.md
   packet_path: content/packets/lesson-183.yaml
 - story_id: STORY-0184
@@ -77,8 +74,7 @@ stories:
   style_name: Luminous Fantasy Realism
   story_mode: holy_instant
   arc_temperature: 2
-  summary: Kenji notices that repair tags and customer names can be useful symbols without becoming anyone's reality, then
-    meets an anxious customer beyond her ticket number.
+  summary: Kenji notices that repair tags and customer names can be useful symbols without becoming anyone's reality, then meets an anxious customer beyond her ticket number.
   daily_path: content/daily/lesson-184.md
   packet_path: content/packets/lesson-184.yaml
 - story_id: STORY-0185
@@ -91,10 +87,8 @@ stories:
   style_name: Minimalist Ink and Wash
   story_mode: relationship_joining
   arc_temperature: 3
-  summary: Kenji notices that his wish for a quiet repair-shop encounter is partly a bargain for distance, then joins Mrs.
-    Sato in a sincere shared request for peace before repairing her music box.
-  lesson_digest_summary: Lesson 185 moves from saying peace words to sincerely wanting God's peace by questioning private
-    dreams, bargains, and compromises, then receiving peace as shared intent.
+  summary: Kenji notices that his wish for a quiet repair-shop encounter is partly a bargain for distance, then joins Mrs. Sato in a sincere shared request for peace before repairing her music box.
+  lesson_digest_summary: Lesson 185 moves from saying peace words to sincerely wanting God's peace by questioning private dreams, bargains, and compromises, then receiving peace as shared intent.
   daily_path: content/daily/lesson-185.md
   packet_path: content/packets/lesson-185.yaml
 - story_id: STORY-0186
@@ -107,10 +101,8 @@ stories:
   style_name: European Album Style
   story_mode: extension
   arc_temperature: 3
-  summary: Amara releases the burden of saving a community meeting, listens to an angry neighbor without defending herself,
-    and accepts one given act of forgiveness as love taking a useful form.
-  lesson_digest_summary: Lesson 186 moves from heroic burden or false humility into accepting the function God gives, trusting
-    the strength for it, and letting forgiveness take the form needed here.
+  summary: Amara releases the burden of saving a community meeting, listens to an angry neighbor without defending herself, and accepts one given act of forgiveness as love taking a useful form.
+  lesson_digest_summary: Lesson 186 moves from heroic burden or false humility into accepting the function God gives, trusting the strength for it, and letting forgiveness take the form needed here.
   daily_path: content/daily/lesson-186.md
   packet_path: content/packets/lesson-186.yaml
 - story_id: STORY-0187
@@ -123,10 +115,8 @@ stories:
   style_name: Soft Pastel Slice-of-Life
   story_mode: integration
   arc_temperature: 2
-  summary: Amara gives away the last healthy basil seedling she wanted to keep and discovers that the thought of care is strengthened
-    as neighbors share cuttings, recipes, water, and laughter.
-  lesson_digest_summary: Lesson 187 moves from the belief that giving means loss into the recognition that shared blessing
-    proves and increases what is already accepted within.
+  summary: Amara gives away the last healthy basil seedling she wanted to keep and discovers that the thought of care is strengthened as neighbors share cuttings, recipes, water, and laughter.
+  lesson_digest_summary: Lesson 187 moves from the belief that giving means loss into the recognition that shared blessing proves and increases what is already accepted within.
   daily_path: content/daily/lesson-187.md
   packet_path: content/packets/lesson-187.yaml
 - story_id: STORY-0188
@@ -139,9 +129,21 @@ stories:
   style_name: Epic Mythic Symbolism
   story_mode: deepening
   arc_temperature: 2
-  summary: During a courtyard power outage, Amara pauses before becoming everyone's emergency manager, recognizes present
-    inward peace, and lets calm extend through shared candles, tea, and neighborly care.
-  lesson_digest_summary: Lesson 188 moves from waiting for Heaven or outer light into recognizing that the peace of God is
-    already shining within, then forgiving and blessing all living things from that inward vision.
+  summary: During a courtyard power outage, Amara pauses before becoming everyone's emergency manager, recognizes present inward peace, and lets calm extend through shared candles, tea, and neighborly care.
+  lesson_digest_summary: Lesson 188 moves from waiting for Heaven or outer light into recognizing that the peace of God is already shining within, then forgiving and blessing all living things from that inward vision.
   daily_path: content/daily/lesson-188.md
   packet_path: content/packets/lesson-188.yaml
+- story_id: STORY-0189
+  lesson_number: 189
+  date: '2026-07-08'
+  title: The Plaza She Had Already Judged
+  character_id: CHAR-003
+  character_name: Sofia Reyes
+  style_id: STYLE-009
+  style_name: Urban Magical Realism
+  story_mode: healing_shift
+  arc_temperature: 3
+  summary: After a mural rejection, Sofia releases the need to engineer peace, sees ordinary mercy in the same plaza, and shares one piece of chalk.
+  lesson_digest_summary: Lesson 189 moves from fear-shaped perception and prescribed spiritual routes into empty-handed receiving and a world seen through mercy.
+  daily_path: content/daily/lesson-189.md
+  packet_path: content/packets/lesson-189.yaml

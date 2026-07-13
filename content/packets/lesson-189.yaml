@@ -1,14 +1,264 @@
 story_id: STORY-0189
 target_date: '2026-07-08'
-generated_at_local: '2026-07-10T22:32:10-06:00'
+generated_at_local: '2026-07-13T22:48:00-06:00'
 lesson:
   number: 189
   title: I feel the Love of God within me now.
   review_of: null
   source_url: data/lessons/lesson-189.json
+  prayer: Father, we do not know the way to You. But we have called, and You have answered us. We will not interfere.
 selection:
   style_id: STYLE-009
   style_name: Urban Magical Realism
   character_id: CHAR-003
   character_name: Sofia Reyes
-  character_reference_filename: Sofia
+  character_reference_filename: Sofia_ACIM_reference.png
+  story_mode: healing_shift
+  arc_temperature: 3
+  arc_stage_used: willingness
+  character_selection_rationale: Amara completed the normal three-lesson maximum and her memory explicitly calls for rotation.
+    Sofia has not appeared in the recent sequence, and Lesson 189 naturally meets her fear that tenderness will be used against
+    her.
+  character_arc_status: new_arc_start
+  recent_same_character_count: 0
+  lesson_fit_reason: A rejected mural proposal lets Sofia see how a defended inner state colors an ordinary plaza, while empty-handed
+    stillness lets mercy become visible without changing the external decision.
+lesson_digest:
+  lesson_text_source_used: data/lessons/lesson-189.json
+  lesson_core_movement: Move from fear-shaped perception and learned self-images into allowing the Love already within to
+    be felt, so the same world is seen through mercy and innocence.
+  lesson_practice_shape: Be still, lay aside every concept and judgment, come with empty hands, ask without prescribing the
+    route, and let Love reveal itself and shine outward.
+  key_ideas_for_story:
+  - Perception reflects what is accepted within.
+  - Fear and mercy cannot govern perception at the same time.
+  - The way is allowed rather than engineered.
+  - Empty hands receive beyond defended self-images.
+  - Love felt within reveals innocence in ordinary life.
+  useful_short_phrases:
+  - You will look upon that which you feel within.
+  - Come with wholly empty hands.
+  - We will not interfere.
+  title_overfit_warning: The same imperfect plaza remains; the shift appears through attention, human mercy, and restrained
+    reflections rather than glowing-heart imagery or instant transformation.
+story:
+  title: The Plaza She Had Already Judged
+  original_theme: Sofia discovers that she need not force a loving interpretation of rejection; when she stops prescribing
+    the route to peace, ordinary mercy becomes visible.
+  synopsis: A rejected mural proposal makes Sofia read a Guadalajara plaza as proof that tenderness is foolish. She tries
+    to perfect the reply and redesign herself, then sets down phone and sketchbook and sits with empty hands. The rejection
+    remains, but she notices quiet charity she had filtered out and offers a child one piece of chalk without turning it into
+    a new performance.
+continuity:
+  character_memory_used: Sofia is warm, perceptive, artistic, and guarded when vulnerable; she masks hurt with competence
+    and becomes polite and distant when unseen.
+  before_state: The rejection touches Sofia’s fear that tenderness is unsafe, and she turns hurt into professional polish
+    and a hostile reading of the plaza.
+  inner_movement: She notices she is designing both the mural and the route by which peace must arrive, then releases every
+    self-image for one quiet interval.
+  miracle_shift: The decision remains unchanged, but the plaza no longer feels like a tribunal; ordinary mercy becomes visible
+    and she joins it with one unforced gift.
+  unresolved_thread: Direct criticism may still make Sofia armor herself with competence, and solitary reflection is easier
+    than vulnerable conversation.
+  updated_memory_proposal: Sofia began a new arc in Lesson 189 by setting down her phone and sketchbook after a mural rejection,
+    receiving without prescribing the way, and seeing ordinary mercy that fear had screened out.
+graphic_novel:
+  page_count: 4
+  pages:
+  - page: 1
+    title: The Email in the Bright Plaza
+    panels:
+    - panel: 1
+      visual: Urban Magical Realism in a sunlit Guadalajara plaza after rain. Sofia Reyes, with soft curls, copper earrings,
+        embroidered rust-and-cream jacket, and sketchbook, reads her phone beside a jacaranda. A ceramic-tile title card occupies
+        the upper-left wall without covering her face, phone, sketchbook, earrings, or blossoms.
+      caption: 'Lesson 189 — I feel the Love of God within me now.
+
+        Sofia Reyes'
+      text_items:
+      - text_type: caption
+        speaker: Narrator
+        text: 'Lesson 189 — I feel the Love of God within me now.
+
+          Sofia Reyes'
+        render_as: caption_box
+        placement: upper left as a ceramic-tile title card
+        tail_anchor: null
+        avoid_anchor: Sofia's face, phone, sketchbook, earrings, and jacaranda blossoms
+    - panel: 2
+      visual: Over Sofia's shoulder, a short mural rejection email sits above her colorful neighborhood sketch. Puddles behind
+        her contain faint constellations she does not notice, while the plaza stays realistic and ordinary.
+      caption: The message was three lines long. Her mind supplied the whole city.
+      text_items:
+      - text_type: caption
+        speaker: Narrator
+        text: The message was three lines long. Her mind supplied the whole city.
+        render_as: caption_box
+        placement: bottom center
+        tail_anchor: null
+        avoid_anchor: email header and mural sketch
+    - panel: 3
+      visual: Sofia types a polished reply as angular window reflections make ordinary passersby feel sharp and rejecting,
+        though their actions remain neutral and human.
+      inner_thought: Of course. Tenderness is never what they want.
+      text_items:
+      - text_type: inner_thought
+        speaker: Sofia Reyes
+        text: Of course. Tenderness is never what they want.
+        render_as: thought_bubble
+        placement: upper right beside Sofia
+        tail_anchor: Sofia Reyes
+        avoid_anchor: passersby and phone
+  - page: 2
+    title: Trying to Point the Way
+    panels:
+    - panel: 1
+      visual: At a metal café table Sofia spreads mural sketches and revision lists while faint blueprint arrows hover around
+        her plans, suggesting her attempt to engineer acceptance and control the outcome.
+      inner_thought: I can make it undeniable. I can make them understand.
+      text_items:
+      - text_type: inner_thought
+        speaker: Sofia Reyes
+        text: I can make it undeniable. I can make them understand.
+        render_as: thought_bubble
+        placement: upper left
+        tail_anchor: Sofia Reyes
+        avoid_anchor: sketches and coffee
+    - panel: 2
+      visual: A gust turns one page; Sofia catches it with white knuckles while the floating blueprint arrows tangle above
+        the watercolor paper. Her guarded eyes and copper earring remain clear.
+      caption: She was redesigning the mural, the email, herself—and the way peace was allowed to arrive.
+      text_items:
+      - text_type: caption
+        speaker: Narrator
+        text: She was redesigning the mural, the email, herself—and the way peace was allowed to arrive.
+        render_as: caption_box
+        placement: bottom left
+        tail_anchor: null
+        avoid_anchor: Sofia's hand and face
+    - panel: 3
+      visual: Beneath the jacaranda Sofia places phone and closed sketchbook beside her, then rests both empty hands open
+        on her knees as tangled geometry fades into clear city air.
+      inner_thought: I do not know the way. I will not interfere.
+      text_items:
+      - text_type: inner_thought
+        speaker: Sofia Reyes
+        text: I do not know the way. I will not interfere.
+        render_as: thought_bubble
+        placement: upper center
+        tail_anchor: Sofia Reyes
+        avoid_anchor: open hands, phone, and sketchbook
+  - page: 3
+    title: Empty Hands, Open Eyes
+    panels:
+    - panel: 1
+      visual: Sofia sits quietly with eyes closed and shoulders lowering. Puddle reflections soften from angular shards into
+        rounded bands of sky color, with no halo, deity figure, or literal religious symbol.
+      caption: She let the artist, the rejected woman, and the good student go unnamed for one quiet minute.
+      text_items:
+      - text_type: caption
+        speaker: Narrator
+        text: She let the artist, the rejected woman, and the good student go unnamed for one quiet minute.
+        render_as: caption_box
+        placement: bottom center
+        tail_anchor: null
+        avoid_anchor: Sofia's closed eyes and open hands
+    - panel: 2
+      visual: Sofia opens her eyes and notices a fruit vendor pour clean water for a dusty stray dog. A wet-stone reflection
+        resembles a warm open doorway, subtle enough to be accidental.
+      caption: The plaza had not changed. The witness she brought to it had.
+      text_items:
+      - text_type: caption
+        speaker: Narrator
+        text: The plaza had not changed. The witness she brought to it had.
+        render_as: caption_box
+        placement: upper left
+        tail_anchor: null
+        avoid_anchor: vendor, dog, water bowl, and Sofia
+    - panel: 3
+      visual: Two teenagers return a dropped wallet to an office worker. Sofia watches with the closed sketchbook against
+        her chest but no longer using it as armor; tiny star points appear in a window reflection.
+      inner_thought: Mercy was here while I was proving it absent.
+      text_items:
+      - text_type: inner_thought
+        speaker: Sofia Reyes
+        text: Mercy was here while I was proving it absent.
+        render_as: thought_bubble
+        placement: upper right
+        tail_anchor: Sofia Reyes
+        avoid_anchor: wallet and teenagers
+  - page: 4
+    title: One Piece of Chalk
+    panels:
+    - panel: 1
+      visual: A child draws a chalk garden near the plaza fountain while an elderly woman admires it. Sofia approaches slowly
+        with her sketchbook lowered at her side instead of presented for approval.
+      dialogue: Your garden makes this whole corner kinder.
+      text_items:
+      - text_type: dialogue
+        speaker: Sofia Reyes
+        text: Your garden makes this whole corner kinder.
+        render_as: speech_bubble
+        placement: upper left
+        tail_anchor: Sofia Reyes
+        avoid_anchor: child's face and chalk garden
+    - panel: 2
+      visual: Sofia kneels and offers one turquoise piece of chalk. A puddle briefly reflects the child's simple garden as
+        a lush impossible courtyard, elegant and subtle without religious imagery.
+      dialogue: Would you like this color?
+      text_items:
+      - text_type: dialogue
+        speaker: Sofia Reyes
+        text: Would you like this color?
+        render_as: speech_bubble
+        placement: upper right
+        tail_anchor: Sofia Reyes
+        avoid_anchor: child's eyes, turquoise chalk, and hands
+    - panel: 3
+      visual: Wide late-afternoon plaza. Rejected sketches remain closed on the bench while Sofia watches the child add turquoise
+        leaves. The vendor, teenagers, worker, dog, and elderly woman continue ordinary lives as subtle star-like reflections
+        connect wet pavement.
+      caption: She did not find a better argument. She received a different world.
+      inner_thought: I feel the Love of God within me now.
+      text_items:
+      - text_type: caption
+        speaker: Narrator
+        text: She did not find a better argument. She received a different world.
+        render_as: caption_box
+        placement: top center
+        tail_anchor: null
+        avoid_anchor: all faces and chalk garden
+      - text_type: inner_thought
+        speaker: Sofia Reyes
+        text: I feel the Love of God within me now.
+        render_as: thought_bubble
+        placement: lower right
+        tail_anchor: Sofia Reyes
+        avoid_anchor: Sofia's open hands and child drawing
+image_prompts:
+  overall: 'Create four polished portrait graphic-novel pages in Urban Magical Realism, exactly three panels each. Preserve
+    Sofia Reyes consistently: soft curls, copper earrings, embroidered rust-and-cream clothing, sketchbook, and expressive
+    guarded-then-softening eyes. Use subtle impossible beauty in puddle and window reflections. No halos, superheroes, literal
+    religious clichés, glowing hearts, or long ACIM quotations. Follow text_items exactly.'
+  page_1: 'Portrait page with exactly three panels in a rainy Guadalajara plaza. Panel 1 must include the exact ceramic-tile
+    title card “Lesson 189 — I feel the Love of God within me now.
+
+    Sofia Reyes” at upper left without covering Sofia or key objects. Follow page 1 visuals and text_items exactly.'
+  page_2: Portrait page with exactly three panels showing Sofia engineering a response, noticing her clenched hand, then placing
+    phone and sketchbook aside with empty hands. Follow page 2 visuals and text_items exactly.
+  page_3: Portrait page with exactly three panels showing quiet stillness, a vendor giving water to a dog, and teenagers returning
+    a wallet. Keep the magical realism restrained. Follow page 3 visuals and text_items exactly.
+  page_4: Portrait page with exactly three panels showing a child’s chalk garden, Sofia offering turquoise chalk, and a wide
+    final plaza with subtle star-like reflections. Follow page 4 visuals and text_items exactly.
+spanish_practice:
+  phrases:
+  - english: I feel the Love of God within me now.
+    spanish: Siento el Amor de Dios dentro de mí ahora.
+  - english: Come with wholly empty hands.
+    spanish: Ven con las manos completamente vacías.
+  - english: We will not interfere.
+    spanish: No interferiremos.
+suno_prompt: Warm urban devotional art-pop with gentle Latin percussion, soft guitar, intimate female vocal, and subtle city
+  ambience. Move from defended disappointment into empty-handed stillness and quiet mercy in ordinary life. Use the lesson
+  title once as a simple refrain; avoid sermonizing and grand religious clichés.
+status: draft
